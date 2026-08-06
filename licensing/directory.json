@@ -1,0 +1,15 @@
+{
+  "entries" : [
+    {
+      "allowedProducts" : [
+        "qa-toolkit",
+        "distribution-toolkit",
+        "preproduction-toolkit"
+      ],
+      "revoked" : false,
+      "tokenID" : "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
+      "username" : "gustavo",
+      "visibility" : "locked"
+    }
+  ]
+}
