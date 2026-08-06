@@ -2,9 +2,10 @@
   "entries" : [
     {
       "allowedProducts" : [
-        "qa-toolkit",
         "distribution-toolkit",
-        "preproduction-toolkit"
+        "preproduction-toolkit",
+        "asrec-validator",
+        "qa-toolkit"
       ],
       "revoked" : false,
       "tokenID" : "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
