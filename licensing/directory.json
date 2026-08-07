@@ -2,10 +2,11 @@
   "entries" : [
     {
       "allowedProducts" : [
-        "distribution-toolkit",
         "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
         "asrec-validator",
-        "qa-toolkit"
+        "merge-stems-tool"
       ],
       "isAdmin" : false,
       "revoked" : false,
