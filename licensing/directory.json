@@ -18,8 +18,9 @@
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
-        "asrec-validator",
-        "merge-stems-tool"
+        "script-toolkit",
+        "merge-stems-tool",
+        "asrec-validator"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -31,8 +32,9 @@
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
-        "asrec-validator",
-        "merge-stems-tool"
+        "script-toolkit",
+        "merge-stems-tool",
+        "asrec-validator"
       ],
       "isAdmin" : true,
       "revoked" : false,
