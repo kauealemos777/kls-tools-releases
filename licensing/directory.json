@@ -4,12 +4,10 @@
       "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
+        "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
         "asrec-validator"
-      ],
-      "hiddenProducts" : [
-        "qa-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
