@@ -2,14 +2,14 @@
   "entries" : [
     {
       "allowedProducts" : [
-        "merge-stems-tool",
+        "preproduction-toolkit",
         "asrec-validator"
       ],
       "hiddenProducts" : [
         "script-toolkit"
       ],
       "isAdmin" : false,
-      "revoked" : true,
+      "revoked" : false,
       "tokenID" : "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
       "username" : "gustavo"
     },
