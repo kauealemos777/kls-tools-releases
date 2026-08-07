@@ -1,7 +1,7 @@
 {
-  "entries" : [
+  "entries": [
     {
-      "allowedProducts" : [
+      "allowedProducts": [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -9,13 +9,13 @@
         "merge-stems-tool",
         "asrec-validator"
       ],
-      "isAdmin" : false,
-      "revoked" : false,
-      "tokenID" : "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
-      "username" : "gustavo"
+      "isAdmin": false,
+      "revoked": false,
+      "tokenID": "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
+      "username": "gustavo"
     },
     {
-      "allowedProducts" : [
+      "allowedProducts": [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -23,13 +23,13 @@
         "merge-stems-tool",
         "asrec-validator"
       ],
-      "isAdmin" : true,
-      "revoked" : false,
-      "tokenID" : "tok_F34A854A-4AC5-4796-9344-2872AF97B896",
-      "username" : "kaue"
+      "isAdmin": true,
+      "revoked": false,
+      "tokenID": "tok_F34A854A-4AC5-4796-9344-2872AF97B896",
+      "username": "kaue"
     },
     {
-      "allowedProducts" : [
+      "allowedProducts": [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -37,10 +37,10 @@
         "merge-stems-tool",
         "asrec-validator"
       ],
-      "isAdmin" : true,
-      "revoked" : false,
-      "tokenID" : "tok_E8E62405-D8F5-4B70-AD7F-56A24912CEB6",
-      "username" : "kaue"
+      "isAdmin": true,
+      "revoked": false,
+      "tokenID": "tok_E8E62405-D8F5-4B70-AD7F-56A24912CEB6",
+      "username": "kaue"
     }
   ]
 }
