@@ -4,6 +4,7 @@
       "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
+        "qa-toolkit",
         "merge-stems-tool",
         "asrec-validator"
       ],
