@@ -1,8 +1,8 @@
 {
   "displayName": "As-REC Toolkit",
-  "latestVersion": "1.5",
+  "latestVersion": "1.6",
   "installedAppName": "As-REC Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/asrec-toolkit-v1.5/As-REC.Toolkit.1.5.dmg",
-  "sha256": "dc73fb748046a802c987d123a597ab49f78230dd7ad1012f8025a6999169adb4",
-  "releasedAt": "2026-08-06"
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/asrec-toolkit-v1.6/As-REC.Toolkit.1.6.dmg",
+  "sha256": "f5fec5758e459fe05488c18fc824b1bcfbbd55dc5cf70c5784cd11089f60f4bd",
+  "releasedAt": "2026-08-07"
 }
