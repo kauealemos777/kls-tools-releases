@@ -1,8 +1,8 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "1.4",
+  "latestVersion": "1.5",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/audio-qa-toolkit/Audio%20QA%20Toolkit%201.4.dmg",
-  "sha256": "aac5bcba54c5f20bb2ec534b409379b62c27546a1b7556b00ba745b810bdfa51",
-  "releasedAt": "2026-08-06"
+  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/audio-qa-toolkit/Audio%20QA%20Toolkit%201.5.dmg",
+  "sha256": "f4fc3cb8e658d89c2d9133d17022773f90c163019140a779caacb34147442689",
+  "releasedAt": "2026-08-07"
 }
