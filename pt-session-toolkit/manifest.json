@@ -1,8 +1,8 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/pt-session-toolkit/PT%20Session%20Toolkit%201.0.dmg",
-  "sha256": "c80041ea241dd0b1fbe582ec5127113e843918ca06792626d5ca2fc6217cdbad",
-  "releasedAt": "2026-08-06"
+  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/pt-session-toolkit/PT%20Session%20Toolkit%201.1.dmg",
+  "sha256": "7870a7c80bb3f5aa76c330a4b9711206c52c4c90365e31b35952cdcff64bd735",
+  "releasedAt": "2026-08-07"
 }
