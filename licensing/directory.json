@@ -2,13 +2,14 @@
   "entries" : [
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
-        "distribution-toolkit",
-        "merge-stems-tool",
         "asrec-validator"
       ],
       "hiddenProducts" : [
-        "qa-toolkit"
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool"
       ],
       "isAdmin" : false,
       "revoked" : false,
