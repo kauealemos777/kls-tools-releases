@@ -5,9 +5,11 @@
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
-        "script-toolkit",
         "merge-stems-tool",
         "asrec-validator"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
