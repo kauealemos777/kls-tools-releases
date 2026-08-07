@@ -14,7 +14,6 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
         "asrec-validator",
@@ -27,7 +26,6 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
         "asrec-validator",
