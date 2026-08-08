@@ -74,7 +74,8 @@
         "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool"
+        "merge-stems-tool",
+        "voice-fx-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
