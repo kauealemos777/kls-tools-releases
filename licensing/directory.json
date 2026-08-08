@@ -50,9 +50,6 @@
         "qa-toolkit",
         "merge-stems-tool"
       ],
-      "hiddenProducts" : [
-        "script-toolkit"
-      ],
       "isAdmin" : false,
       "revoked" : false,
       "tokenID" : "tok_FC8C2684-C427-4001-B988-5F39A405E799",
