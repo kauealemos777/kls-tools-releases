@@ -1,8 +1,8 @@
 {
   "displayName": "Script Toolkit",
-  "latestVersion": "1.10",
+  "latestVersion": "1.11",
   "installedAppName": "Script Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.10/Script.Toolkit.1.10.dmg",
-  "sha256": "5caa47b80a97c67c57efb027a2c65caf7fe7d758b1eb009d8a0ab722002e9ba5",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.11/Script.Toolkit.1.11.dmg",
+  "sha256": "e106dfdced97c0cfa75c73109af4bf483545cc0ca507258c6541b4b83e00076a",
   "releasedAt": "2026-08-07"
 }
