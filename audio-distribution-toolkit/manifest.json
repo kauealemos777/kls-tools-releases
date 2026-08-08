@@ -1,8 +1,8 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.21",
+  "latestVersion": "3.22",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/audio-distribution-toolkit/Audio%20Distribution%20Toolkit%203.21.dmg",
-  "sha256": "82b89254faa74b366728372c9bf03176c5bc896d463a8dab993c0e3e5cd874b3",
+  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/audio-distribution-toolkit/Audio%20Distribution%20Toolkit%203.22.dmg",
+  "sha256": "7a360a2f838676f939db1566b3cd6f9e1af8f9dcac8745d1db450b74cc380f6e",
   "releasedAt": "2026-08-07"
 }
