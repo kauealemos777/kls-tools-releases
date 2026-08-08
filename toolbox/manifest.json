@@ -1,8 +1,8 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.8",
+  "latestVersion": "1.9",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/toolbox/KL's%20Audio%20Localization%20Toolbox%201.8.dmg",
-  "sha256": "c69548faf708c9ebe070b779d31c32b92bff64202268cacc6c152baba84a4bf6",
+  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/toolbox/KL's%20Audio%20Localization%20Toolbox%201.9.dmg",
+  "sha256": "6f12140ae4babeb2b18d56c05fb2a436a6e7db2925871f40c784f35438250f45",
   "releasedAt": "2026-08-07"
 }
