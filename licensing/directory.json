@@ -63,7 +63,7 @@
         "script-toolkit",
         "merge-stems-tool"
       ],
-      "isAdmin" : false,
+      "isAdmin" : true,
       "revoked" : false,
       "tokenID" : "tok_76C9EBB6-AB0A-4E68-88BE-3905FF3B166F",
       "username" : "Kaue Lemos"
@@ -80,6 +80,20 @@
       "isAdmin" : true,
       "revoked" : false,
       "tokenID" : "tok_62CE7BB1-3C7C-4E7E-A992-C23F0499928D",
+      "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "voice-fx-toolkit"
+      ],
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_DECE51F6-CEFD-4F54-90B7-8FEA430AE08E",
       "username" : "Kaue Lemos"
     }
   ]
