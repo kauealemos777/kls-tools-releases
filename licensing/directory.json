@@ -24,6 +24,9 @@
         "merge-stems-tool",
         "voice-fx-toolkit"
       ],
+      "hiddenProducts" : [
+        "document-builder-toolkit"
+      ],
       "isAdmin" : true,
       "revoked" : false,
       "tokenID" : "tok_F34A854A-4AC5-4796-9344-2872AF97B896",
@@ -37,6 +40,9 @@
         "script-toolkit",
         "merge-stems-tool",
         "voice-fx-toolkit"
+      ],
+      "hiddenProducts" : [
+        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -64,6 +70,9 @@
         "merge-stems-tool",
         "voice-fx-toolkit"
       ],
+      "hiddenProducts" : [
+        "document-builder-toolkit"
+      ],
       "isAdmin" : true,
       "revoked" : false,
       "tokenID" : "tok_76C9EBB6-AB0A-4E68-88BE-3905FF3B166F",
@@ -77,6 +86,9 @@
         "script-toolkit",
         "merge-stems-tool",
         "voice-fx-toolkit"
+      ],
+      "hiddenProducts" : [
+        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -92,6 +104,9 @@
         "merge-stems-tool",
         "voice-fx-toolkit"
       ],
+      "hiddenProducts" : [
+        "document-builder-toolkit"
+      ],
       "isAdmin" : true,
       "revoked" : false,
       "tokenID" : "tok_DECE51F6-CEFD-4F54-90B7-8FEA430AE08E",
@@ -105,6 +120,9 @@
         "script-toolkit",
         "merge-stems-tool",
         "voice-fx-toolkit"
+      ],
+      "hiddenProducts" : [
+        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
