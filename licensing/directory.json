@@ -17,12 +17,10 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
-        "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
-        "asrec-validator"
+        "voice-fx-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -31,12 +29,10 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
-        "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
-        "asrec-validator"
+        "voice-fx-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -57,11 +53,10 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
-        "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool"
+        "merge-stems-tool",
+        "voice-fx-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -70,8 +65,6 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
-        "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
@@ -84,8 +77,6 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
-        "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
