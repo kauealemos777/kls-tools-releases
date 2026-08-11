@@ -17,9 +17,13 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool",
+        "merge-stems-tool"
+      ],
+      "hiddenProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
         "voice-fx-toolkit"
       ],
       "isAdmin" : true,
@@ -29,9 +33,13 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool",
+        "merge-stems-tool"
+      ],
+      "hiddenProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
         "voice-fx-toolkit"
       ],
       "isAdmin" : true,
@@ -53,9 +61,13 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool",
+        "merge-stems-tool"
+      ],
+      "hiddenProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
         "voice-fx-toolkit"
       ],
       "isAdmin" : true,
@@ -65,9 +77,13 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool",
+        "merge-stems-tool"
+      ],
+      "hiddenProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
         "voice-fx-toolkit"
       ],
       "isAdmin" : true,
@@ -77,9 +93,13 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool",
+        "merge-stems-tool"
+      ],
+      "hiddenProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
         "voice-fx-toolkit"
       ],
       "isAdmin" : true,
