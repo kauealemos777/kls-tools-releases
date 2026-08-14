@@ -142,6 +142,20 @@
       "revoked" : false,
       "tokenID" : "tok_71A788D8-CD60-4CB0-BE45-D92844F8366C",
       "username" : "Pedro Nunes"
+    },
+    {
+      "allowedProducts" : [
+        "qa-toolkit",
+        "distribution-toolkit",
+        "voice-fx-toolkit",
+        "merge-stems-tool",
+        "preproduction-toolkit",
+        "script-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_D8BEF4C3-6918-49B8-A890-C748E3110A2A",
+      "username" : "Pedro Nunes"
     }
   ]
 }
