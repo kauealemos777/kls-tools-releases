@@ -131,12 +131,13 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
-        "distribution-toolkit",
-        "voice-fx-toolkit",
-        "merge-stems-tool",
         "preproduction-toolkit",
-        "script-toolkit"
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
@@ -145,12 +146,13 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
-        "distribution-toolkit",
-        "voice-fx-toolkit",
-        "merge-stems-tool",
         "preproduction-toolkit",
-        "script-toolkit"
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
