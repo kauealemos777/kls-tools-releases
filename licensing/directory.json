@@ -22,10 +22,8 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit"
-      ],
-      "hiddenProducts" : [
-        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -39,10 +37,8 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit"
-      ],
-      "hiddenProducts" : [
-        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -68,10 +64,8 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit"
-      ],
-      "hiddenProducts" : [
-        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -85,10 +79,8 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit"
-      ],
-      "hiddenProducts" : [
-        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -102,10 +94,8 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit"
-      ],
-      "hiddenProducts" : [
-        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -119,10 +109,8 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit"
-      ],
-      "hiddenProducts" : [
-        "document-builder-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
