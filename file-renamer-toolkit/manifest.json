@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "0.4",
+  "latestVersion": "0.5",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v0.4/File.Renamer.Toolkit.0.4.dmg",
-  "sha256": "ce607c9ba5b7162e6fe5f25dbc7370b0aa80f0faf67e0264aaa7155875d0b771",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v0.5/File.Renamer.Toolkit.0.5.dmg",
+  "sha256": "dcf524c6796c44c9dd1db1063897352fcc7681f2ebdbf515af1286a231f8e215",
   "releasedAt": "2026-08-17",
-  "headline": "Say it, don't build it",
+  "headline": "Meet K",
   "highlights": [
-    "Describe a rule in plain words \u2014 keep or remove, EN or PT \u2014 with a live example first",
-    "Issues arrive with their one-click fixes, led by Make Duplicates Unique",
-    "Import options inside the open panel; new Settings window (\u2318,); wider sidebar"
+    "K, the assistant: rules and list commands in plain words \u2014 EN or PT",
+    "Script Match: translations, detected languages, graded confidence",
+    "Add-or-replace on drop, robust paste, instant large folders"
   ]
 }
