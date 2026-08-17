@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.1",
+  "latestVersion": "1.2",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.1/File.Renamer.Toolkit.1.1.dmg",
-  "sha256": "68bbb0e368d2797b4b0d6ec1f727147c8251771208b36b93952a214aceea21f0",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.2/File.Renamer.Toolkit.1.2.dmg",
+  "sha256": "327b1ea6c0e620dee34727abeeef517c90ac3cc897212a2e3f866b1b835bb249",
   "releasedAt": "2026-08-17",
-  "headline": "The review round",
+  "headline": "Ventura joins the family",
   "highlights": [
-    "Paste a real grid — labeled columns, extra columns, no clipboard surprises",
-    "Every unmatched clip says why: heard text, language, and a plain note",
-    "Players fixed, translation progress bar, Stop that stops, honest Approve All"
+    "Runs on macOS 13 Ventura — 2017 Intel iMacs included",
+    "K remembers your asks — ↑/↓ recall, terminal style",
+    "Language tags read once, in English"
   ]
 }
