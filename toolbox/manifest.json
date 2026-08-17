@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.25",
+  "latestVersion": "1.26",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.25/KL.s.Audio.Localization.Toolbox.1.25.dmg",
-  "sha256": "a1d3ce7866d1a6c0b7c161a4518faee370faff1a7ae02b2dcc8118a506a9ed58",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.26/KL.s.Audio.Localization.Toolbox.1.26.dmg",
+  "sha256": "c29d22f35e057204149415c54e33fa2939e5e82b7911dce797446906e41f1b1c",
   "releasedAt": "2026-08-17",
-  "headline": "The licence term, drawn",
+  "headline": "Video Converter Toolkit ships",
   "highlights": [
-    "Every device shows its licence as a bar draining green through amber to red",
-    "Each person's expiry date is always on their row \u2014 no click needed"
+    "Video Converter Toolkit 1.0 installs from the Production Tools shelf",
+    "The tile wears its real artwork \u2014 UPCOMING no more"
   ]
 }
