@@ -1,14 +1,13 @@
 {
   "displayName": "Script Toolkit",
-  "latestVersion": "1.14",
+  "latestVersion": "1.15",
   "installedAppName": "Script Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.14/Script.Toolkit.1.14.dmg",
-  "sha256": "7f3d5748b4e5b726cf18be7b160a397d4083edbe901e7735eacaabcd1d30cc2f",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.15/Script.Toolkit.1.15.dmg",
+  "sha256": "6574c06f2ba97a67911e61dc3a8e07b024b846a847c94bb315d9a75b5f4cd9f1",
   "releasedAt": "2026-08-07",
-  "headline": "Transcription out of the box",
+  "headline": "Runs on Sonoma 14.4",
   "highlights": [
-    "Speech model included — transcription works on first launch",
-    "Grammar and spelling pass in seven languages, offline",
-    "Keeps itself up to date — the Toolbox is optional"
+    "Now runs on macOS 14.4 Sonoma",
+    "Speech model included — transcription works on first launch"
   ]
 }

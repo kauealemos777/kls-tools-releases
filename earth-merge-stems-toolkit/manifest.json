@@ -1,13 +1,12 @@
 {
   "displayName": "EARTH · Merge Stems Toolkit",
-  "latestVersion": "1.8",
+  "latestVersion": "1.9",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.8/EARTH.Merge.Stems.Toolkit.1.8.dmg",
-  "sha256": "aeb1f6dd6eadec100ac41ff3c14dec9de9ad3376b9a18adb9b139a5d46ea7140",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.9/EARTH.Merge.Stems.Toolkit.1.9.dmg",
+  "sha256": "0997f6ac7aa955daa47aaf86adadf767d04e87eee1801d976eb30417818ead4a",
   "releasedAt": "2026-08-07",
-  "headline": "Independent and signed",
+  "headline": "Runs on Sonoma",
   "highlights": [
-    "Licence agreement on first launch",
-    "Keeps itself up to date — the Toolbox is optional"
+    "Now runs on macOS 14 Sonoma"
   ]
 }

@@ -1,14 +1,13 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.24",
+  "latestVersion": "3.25",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.24/Audio.Distribution.Toolkit.3.24.dmg",
-  "sha256": "cafde5ef13f1487f5a6ed1c15805b6ddc6d30a1239c09ebf8f66c3485b2ced7d",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.25/Audio.Distribution.Toolkit.3.25.dmg",
+  "sha256": "8ab2164862fbddb67092940fd8c6822d225f36952defb6d2be7e571e0de59081",
   "releasedAt": "2026-08-07",
-  "headline": "Transcription out of the box",
+  "headline": "Runs on Sonoma",
   "highlights": [
-    "Speech model included — transcription works on first launch",
-    "One shared model folder serves every tool",
-    "Keeps itself up to date — the Toolbox is optional"
+    "Now runs on macOS 14 Sonoma",
+    "Speech model included — transcription works on first launch"
   ]
 }

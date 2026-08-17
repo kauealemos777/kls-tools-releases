@@ -1,14 +1,13 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.5",
+  "latestVersion": "1.6",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.5/PT.Session.Toolkit.1.5.dmg",
-  "sha256": "9aee6fffb4c7c3e2a77137bb8703c827749f466b8c199c1d41e3ffa7eae8720f",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.6/PT.Session.Toolkit.1.6.dmg",
+  "sha256": "af0b53239927ba685a9c8a108b6507c730f12afbd84e1b3bad12429c6d5b3bff",
   "releasedAt": "2026-08-07",
-  "headline": "Independent and signed",
+  "headline": "Runs on Sonoma",
   "highlights": [
-    "Licence agreement on first launch",
-    "Keeps itself up to date — the Toolbox is optional",
-    "Reports its own usage"
+    "Now runs on macOS 14 Sonoma",
+    "Building in Pro Tools remains a macOS 15 feature — its transport requires it"
   ]
 }
