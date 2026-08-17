@@ -23,7 +23,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "video-converter-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -38,7 +39,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "video-converter-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -65,7 +67,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "video-converter-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -80,7 +83,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "video-converter-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -95,7 +99,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "video-converter-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -110,7 +115,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "video-converter-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
