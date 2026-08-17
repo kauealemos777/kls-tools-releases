@@ -1,8 +1,8 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/document-builder-toolkit/Document%20Builder%20Toolkit%201.0.dmg",
-  "sha256": "29df963f8bceccca64cc5f1fa0fa7398b4be0216f81c4aaa385210452af7274c",
-  "releasedAt": "2026-08-16"
+  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/document-builder-toolkit/Document%20Builder%20Toolkit%201.1.dmg",
+  "sha256": "51907abd42cb78dd72e353a967b66a6660246a48067d59d2d82a0399349c98f3",
+  "releasedAt": "2026-08-17"
 }
