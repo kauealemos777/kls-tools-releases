@@ -195,6 +195,17 @@
       "revoked" : false,
       "tokenID" : "tok_75FE6681-E713-40E3-9D13-FFDA73EEB3F7",
       "username" : "gustavo"
+    },
+    {
+      "allowedProducts" : [
+        "file-renamer-toolkit",
+        "preproduction-toolkit",
+        "distribution-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_4F1462D5-1140-4AEC-ABDA-A4BA6CC7CE80",
+      "username" : "Rafael Miranda"
     }
   ]
 }
