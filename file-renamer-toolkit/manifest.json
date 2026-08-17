@@ -1,15 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "0.2",
+  "latestVersion": "0.3",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v0.2/File.Renamer.Toolkit.0.2.dmg",
-  "sha256": "431b26e55673d22ecfc73255a1dbb6b7a381bfbbe193736744598ca0788037c1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v0.3/File.Renamer.Toolkit.0.3.dmg",
+  "sha256": "d105120a3f8c3143511ee17cf5491fa0d8d7a59ca3cf099f4f8b79c453e65f8e",
   "releasedAt": "2026-08-17",
-  "headline": "Batch renaming with a safety net",
+  "headline": "Green means new",
   "highlights": [
-    "Chained rules with a live preview that paints every change",
-    "Swaps and name cycles ordered safely \u2014 and every batch undoable",
-    "Names from tables or from the script itself, transcribed on-device in any language",
-    "Templates travel as single shareable files"
+    "Everything a rename adds is green \u2014 instantly readable",
+    "Filter, sort, and group by file kind with one click",
+    "Header layout fix"
   ]
 }
