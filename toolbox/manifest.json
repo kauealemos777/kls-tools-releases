@@ -1,12 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.27",
+  "latestVersion": "1.28",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.27/KL.s.Audio.Localization.Toolbox.1.27.dmg",
-  "sha256": "9d595e39eef806e4e76427cd316294446d483f0230273a9343e46a950bd6a88f",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.28/KL.s.Audio.Localization.Toolbox.1.28.dmg",
+  "sha256": "adf9f7a6e1114060b6608a0374ddcafe996b62af945caf4d89931646c12d84a5",
   "releasedAt": "2026-08-17",
-  "headline": "File Renamer Toolkit arrives",
+  "headline": "The information strip holds still",
   "highlights": [
-    "File Renamer Toolkit \u2014 batch renaming with a safety net \u2014 is live on the Production Tools shelf"
+    "One fixed height for every tool — the grid never shifts as the pointer moves",
+    "Colour-coded columns, bigger type, and What's New beside the features"
   ]
 }
