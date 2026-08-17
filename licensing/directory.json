@@ -140,6 +140,7 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit"
@@ -156,6 +157,7 @@
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
+        "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit"
