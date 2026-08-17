@@ -198,15 +198,17 @@
     },
     {
       "allowedProducts" : [
-        "preproduction-toolkit",
         "distribution-toolkit",
+        "file-renamer-toolkit"
+      ],
+      "hiddenProducts" : [
+        "preproduction-toolkit",
         "qa-toolkit",
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
         "voice-fx-toolkit",
-        "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "video-converter-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
