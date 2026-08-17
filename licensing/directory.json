@@ -158,6 +158,21 @@
       "revoked" : false,
       "tokenID" : "tok_68AD3915-E333-4CA0-8626-472AA0E4D01C",
       "username" : "Matthew Montanez"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "merge-stems-tool"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_75FE6681-E713-40E3-9D13-FFDA73EEB3F7",
+      "username" : "gustavo"
     }
   ]
 }
