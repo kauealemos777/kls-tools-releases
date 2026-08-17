@@ -1,12 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.37",
+  "latestVersion": "1.38",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.37/KL.s.Audio.Localization.Toolbox.1.37.dmg",
-  "sha256": "f0a9e9a5d8b09728a468544053886235d7045434b5f595a20fec8145c4fd3299",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.38/KL.s.Audio.Localization.Toolbox.1.38.dmg",
+  "sha256": "5b5e447660aed57bceb78d553188106670f6a43b96fd4cd00737e31187c2ac23",
   "releasedAt": "2026-08-17",
-  "headline": "Groundwork for Ventura",
+  "headline": "The title holds one line",
   "highlights": [
-    "The licensing core now runs down to macOS 13 — the studio's Ventura Macs can join the family"
+    "The sidebar header never breaks onto a second line — the full name always shows"
   ]
 }
