@@ -1,13 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.26",
+  "latestVersion": "1.27",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.26/KL.s.Audio.Localization.Toolbox.1.26.dmg",
-  "sha256": "c29d22f35e057204149415c54e33fa2939e5e82b7911dce797446906e41f1b1c",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.27/KL.s.Audio.Localization.Toolbox.1.27.dmg",
+  "sha256": "9d595e39eef806e4e76427cd316294446d483f0230273a9343e46a950bd6a88f",
   "releasedAt": "2026-08-17",
-  "headline": "Video Converter Toolkit ships",
+  "headline": "File Renamer Toolkit arrives",
   "highlights": [
-    "Video Converter Toolkit 1.0 installs from the Production Tools shelf",
-    "The tile wears its real artwork \u2014 UPCOMING no more"
+    "File Renamer Toolkit \u2014 batch renaming with a safety net \u2014 is live on the Production Tools shelf"
   ]
 }
