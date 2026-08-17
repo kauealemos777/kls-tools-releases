@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.4",
+  "latestVersion": "1.5",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.4/File.Renamer.Toolkit.1.4.dmg",
-  "sha256": "1574af9947258005e43603d83948e8fc23f19a211fa044e9eae5946cfb3c5065",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.5/File.Renamer.Toolkit.1.5.dmg",
+  "sha256": "facea898188c0d8f2b664f7df89f867db77deda378e7126aa0e8b67149dfde81",
   "releasedAt": "2026-08-17",
-  "headline": "The modes agree",
+  "headline": "Undo keeps its word",
   "highlights": [
-    "Ghost review state is gone — Rules and Script Match always agree",
-    "K learns ordinals: keep between the first and last _",
-    "Mixed drops ask: audio only, everything, or folders only"
+    "Intel Macs transcribe again — the Ventura smoke-test build",
+    "Undo restores targets and approvals — the batch renames again after ⌥⌘Z",
+    "Filtered-scope apply with a warning, Clear menu, marks per side, terser K"
   ]
 }
