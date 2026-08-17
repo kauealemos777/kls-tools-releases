@@ -139,7 +139,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "file-renamer-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
@@ -154,7 +155,8 @@
         "script-toolkit",
         "merge-stems-tool",
         "document-builder-toolkit",
-        "voice-fx-toolkit"
+        "voice-fx-toolkit",
+        "file-renamer-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
