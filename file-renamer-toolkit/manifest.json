@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.0/File.Renamer.Toolkit.1.0.dmg",
-  "sha256": "e93008c7c61b39a32853fff1340cc406f9109e6f6f5947fb3dd53ba4e7657329",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.1/File.Renamer.Toolkit.1.1.dmg",
+  "sha256": "68bbb0e368d2797b4b0d6ec1f727147c8251771208b36b93952a214aceea21f0",
   "releasedAt": "2026-08-17",
-  "headline": "One point oh",
+  "headline": "The review round",
   "highlights": [
-    "Hear the script (TTS) beside the clip \u2014 and read the word-by-word diff",
-    "A right name with a wrong take gets flagged, laughs and wallas pair by order",
-    "Rapid-assign with drag-and-drop; EN translations from every language"
+    "Paste a real grid — labeled columns, extra columns, no clipboard surprises",
+    "Every unmatched clip says why: heard text, language, and a plain note",
+    "Players fixed, translation progress bar, Stop that stops, honest Approve All"
   ]
 }
