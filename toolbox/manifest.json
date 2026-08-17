@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.28",
+  "latestVersion": "1.29",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.28/KL.s.Audio.Localization.Toolbox.1.28.dmg",
-  "sha256": "adf9f7a6e1114060b6608a0374ddcafe996b62af945caf4d89931646c12d84a5",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.29/KL.s.Audio.Localization.Toolbox.1.29.dmg",
+  "sha256": "37ee2d4adf60ba05b3f8bbeae20a9b13410dc8631ba03c91d3d335edc3de059b",
   "releasedAt": "2026-08-17",
-  "headline": "The information strip holds still",
+  "headline": "Updates take one click",
   "highlights": [
-    "One fixed height for every tool — the grid never shifts as the pointer moves",
-    "Colour-coded columns, bigger type, and What's New beside the features"
+    "An update button appears in the sidebar the moment a new version is ready",
+    "Sidebar width is clamped — no more dragging it across the window"
   ]
 }
