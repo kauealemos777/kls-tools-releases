@@ -1,13 +1,12 @@
 {
   "displayName": "Script Toolkit",
-  "latestVersion": "1.16",
+  "latestVersion": "1.17",
   "installedAppName": "Script Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.16/Script.Toolkit.1.16.dmg",
-  "sha256": "308ac9b7b52aa3d2714a3708e3dc61594a85c3e8ae0db2e64941987d97a93840",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.17/Script.Toolkit.1.17.dmg",
+  "sha256": "fe3c4b6d3f1066e6a12f7269e728d53e7c719b85a428d79aa5e9ccecc9b0acb2",
   "releasedAt": "2026-08-07",
-  "headline": "Renewals arrive on their own",
+  "headline": "Send diagnostics in one click",
   "highlights": [
-    "Licence renewals extended by the owner install themselves",
-    "Speech model included — transcription works on first launch"
+    "Help → Send Diagnostics to KL — readable in full before anything is sent"
   ]
 }

@@ -1,13 +1,12 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.26",
+  "latestVersion": "3.27",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.26/Audio.Distribution.Toolkit.3.26.dmg",
-  "sha256": "abba90e88aac4a7f61fcc203a45394782b77f8041904c5769a3e4a19341543c0",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.27/Audio.Distribution.Toolkit.3.27.dmg",
+  "sha256": "939e21b7d342da844f75199cfd2d24eee80c66e7ad0529ff1c3371db1d3c8255",
   "releasedAt": "2026-08-07",
-  "headline": "Renewals arrive on their own",
+  "headline": "Send diagnostics in one click",
   "highlights": [
-    "Licence renewals extended by the owner install themselves",
-    "Speech model included — transcription works on first launch"
+    "Help → Send Diagnostics to KL — readable in full before anything is sent"
   ]
 }

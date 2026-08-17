@@ -1,12 +1,12 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "2.7",
+  "latestVersion": "2.8",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v2.7/Audio.QA.Toolkit.2.7.dmg",
-  "sha256": "92b4ce16890892fa15b5ed6b4d293b21521e193a9403cc8ceaba2a15b319c633",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v2.8/Audio.QA.Toolkit.2.8.dmg",
+  "sha256": "994c9a976725a31bade9cd89e80135fc0df47d0e0c39cbb78594e72fbd1ad605",
   "releasedAt": "2026-08-09",
-  "headline": "Renewals arrive on their own",
+  "headline": "Send diagnostics in one click",
   "highlights": [
-    "Licence renewals extended by the owner install themselves"
+    "Help → Send Diagnostics to KL — readable in full before anything is sent"
   ]
 }

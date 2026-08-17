@@ -1,12 +1,12 @@
 {
   "displayName": "EARTH · Merge Stems Toolkit",
-  "latestVersion": "1.10",
+  "latestVersion": "1.11",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.10/EARTH.Merge.Stems.Toolkit.1.10.dmg",
-  "sha256": "fc4554757fa14d410b4e7bf25bfdf9c96d4d7a6dbc1400d752271d92824e19a4",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.11/EARTH.Merge.Stems.Toolkit.1.11.dmg",
+  "sha256": "c1420d15dcaf6b773886aeba9b786ad5f5e2c2bc8b3103fab90d7e32c2e35dd3",
   "releasedAt": "2026-08-07",
-  "headline": "Renewals arrive on their own",
+  "headline": "Send diagnostics in one click",
   "highlights": [
-    "Licence renewals extended by the owner install themselves"
+    "Help → Send Diagnostics to KL — readable in full before anything is sent"
   ]
 }

@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.29",
+  "latestVersion": "1.30",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.29/KL.s.Audio.Localization.Toolbox.1.29.dmg",
-  "sha256": "37ee2d4adf60ba05b3f8bbeae20a9b13410dc8631ba03c91d3d335edc3de059b",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.30/KL.s.Audio.Localization.Toolbox.1.30.dmg",
+  "sha256": "de048152bff6f7724cac69d9804033bbdc44e78b7842278fc811eb86d9cbe46c",
   "releasedAt": "2026-08-17",
-  "headline": "Updates take one click",
+  "headline": "Send diagnostics in one click",
   "highlights": [
-    "An update button appears in the sidebar the moment a new version is ready",
-    "Sidebar width is clamped — no more dragging it across the window"
+    "Help → Send Diagnostics to KL — readable in full before anything is sent",
+    "The sidebar is a fixed width — it can no longer be dragged across the window"
   ]
 }
