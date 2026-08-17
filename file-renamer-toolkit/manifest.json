@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.3",
+  "latestVersion": "1.4",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.3/File.Renamer.Toolkit.1.3.dmg",
-  "sha256": "793e7e66709cf9142ec9d175c21e5056973eed90ed60e44d207e4d1eca13fff6",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.4/File.Renamer.Toolkit.1.4.dmg",
+  "sha256": "1574af9947258005e43603d83948e8fc23f19a211fa044e9eae5946cfb3c5065",
   "releasedAt": "2026-08-17",
-  "headline": "The crash that waited",
+  "headline": "The modes agree",
   "highlights": [
-    "Critical: fixed a first-drop crash on every Mac except the build machine",
-    "Assets resolve from inside the app — a miss costs K his portrait, never your session",
-    "Install this before the Ventura iMac smoke test"
+    "Ghost review state is gone — Rules and Script Match always agree",
+    "K learns ordinals: keep between the first and last _",
+    "Mixed drops ask: audio only, everything, or folders only"
   ]
 }
