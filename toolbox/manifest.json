@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.24",
+  "latestVersion": "1.25",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.24/KL.s.Audio.Localization.Toolbox.1.24.dmg",
-  "sha256": "748172e27363d9a43ed162f3a6df8e9d7fb19a4daddbf9397b82f0cdf93b1cd8",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.25/",
+  "sha256": "a1d3ce7866d1a6c0b7c161a4518faee370faff1a7ae02b2dcc8118a506a9ed58",
   "releasedAt": "2026-08-07",
-  "headline": "Renewals that deliver themselves",
+  "headline": "The licence term, drawn",
   "highlights": [
-    "Extend a licence from Manage Users — every Mac re-issued and delivered online",
-    "Apps pick renewals up on their own; nobody meets the gate"
+    "Every device shows its licence as a bar draining green through amber to red",
+    "Each person's expiry date is always on their row — no click needed"
   ]
 }
