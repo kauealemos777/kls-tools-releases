@@ -4,5 +4,11 @@
   "installedAppName": "Audio Distribution Toolkit.app",
   "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.24/Audio.Distribution.Toolkit.3.24.dmg",
   "sha256": "cafde5ef13f1487f5a6ed1c15805b6ddc6d30a1239c09ebf8f66c3485b2ced7d",
-  "releasedAt": "2026-08-07"
+  "releasedAt": "2026-08-07",
+  "headline": "Transcription out of the box",
+  "highlights": [
+    "Speech model included — transcription works on first launch",
+    "One shared model folder serves every tool",
+    "Keeps itself up to date — the Toolbox is optional"
+  ]
 }

@@ -4,5 +4,9 @@
   "installedAppName": "Voice FX Toolkit.app",
   "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/voice-fx-toolkit/Voice%20FX%20Toolkit%201.0.dmg",
   "sha256": "bb624b67b56e3b9cd8f0294fde1cd62772a251299fa891bcc3d084f4b720c0bd",
-  "releasedAt": "2026-08-08"
+  "releasedAt": "2026-08-08",
+  "headline": "First release",
+  "highlights": [
+    "A channel strip of Audio Unit effects, batch-rendered offline"
+  ]
 }

@@ -4,5 +4,11 @@
   "installedAppName": "Script Toolkit.app",
   "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.14/Script.Toolkit.1.14.dmg",
   "sha256": "7f3d5748b4e5b726cf18be7b160a397d4083edbe901e7735eacaabcd1d30cc2f",
-  "releasedAt": "2026-08-07"
+  "releasedAt": "2026-08-07",
+  "headline": "Transcription out of the box",
+  "highlights": [
+    "Speech model included — transcription works on first launch",
+    "Grammar and spelling pass in seven languages, offline",
+    "Keeps itself up to date — the Toolbox is optional"
+  ]
 }

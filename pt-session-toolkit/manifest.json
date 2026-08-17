@@ -4,5 +4,11 @@
   "installedAppName": "PT Session Toolkit.app",
   "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.5/PT.Session.Toolkit.1.5.dmg",
   "sha256": "9aee6fffb4c7c3e2a77137bb8703c827749f466b8c199c1d41e3ffa7eae8720f",
-  "releasedAt": "2026-08-07"
+  "releasedAt": "2026-08-07",
+  "headline": "Independent and signed",
+  "highlights": [
+    "Licence agreement on first launch",
+    "Keeps itself up to date — the Toolbox is optional",
+    "Reports its own usage"
+  ]
 }
