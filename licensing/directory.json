@@ -5,7 +5,9 @@
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
-        "merge-stems-tool"
+        "merge-stems-tool",
+        "video-converter-toolkit",
+        "file-renamer-toolkit"
       ],
       "hiddenProducts" : [
         "script-toolkit"
@@ -182,7 +184,9 @@
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
-        "merge-stems-tool"
+        "merge-stems-tool",
+        "video-converter-toolkit",
+        "file-renamer-toolkit"
       ],
       "hiddenProducts" : [
         "script-toolkit"
