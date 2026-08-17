@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "0.5",
+  "latestVersion": "1.0",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v0.5/File.Renamer.Toolkit.0.5.dmg",
-  "sha256": "dcf524c6796c44c9dd1db1063897352fcc7681f2ebdbf515af1286a231f8e215",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.0/File.Renamer.Toolkit.1.0.dmg",
+  "sha256": "e93008c7c61b39a32853fff1340cc406f9109e6f6f5947fb3dd53ba4e7657329",
   "releasedAt": "2026-08-17",
-  "headline": "Meet K",
+  "headline": "One point oh",
   "highlights": [
-    "K, the assistant: rules and list commands in plain words \u2014 EN or PT",
-    "Script Match: translations, detected languages, graded confidence",
-    "Add-or-replace on drop, robust paste, instant large folders"
+    "Hear the script (TTS) beside the clip \u2014 and read the word-by-word diff",
+    "A right name with a wrong take gets flagged, laughs and wallas pair by order",
+    "Rapid-assign with drag-and-drop; EN translations from every language"
   ]
 }
