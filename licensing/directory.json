@@ -142,6 +142,7 @@
         "merge-stems-tool",
         "document-builder-toolkit",
         "voice-fx-toolkit",
+        "video-converter-toolkit",
         "file-renamer-toolkit"
       ],
       "isAdmin" : false,
@@ -158,6 +159,7 @@
         "merge-stems-tool",
         "document-builder-toolkit",
         "voice-fx-toolkit",
+        "video-converter-toolkit",
         "file-renamer-toolkit"
       ],
       "isAdmin" : false,
