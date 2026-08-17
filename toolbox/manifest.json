@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.21",
+  "latestVersion": "1.22",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.21/KL.s.Audio.Localization.Toolbox.1.21.dmg",
-  "sha256": "228e7bee2e8db3e718ec61c550e5ecb44c6bdb83c0c45bd6381ddf8ca9054268",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.22/KL.s.Audio.Localization.Toolbox.1.22.dmg",
+  "sha256": "36fcdac808f1bdfee28a74fe74f8e07a284462de743926fd9202dc823adcdd9b",
   "releasedAt": "2026-08-07",
-  "headline": "Every tool, explained at a glance",
+  "headline": "Runs on Sonoma",
   "highlights": [
-    "Hover any tool on Home for its features and latest release notes",
-    "Release highlights arrive with each release — no Toolbox update needed"
+    "Now runs on macOS 14 Sonoma",
+    "Hover any tool on Home for its features and latest release notes"
   ]
 }
