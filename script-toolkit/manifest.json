@@ -1,13 +1,13 @@
 {
   "displayName": "Script Toolkit",
-  "latestVersion": "1.15",
+  "latestVersion": "1.16",
   "installedAppName": "Script Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.15/Script.Toolkit.1.15.dmg",
-  "sha256": "6574c06f2ba97a67911e61dc3a8e07b024b846a847c94bb315d9a75b5f4cd9f1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.16/Script.Toolkit.1.16.dmg",
+  "sha256": "308ac9b7b52aa3d2714a3708e3dc61594a85c3e8ae0db2e64941987d97a93840",
   "releasedAt": "2026-08-07",
-  "headline": "Runs on Sonoma 14.4",
+  "headline": "Renewals arrive on their own",
   "highlights": [
-    "Now runs on macOS 14.4 Sonoma",
+    "Licence renewals extended by the owner install themselves",
     "Speech model included — transcription works on first launch"
   ]
 }

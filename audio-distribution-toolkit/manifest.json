@@ -1,13 +1,13 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.25",
+  "latestVersion": "3.26",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.25/Audio.Distribution.Toolkit.3.25.dmg",
-  "sha256": "8ab2164862fbddb67092940fd8c6822d225f36952defb6d2be7e571e0de59081",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.26/Audio.Distribution.Toolkit.3.26.dmg",
+  "sha256": "abba90e88aac4a7f61fcc203a45394782b77f8041904c5769a3e4a19341543c0",
   "releasedAt": "2026-08-07",
-  "headline": "Runs on Sonoma",
+  "headline": "Renewals arrive on their own",
   "highlights": [
-    "Now runs on macOS 14 Sonoma",
+    "Licence renewals extended by the owner install themselves",
     "Speech model included — transcription works on first launch"
   ]
 }

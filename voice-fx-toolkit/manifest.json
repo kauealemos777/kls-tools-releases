@@ -1,14 +1,12 @@
 {
   "displayName": "Voice FX Toolkit",
-  "latestVersion": "1.1",
+  "latestVersion": "1.2",
   "installedAppName": "Voice FX Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/voice-fx-toolkit-v1.1/Voice.FX.Toolkit.1.1.dmg",
-  "sha256": "8d96d57f3be5f4754f2f0eb75cf2c2676be171dd21d242a99c3afcdc6cde4007",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/voice-fx-toolkit-v1.2/Voice.FX.Toolkit.1.2.dmg",
+  "sha256": "4c70fa9ed855849cebc93d432d83214b91903f062ae241c8ba3af63d6a55c1bf",
   "releasedAt": "2026-08-08",
-  "headline": "Signs, updates itself, and runs on Sonoma",
+  "headline": "Renewals arrive on their own",
   "highlights": [
-    "Licence agreement on first launch",
-    "Keeps itself up to date — the Toolbox is optional",
-    "Now runs on macOS 14 Sonoma"
+    "Licence renewals extended by the owner install themselves"
   ]
 }

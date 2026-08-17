@@ -1,13 +1,12 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.6",
+  "latestVersion": "1.7",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.6/PT.Session.Toolkit.1.6.dmg",
-  "sha256": "af0b53239927ba685a9c8a108b6507c730f12afbd84e1b3bad12429c6d5b3bff",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.7/PT.Session.Toolkit.1.7.dmg",
+  "sha256": "a513acc9b9086112d3326e175f33e0df4e7302730c10ac17faa8f89f586208aa",
   "releasedAt": "2026-08-07",
-  "headline": "Runs on Sonoma",
+  "headline": "Renewals arrive on their own",
   "highlights": [
-    "Now runs on macOS 14 Sonoma",
-    "Building in Pro Tools remains a macOS 15 feature — its transport requires it"
+    "Licence renewals extended by the owner install themselves"
   ]
 }
