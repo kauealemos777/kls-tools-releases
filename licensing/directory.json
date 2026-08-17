@@ -146,6 +146,18 @@
       "revoked" : false,
       "tokenID" : "tok_D8BEF4C3-6918-49B8-A890-C748E3110A2A",
       "username" : "Pedro Nunes"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "merge-stems-tool"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_68AD3915-E333-4CA0-8626-472AA0E4D01C",
+      "username" : "Matthew Montanez"
     }
   ]
 }
