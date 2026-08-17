@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "0.3",
+  "latestVersion": "0.4",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v0.3/File.Renamer.Toolkit.0.3.dmg",
-  "sha256": "d105120a3f8c3143511ee17cf5491fa0d8d7a59ca3cf099f4f8b79c453e65f8e",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v0.4/File.Renamer.Toolkit.0.4.dmg",
+  "sha256": "ce607c9ba5b7162e6fe5f25dbc7370b0aa80f0faf67e0264aaa7155875d0b771",
   "releasedAt": "2026-08-17",
-  "headline": "Green means new",
+  "headline": "Say it, don't build it",
   "highlights": [
-    "Everything a rename adds is green \u2014 instantly readable",
-    "Filter, sort, and group by file kind with one click",
-    "Header layout fix"
+    "Describe a rule in plain words \u2014 keep or remove, EN or PT \u2014 with a live example first",
+    "Issues arrive with their one-click fixes, led by Make Duplicates Unique",
+    "Import options inside the open panel; new Settings window (\u2318,); wider sidebar"
   ]
 }
