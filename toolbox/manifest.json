@@ -1,12 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.35",
+  "latestVersion": "1.36",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.35/KL.s.Audio.Localization.Toolbox.1.35.dmg",
-  "sha256": "82027de984729a1b31fe8fc75325bca3db8dbfbac8859ceccd68ef81a61e66e8",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.36/KL.s.Audio.Localization.Toolbox.1.36.dmg",
+  "sha256": "1cea274c4a184da0710b5e223e33443e38023bc476bf2ac6e948350b9c2c5ab4",
   "releasedAt": "2026-08-17",
-  "headline": "Wearing its full name",
+  "headline": "One name everywhere",
   "highlights": [
-    "The sidebar header now reads KL's Localization Toolbox"
+    "The header matches the Dock, menu bar and installer: KL's Audio Localization Toolbox"
   ]
 }
