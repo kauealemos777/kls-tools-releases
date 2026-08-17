@@ -1,13 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.32",
+  "latestVersion": "1.33",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.32/KL.s.Audio.Localization.Toolbox.1.32.dmg",
-  "sha256": "c4307e62f51c91d6fa308110b420ac14ceff20e0bda5b3002537d7e70d50c2d1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.33/KL.s.Audio.Localization.Toolbox.1.33.dmg",
+  "sha256": "d759af8cebc7dd15db6fd9c420461e5e774776eab2d98784e4cf3e70da1f9e60",
   "releasedAt": "2026-08-17",
-  "headline": "Full names, calm switches",
+  "headline": "Tiles in line",
   "highlights": [
-    "Every tool's full name fits the sidebar — measured, not guessed",
-    "Screens switch instantly; Home no longer replays its entrance"
+    "Every tool tile is the same height — icons and names align on every shelf"
   ]
 }
