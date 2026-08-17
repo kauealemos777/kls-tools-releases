@@ -1,14 +1,14 @@
 {
   "displayName": "Video Converter Toolkit",
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "installedAppName": "Video Converter Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.0/Video.Converter.Toolkit.1.0.dmg",
-  "sha256": "a7921fa162bb8f7c4c090882bc4934d6989cb40383e0a9b58560bef162d35002",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.1/Video.Converter.Toolkit.1.1.dmg",
+  "sha256": "fc6da2151b3b2f7529005fd1139f185923ec7d1f50d2b66e32a4f48a45657a36",
   "releasedAt": "2026-08-17",
-  "headline": "The first release",
+  "headline": "Watch Folders \u2014 conversion that runs itself",
   "highlights": [
-    "Drop a batch \u2014 get Pro Tools-ready DNxHR references or small HQ files",
-    "Every output constant frame rate, whole batches locked to one session rate",
-    "Signed and notarized; FFmpeg rides inside \u2014 fully offline"
+    "Watched folders convert every arriving video hands-off, each with its own preset",
+    "Pin a session rate per folder; originals can move to Trash after a verified output",
+    "Half-copied files are left alone until they finish landing"
   ]
 }
