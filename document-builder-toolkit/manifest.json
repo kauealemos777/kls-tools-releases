@@ -1,12 +1,14 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.10",
+  "latestVersion": "1.11",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.10/Document.Builder.Toolkit.1.10.dmg",
-  "sha256": "e6cf185de374ea4ebf8133f2c53830fa114617c61ceaa0bf2b639a6c1ed96067",
-  "releasedAt": "2026-08-17",
-  "headline": "The app carries its own notarization, so it opens cleanly on a Mac that's offline",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.11/Document.Builder.Toolkit.1.11.dmg",
+  "sha256": "c4f3b10023e8122546c7a506da060327c38d6650156f98fa68d0602210ee009e",
+  "releasedAt": "2026-08-18",
+  "headline": "PDF templates, with the character limit of every field on screen before you type",
   "highlights": [
-    "The app is notarized and stapled in its own right, not only inside the disk image it arrives in"
+    "A PDF can be used as a template — its fields are found, filled and reported like a Word one",
+    "Every PDF field shows how many characters its space holds, and turns red when a value is over",
+    "A squeezed value is flagged in the preview and in the run report, never shipped quietly"
   ]
 }
