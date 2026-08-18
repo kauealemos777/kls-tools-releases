@@ -4,5 +4,11 @@
   "installedAppName": "Document Builder Toolkit.app",
   "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/document-builder-toolkit/Document%20Builder%20Toolkit%201.8.dmg",
   "sha256": "e3058fa8fcef8988abeff222499f09def60c96f9b7fd30b8fd9ecb88b474859c",
-  "releasedAt": "2026-08-17"
+  "releasedAt": "2026-08-17",
+  "headline": "Colour in the preview, a What's New screen, and a Generate button you can aim at",
+  "highlights": [
+    "The preview now shows the contract's real colours — two blues, two greys, and underlining, none of which survived before",
+    "A What's New screen on the home screen, plus release notes you can actually find",
+    "The Generate button can be aimed at a chosen destination"
+  ]
 }
