@@ -1,12 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.8",
+  "latestVersion": "1.11",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.8/PT.Session.Toolkit.1.8.dmg",
-  "sha256": "96764753cb43fb8cf6ddc812bb01736667029fa3fa20bd4f227125b535c6bc03",
-  "releasedAt": "2026-08-07",
-  "headline": "Send diagnostics in one click",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.11/PT.Session.Toolkit.1.11.dmg",
+  "sha256": "afb1f87ca18ba43ac4b4080944dafe9acaeb6a0f8368cf7cacd278f25dad8672",
+  "releasedAt": "2026-08-18",
+  "headline": "Sessions that open cleanly",
   "highlights": [
-    "Help → Send Diagnostics to KL — readable in full before anything is sent"
+    "AAFs describe every take in its own units \u2014 fixes sessions failing to open on some machines",
+    "Extra empty tracks: paste a list, get record tracks or an FX lane alongside the material",
+    "Aligned controls, no truncated labels, an honest disk figure"
   ]
 }
