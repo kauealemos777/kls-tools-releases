@@ -2,7 +2,7 @@
   "displayName": "Document Builder Toolkit",
   "latestVersion": "1.8",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://raw.githubusercontent.com/kauealemos777/kls-tools-releases/main/document-builder-toolkit/Document%20Builder%20Toolkit%201.8.dmg",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.8/Document.Builder.Toolkit.1.8.dmg",
   "sha256": "e3058fa8fcef8988abeff222499f09def60c96f9b7fd30b8fd9ecb88b474859c",
   "releasedAt": "2026-08-17",
   "headline": "Colour in the preview, a What's New screen, and a Generate button you can aim at",
