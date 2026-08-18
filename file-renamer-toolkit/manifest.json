@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.5",
+  "latestVersion": "1.6",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.5/File.Renamer.Toolkit.1.5.dmg",
-  "sha256": "facea898188c0d8f2b664f7df89f867db77deda378e7126aa0e8b67149dfde81",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.6/File.Renamer.Toolkit.1.6.dmg",
+  "sha256": "d03b15d50a9765f4b9f8d47455917b9cd3a3ec642d02ce9dffa181a8a8b0db01",
   "releasedAt": "2026-08-17",
-  "headline": "Undo keeps its word",
+  "headline": "The premium round",
   "highlights": [
-    "Intel Macs transcribe again — the Ventura smoke-test build",
-    "Undo restores targets and approvals — the batch renames again after ⌥⌘Z",
-    "Filtered-scope apply with a warning, Clear menu, marks per side, terser K"
+    "K reads the batch, chains asks, and bundles clean-ups",
+    "20 verified fixes from an adversarial audit — undo, ordinals, filters, Esc",
+    "Rules reorder with arrows; tuned for 5k rows on 2017 iMacs"
   ]
 }
