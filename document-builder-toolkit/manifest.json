@@ -1,14 +1,14 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.8",
+  "latestVersion": "1.9",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.8/Document.Builder.Toolkit.1.8.dmg",
-  "sha256": "e3058fa8fcef8988abeff222499f09def60c96f9b7fd30b8fd9ecb88b474859c",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.9/Document.Builder.Toolkit.1.9.dmg",
+  "sha256": "fb7fd664718919a22f617524ff969fb1979d4f812c80fc8febf29fa7526768eb",
   "releasedAt": "2026-08-17",
-  "headline": "Colour in the preview, a What's New screen, and a Generate button you can aim at",
+  "headline": "The document's real colours, its shaded cells, and headings that keep their clause",
   "highlights": [
-    "The preview now shows the contract's real colours — two blues, two greys, and underlining, none of which survived before",
-    "A What's New screen on the home screen, plus release notes you can actually find",
-    "The Generate button can be aimed at a chosen destination"
+    "Cell shading is drawn — the pale grey behind every clause was missing entirely",
+    "A heading no longer sits alone at the foot of a page, separated from the clause it introduces",
+    "Double-clicking the window chrome zooms the window, and the field highlight is a transparent pink"
   ]
 }
