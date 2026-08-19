@@ -1,12 +1,13 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.12",
+  "latestVersion": "1.13",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.12/Document.Builder.Toolkit.1.12.dmg",
-  "sha256": "c0fee1df5e0ca209b5d3d8d871b3d160b20c65fc43baad556348c50cd459ecf8",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.13/Document.Builder.Toolkit.1.13.dmg",
+  "sha256": "3637ccf873bca4f69322a889c0031f70e62ae9147980c1dbdbb741f6c7082e28",
   "releasedAt": "2026-08-18",
-  "headline": "PDF templates withdrawn — Word is the supported path",
+  "headline": "Zoom no longer distorts the page, and unfilled fields stay visible in the preview",
   "highlights": [
-    "Templates are Word documents again; the PDF option added in 1.11 has been removed"
+    "Zooming the preview changes only how large the page is drawn — it was changing its proportions",
+    "Fields with no value yet are shown as their placeholder in the preview, so you can see where they go"
   ]
 }
