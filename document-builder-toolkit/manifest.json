@@ -1,13 +1,13 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.13",
+  "latestVersion": "1.14",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.13/Document.Builder.Toolkit.1.13.dmg",
-  "sha256": "3637ccf873bca4f69322a889c0031f70e62ae9147980c1dbdbb741f6c7082e28",
-  "releasedAt": "2026-08-18",
-  "headline": "Zoom no longer distorts the page, and unfilled fields stay visible in the preview",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.14/Document.Builder.Toolkit.1.14.dmg",
+  "sha256": "284a43c4e178748e6e89d7ee5c9515c3b7a7c1b01dcf6ba93582f58aa7ec22eb",
+  "releasedAt": "2026-08-19",
+  "headline": "Word's on/off properties are read by value, not by presence",
   "highlights": [
-    "Zooming the preview changes only how large the page is drawn — it was changing its proportions",
-    "Fields with no value yet are shown as their placeholder in the preview, so you can see where they go"
+    "keep-with-next and cant-split are read correctly — this contract switches both OFF explicitly, 162 times",
+    "Preview pagination is close to Word's rather than matching it by accident"
   ]
 }
