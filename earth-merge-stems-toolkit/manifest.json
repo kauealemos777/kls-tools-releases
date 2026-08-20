@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.13",
+  "latestVersion": "1.14",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.13/EARTH.Merge.Stems.Toolkit.1.13.dmg",
-  "sha256": "df2b196d98f600d539b79b43b51267450eb35e26474966432f21af337ca9ccb3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.14/EARTH.Merge.Stems.Toolkit.1.14.dmg",
+  "sha256": "ccff74141ed3e5c633c0085014ac28be42db44f38da9958fa40299fa722754b2",
   "releasedAt": "2026-08-20",
-  "headline": "LQA delivery, and the BGM+FX check finally works",
+  "headline": "BGM+SFX is the official name",
   "highlights": [
-    "BGM+FX recognised in every spelling the deliveries use, BGM+SFX included",
-    "LQA delivery: source stems to _Audio, merged videos to _Video, bed and picture to the Trash",
-    "Peak normalization greys out when its output isn't being generated"
+    "The bed is called BGM+SFX everywhere the app writes it",
+    "The older BGM+FX spelling is still recognised on disk",
+    "LQA delivery, and every BGM+SFX bed identified"
   ]
 }
