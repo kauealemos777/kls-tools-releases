@@ -1,12 +1,14 @@
 {
-  "displayName": "EARTH · Merge Stems Toolkit",
-  "latestVersion": "1.11",
+  "displayName": "EARTH - Merge Stems Toolkit",
+  "latestVersion": "1.13",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.11/EARTH.Merge.Stems.Toolkit.1.11.dmg",
-  "sha256": "c1420d15dcaf6b773886aeba9b786ad5f5e2c2bc8b3103fab90d7e32c2e35dd3",
-  "releasedAt": "2026-08-07",
-  "headline": "Send diagnostics in one click",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.13/EARTH.Merge.Stems.Toolkit.1.13.dmg",
+  "sha256": "df2b196d98f600d539b79b43b51267450eb35e26474966432f21af337ca9ccb3",
+  "releasedAt": "2026-08-20",
+  "headline": "LQA delivery, and the BGM+FX check finally works",
   "highlights": [
-    "Help → Send Diagnostics to KL — readable in full before anything is sent"
+    "BGM+FX recognised in every spelling the deliveries use, BGM+SFX included",
+    "LQA delivery: source stems to _Audio, merged videos to _Video, bed and picture to the Trash",
+    "Peak normalization greys out when its output isn't being generated"
   ]
 }
