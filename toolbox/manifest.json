@@ -1,14 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.40",
+  "latestVersion": "1.41",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.40/KL.s.Audio.Localization.Toolbox.1.40.dmg",
-  "sha256": "8c89e62b4b0329461d46ec21c311212b92a14b25f79bc31f1468a3ab8ba19048",
-  "releasedAt": "2026-08-17",
-  "headline": "Made smaller, still whole",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.41/KL.s.Audio.Localization.Toolbox.1.41.dmg",
+  "sha256": "6a9ab955faf0505edacbf58af925ff0d445c20232e48e07bfaa3c4fefad774e9",
+  "releasedAt": "2026-08-20",
+  "headline": "Earth Backup joins the shelf",
   "highlights": [
-    "The sidebar keeps its place at every window size — it used to slide off the left edge",
-    "The info strip's columns share the room they have instead of being cut mid-word",
-    "Shelf tabs adapt down to icons with tooltips; every shelf stays reachable"
+    "Earth Backup PT Session Builder is installable from the Custom Tools shelf",
+    "Backup-mic sessions per category, every DPA and Neumann take under its source"
   ]
 }
