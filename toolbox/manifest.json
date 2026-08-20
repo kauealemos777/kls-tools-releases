@@ -3,11 +3,12 @@
   "latestVersion": "1.41",
   "installedAppName": "KL's Audio Localization Toolbox.app",
   "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.41/KL.s.Audio.Localization.Toolbox.1.41.dmg",
-  "sha256": "6a9ab955faf0505edacbf58af925ff0d445c20232e48e07bfaa3c4fefad774e9",
+  "sha256": "d8b1e4e76cc219624b53309be3e7768bd0f879f6da29c810c93721ffed03cc40",
   "releasedAt": "2026-08-20",
   "headline": "Earth Backup joins the shelf",
   "highlights": [
     "Earth Backup PT Session Builder is installable from the Custom Tools shelf",
-    "Backup-mic sessions per category, every DPA and Neumann take under its source"
+    "Backup-mic sessions per category, every DPA and Neumann take under its source",
+    "Update notifications work again, and ask for permission at launch"
   ]
 }
