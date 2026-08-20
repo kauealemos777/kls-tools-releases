@@ -59,7 +59,6 @@
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
-        "merge-stems-tool",
         "video-converter-toolkit",
         "file-renamer-toolkit"
       ],
@@ -146,7 +145,6 @@
         "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool",
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
@@ -163,7 +161,6 @@
         "distribution-toolkit",
         "qa-toolkit",
         "script-toolkit",
-        "merge-stems-tool",
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
@@ -179,7 +176,6 @@
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
-        "merge-stems-tool",
         "video-converter-toolkit",
         "file-renamer-toolkit"
       ],
@@ -209,7 +205,8 @@
     {
       "allowedProducts" : [
         "distribution-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "earth-backup-builder"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
