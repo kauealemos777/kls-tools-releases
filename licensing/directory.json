@@ -78,7 +78,8 @@
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "earth-backup-builder"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -95,7 +96,8 @@
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "earth-backup-builder"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -112,7 +114,8 @@
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "earth-backup-builder"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -129,7 +132,8 @@
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "earth-backup-builder"
       ],
       "isAdmin" : true,
       "revoked" : false,
