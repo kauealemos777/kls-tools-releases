@@ -1,13 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.39",
+  "latestVersion": "1.40",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.39/KL.s.Audio.Localization.Toolbox.1.39.dmg",
-  "sha256": "7df1d8668e6bf820851f593ce14205880e2ea36936ed8f4f3dce18011733c6ba",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.40/KL.s.Audio.Localization.Toolbox.1.40.dmg",
+  "sha256": "8c89e62b4b0329461d46ec21c311212b92a14b25f79bc31f1468a3ab8ba19048",
   "releasedAt": "2026-08-17",
-  "headline": "Ventura, for everyone",
+  "headline": "Made smaller, still whole",
   "highlights": [
-    "The Toolbox now runs on macOS 13 Ventura — the whole family front door on the 2017 iMacs",
-    "Nothing changes on newer Macs"
+    "The sidebar keeps its place at every window size — it used to slide off the left edge",
+    "The info strip's columns share the room they have instead of being cut mid-word",
+    "Shelf tabs adapt down to icons with tooltips; every shelf stays reachable"
   ]
 }
