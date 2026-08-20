@@ -1,0 +1,15 @@
+{
+  "displayName": "Earth Backup PT Session Builder",
+  "latestVersion": "1.0",
+  "installedAppName": "Earth Backup PT Session Builder.app",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-pt-session-builder-v1.0/Earth.Backup.PT.Session.Builder.1.0.dmg",
+  "sha256": "cf1481ca84bfbdf3146a6c2e3ef6074e8d1ee5b137efde51e54cb19b2492d1fa",
+  "releasedAt": "2026-08-20",
+  "headline": "Backup mics, under their source, session per category",
+  "highlights": [
+    "One Pro Tools session per category, created and saved for you",
+    "A track per NPC ID for source, DPA and Neumann \u2014 alternates and gender takes included",
+    "Says what is still missing, and takes a later delivery without rebuilding",
+    "Checks every take is 96 kHz / 24-bit and that DPA and Neumann match"
+  ]
+}
