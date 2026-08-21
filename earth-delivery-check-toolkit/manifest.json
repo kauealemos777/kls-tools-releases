@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.0",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.0/EARTH.Delivery.Check.Toolkit.1.0.dmg",
-  "sha256": "d93d1d0c6ed720421c057a32af8c69bd6d8eb9cdc1434915b2074fadacd4ebb6",
-  "releasedAt": "2026-08-20",
-  "headline": "The delivery script checked against the audio, and shipped in the shape the client expects.",
+  "latestVersion": "1.1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.1/EARTH.Delivery.Check.Toolkit.1.1.dmg",
+  "sha256": "022e3f3a0728e7c0ffb1cbf48c6e5afb0ae4fef72c96833c14bf3881d2575216",
+  "releasedAt": "2026-08-21",
+  "headline": "Runs the checks, writes the reports, and renders the delivery on the way out.",
   "highlights": [
-    "Imports the script as CSV, TSV or XLSX.",
-    "You say which column is which on a mapping sheet that shows the first values in each column, so a header reading “ID” is never a guess.",
-    "Expands the tags in TARGET SCRIPT into the lines they owe: <LSNR and <SPKR into a male/female pair, ALT into numbered…"
+    "Run audio checks: every keeper compared against its DPA and U87, loudness and true peak measured, and each line's TIM…",
+    "Normalise on export to a peak, a true peak or a LUFS target.",
+    "Convert sample rate and bit depth on export, with dither on the way down to 16-bit."
   ]
 }
