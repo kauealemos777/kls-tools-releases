@@ -1,12 +1,13 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.5",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.5/EARTH.Delivery.Check.Toolkit.1.5.dmg",
-  "sha256": "2fe35dcf193320a02dedad24c8714d2eb363c9ca7f67b2b3832695c749e12653",
+  "latestVersion": "1.6",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.6/EARTH.Delivery.Check.Toolkit.1.6.dmg",
+  "sha256": "980edf42fb65b39f1d5858525ab0f56fb49ea5505bfd690fcd7d5ab4b1f609ee",
   "releasedAt": "2026-08-21",
-  "headline": "Pick up where you left off.",
+  "headline": "A real progress bar, and a window that stops freezing when you click a filter.",
   "highlights": [
-    "The last ten sessions are listed on the opening screen and under File → Open Recent, newest first, with the language …"
+    "Every long job — checking the audio, scanning a folder, saving, exporting.",
+    "Checking and exporting can be stopped part-way. Whatever was measured before the stop is kept."
   ]
 }
