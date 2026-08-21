@@ -1,13 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.6",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.6/EARTH.Delivery.Check.Toolkit.1.6.dmg",
-  "sha256": "980edf42fb65b39f1d5858525ab0f56fb49ea5505bfd690fcd7d5ab4b1f609ee",
+  "latestVersion": "1.7",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.7/EARTH.Delivery.Check.Toolkit.1.7.dmg",
+  "sha256": "cb8dea2004807c9387a332916bb55c81011d56291c4ad83602752abe83e949f1",
   "releasedAt": "2026-08-21",
-  "headline": "A real progress bar, and a window that stops freezing when you click a filter.",
+  "headline": "The grid reads like a grid, and the filters stop stalling.",
   "highlights": [
-    "Every long job — checking the audio, scanning a folder, saving, exporting.",
-    "Checking and exporting can be stopped part-way. Whatever was measured before the stop is kept."
+    "The summary has an AUDIO section: every sample rate, bit depth and channel layout the delivery arrived in, which box …",
+    "Double-click a divider to fit the column to what is in it, the way a spreadsheet does.",
+    "The grid can be scrolled sideways."
   ]
 }
