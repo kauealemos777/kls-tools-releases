@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.2",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.2/EARTH.Delivery.Check.Toolkit.1.2.dmg",
-  "sha256": "e611379ec8e1323d4a04dfb759e5f0bb542deaffb8862ebff830dfffafc0d2bc",
+  "latestVersion": "1.3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.3/EARTH.Delivery.Check.Toolkit.1.3.dmg",
+  "sha256": "11643e5726fe6ed54bd304550bd3b1bc0424156d5481d3d2325e9a76924aa25e",
   "releasedAt": "2026-08-21",
-  "headline": "Cutscene stems, and an audit that found the checks were wrong in both directions.",
+  "headline": "The rest of the audit: six more fixes, including one that emptied a saved session.",
   "highlights": [
-    "Cutscenes are grouped: one stem per character per cinematic, reconciled and counted like any other file, and routed t…",
-    "Takes that genuinely matched were reported as mismatches.",
-    "Loudness and true peak were measured on the internal 8 kHz analysis track instead of the file, reading about 2 LU qui…"
+    "Saving a session again while the delivery drive was unplugged silently emptied the audio out of the saved package and reported success.",
+    "Normalising a stereo or dual-mono take measured only its first channel, so it shipped up to 3 dB over the target and …",
+    "Converting the sample rate left the BWF timeline stamp untouched, so a 96 to 48 kHz take landed at double its true po…"
   ]
 }
