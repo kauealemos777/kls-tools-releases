@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.42",
+  "latestVersion": "1.44",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.42/KL.s.Audio.Localization.Toolbox.1.42.dmg",
-  "sha256": "b861aa250c18ebf52c160e524e3c08a3064db855985ca3fa9fd52944b8f76ee1",
-  "releasedAt": "2026-08-20",
-  "headline": "A desktop widget",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.44/KL.s.Audio.Localization.Toolbox.1.44.dmg",
+  "sha256": "04aaa013c31865d2d3f58cc26fc81c25b36592778c2cab5f78250aba75148e69",
+  "releasedAt": "2026-08-21",
+  "headline": "EARTH - Delivery Check Toolkit joins the Custom Tools shelf",
   "highlights": [
-    "A KL's Toolbox widget for the desktop or Notification Centre",
-    "Licence, installed tools and waiting updates at a glance",
-    "The window survives being made small — the sidebar stays put"
+    "A tenth tool: the delivery script checked against the audio",
+    "Finds what is missing, mis-named, or not the same take",
+    "Exports into the client’s folder tree, tagged by pass and dated"
   ]
 }
