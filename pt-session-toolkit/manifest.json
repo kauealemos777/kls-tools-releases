@@ -1,14 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.12",
+  "latestVersion": "1.13",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.12/PT.Session.Toolkit.1.12.dmg",
-  "sha256": "c78295f0dc7e7bbdf006c386b69df741848eec64ae39bb536253ee82010b5056",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.13/PT.Session.Toolkit.1.13.dmg",
+  "sha256": "d8b73ae6361d20fc2c4753bec91c4c908a081f66ae266618efd2ba7efbb6b683",
   "releasedAt": "2026-08-21",
-  "headline": "Blanks you can tell apart",
+  "headline": "Builds stop flickering Pro Tools' progress window",
   "highlights": [
-    "One blank clip per script line, named for its line \u2014 no more one clip repeated",
-    "Set the blank length by hand, or keep the session's average take",
-    "Build a whole session from a script with no audio at all"
+    "Imports go in groups \u2014 8 requests for a 500-line session instead of 500",
+    "Blanks match the session's rate and bit depth, so nothing is converted",
+    "Staged files finally get their clip names applied"
   ]
 }
