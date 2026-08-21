@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.7",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.7/EARTH.Delivery.Check.Toolkit.1.7.dmg",
-  "sha256": "cb8dea2004807c9387a332916bb55c81011d56291c4ad83602752abe83e949f1",
+  "latestVersion": "1.8",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.8/EARTH.Delivery.Check.Toolkit.1.8.dmg",
+  "sha256": "8569b0e58cf880c94053ea89dbf39579668bd21602484beffd7093b0d079979c",
   "releasedAt": "2026-08-21",
-  "headline": "The grid reads like a grid, and the filters stop stalling.",
+  "headline": "Export is always reachable, and the delivery says which language it is.",
   "highlights": [
-    "The summary has an AUDIO section: every sample rate, bit depth and channel layout the delivery arrived in, which box …",
-    "Double-click a divider to fit the column to what is in it, the way a spreadsheet does.",
-    "The grid can be scrolled sideways."
+    "An Export button sits in the toolbar as well as the sidebar, so it cannot fall below the fold on a short window.",
+    "The summary opens with the target language in large type, with the source and the script beside it.",
+    "Export could not be opened at all until audio had been imported — the button was greyed and the menu item with it, with nothing to say why."
   ]
 }
