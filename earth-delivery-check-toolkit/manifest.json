@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.8",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.8/EARTH.Delivery.Check.Toolkit.1.8.dmg",
-  "sha256": "8569b0e58cf880c94053ea89dbf39579668bd21602484beffd7093b0d079979c",
+  "latestVersion": "1.9",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.9/EARTH.Delivery.Check.Toolkit.1.9.dmg",
+  "sha256": "177ed1ff7a4619acc47fb29f6cae56db5081113bed77a6eb1f2190fe0f951475",
   "releasedAt": "2026-08-21",
-  "headline": "Export is always reachable, and the delivery says which language it is.",
+  "headline": "One script, several languages — and the grid stops guessing what belongs to what.",
   "highlights": [
-    "An Export button sits in the toolbar as well as the sidebar, so it cannot fall below the fold on a short window.",
-    "The summary opens with the target language in large type, with the source and the script beside it.",
-    "Export could not be opened at all until audio had been imported — the button was greyed and the menu item with it, with nothing to say why."
+    "A project can now hold several languages, one tab each.",
+    "The Mac behaviours that were missing.",
+    "Audio dropped as language folders sorts itself."
   ]
 }
