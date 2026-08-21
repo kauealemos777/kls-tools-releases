@@ -29,7 +29,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -47,7 +48,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -78,7 +80,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -96,7 +99,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -114,7 +118,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -132,7 +137,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -233,7 +239,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -251,7 +258,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
