@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.1",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.1/EARTH.Delivery.Check.Toolkit.1.1.dmg",
-  "sha256": "022e3f3a0728e7c0ffb1cbf48c6e5afb0ae4fef72c96833c14bf3881d2575216",
+  "latestVersion": "1.2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.2/EARTH.Delivery.Check.Toolkit.1.2.dmg",
+  "sha256": "e611379ec8e1323d4a04dfb759e5f0bb542deaffb8862ebff830dfffafc0d2bc",
   "releasedAt": "2026-08-21",
-  "headline": "Runs the checks, writes the reports, and renders the delivery on the way out.",
+  "headline": "Cutscene stems, and an audit that found the checks were wrong in both directions.",
   "highlights": [
-    "Run audio checks: every keeper compared against its DPA and U87, loudness and true peak measured, and each line's TIM…",
-    "Normalise on export to a peak, a true peak or a LUFS target.",
-    "Convert sample rate and bit depth on export, with dither on the way down to 16-bit."
+    "Cutscenes are grouped: one stem per character per cinematic, reconciled and counted like any other file, and routed t…",
+    "Takes that genuinely matched were reported as mismatches.",
+    "Loudness and true peak were measured on the internal 8 kHz analysis track instead of the file, reading about 2 LU qui…"
   ]
 }
