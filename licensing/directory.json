@@ -239,6 +239,24 @@
       "revoked" : false,
       "tokenID" : "tok_E5D7F669-67F5-40A5-88D9-ED7A4817E754",
       "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder"
+      ],
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_1284D56D-F9B8-4637-9493-E0819A67A397",
+      "username" : "Kaue Lemos"
     }
   ]
 }
