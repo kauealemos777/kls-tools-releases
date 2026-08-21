@@ -1,14 +1,12 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.4",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.4/EARTH.Delivery.Check.Toolkit.1.4.dmg",
-  "sha256": "6b93a1dbf83027852ea570b9a11962aa54805645872da8c243a517fc2b4af02c",
+  "latestVersion": "1.5",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.5/EARTH.Delivery.Check.Toolkit.1.5.dmg",
+  "sha256": "2fe35dcf193320a02dedad24c8714d2eb363c9ca7f67b2b3832695c749e12653",
   "releasedAt": "2026-08-21",
-  "headline": "The last of the audit — every confirmed finding is now closed.",
+  "headline": "Pick up where you left off.",
   "highlights": [
-    "Dither is applied whenever integer output is re-quantised, not only when the bit depth drops.",
-    "A take the studio delivered as an extra alternate was invisible: never measured, never exported, no status in the grid.",
-    "Exporting “what the grid is showing” also wrote every cutscene stem and every source take in the script, whatever the filter said."
+    "The last ten sessions are listed on the opening screen and under File → Open Recent, newest first, with the language …"
   ]
 }
