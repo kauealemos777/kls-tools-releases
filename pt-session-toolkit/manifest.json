@@ -1,14 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.11",
+  "latestVersion": "1.12",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.11/PT.Session.Toolkit.1.11.dmg",
-  "sha256": "afb1f87ca18ba43ac4b4080944dafe9acaeb6a0f8368cf7cacd278f25dad8672",
-  "releasedAt": "2026-08-18",
-  "headline": "Sessions that open cleanly",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.12/PT.Session.Toolkit.1.12.dmg",
+  "sha256": "c78295f0dc7e7bbdf006c386b69df741848eec64ae39bb536253ee82010b5056",
+  "releasedAt": "2026-08-21",
+  "headline": "Blanks you can tell apart",
   "highlights": [
-    "AAFs describe every take in its own units \u2014 fixes sessions failing to open on some machines",
-    "Extra empty tracks: paste a list, get record tracks or an FX lane alongside the material",
-    "Aligned controls, no truncated labels, an honest disk figure"
+    "One blank clip per script line, named for its line \u2014 no more one clip repeated",
+    "Set the blank length by hand, or keep the session's average take",
+    "Build a whole session from a script with no audio at all"
   ]
 }
