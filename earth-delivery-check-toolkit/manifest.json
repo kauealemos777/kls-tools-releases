@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.9",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.9/EARTH.Delivery.Check.Toolkit.1.9.dmg",
-  "sha256": "177ed1ff7a4619acc47fb29f6cae56db5081113bed77a6eb1f2190fe0f951475",
-  "releasedAt": "2026-08-21",
-  "headline": "One script, several languages — and the grid stops guessing what belongs to what.",
+  "latestVersion": "1.10",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.10/EARTH.Delivery.Check.Toolkit.1.10.dmg",
+  "sha256": "6ff6422a71a319185560cf399afa933dcab5232293f0f61cffda554c76b9cf9a",
+  "releasedAt": "2026-08-23",
+  "headline": "The session remembers, the files are locked when you say so, and a perfect match can never read as extra again.",
   "highlights": [
-    "A project can now hold several languages, one tab each.",
-    "The Mac behaviours that were missing.",
-    "Audio dropped as language folders sorts itself."
+    "The session keeps a history.",
+    "Snapshots make the session restorable.",
+    "File operations can be undone (⌥⌘Z)."
   ]
 }
