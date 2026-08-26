@@ -224,7 +224,8 @@
       "allowedProducts" : [
         "distribution-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
