@@ -265,6 +265,19 @@
       "revoked" : false,
       "tokenID" : "tok_1284D56D-F9B8-4637-9493-E0819A67A397",
       "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_A9374F84-F538-45A6-98C8-E2FC43FB7488",
+      "username" : "Matthew Montanez"
     }
   ]
 }
