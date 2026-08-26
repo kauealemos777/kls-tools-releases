@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.14",
+  "latestVersion": "1.15",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.14/EARTH.Merge.Stems.Toolkit.1.14.dmg",
-  "sha256": "ccff74141ed3e5c633c0085014ac28be42db44f38da9958fa40299fa722754b2",
-  "releasedAt": "2026-08-20",
-  "headline": "BGM+SFX is the official name",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.15/EARTH.Merge.Stems.Toolkit.1.15.dmg",
+  "sha256": "0ca24833e7d9e4a26d85c5e155781a0d256575345083b7ae8d6352d4d47322a0",
+  "releasedAt": "2026-08-26",
+  "headline": "Versions: gendered readings, alternate takes, and the Erik/Alma split",
   "highlights": [
-    "The bed is called BGM+SFX everywhere the app writes it",
-    "The older BGM+FX spelling is still recognised on disk",
-    "LQA delivery, and every BGM+SFX bed identified"
+    "Gendered, alternate and Alma/Erik versions, each in its own folder",
+    "Source stems conformed to level and format before any merge reads them",
+    "A language dropdown that tags the delivery, and templates that remember a setup"
   ]
 }
