@@ -1,14 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.13",
+  "latestVersion": "1.14",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.13/PT.Session.Toolkit.1.13.dmg",
-  "sha256": "d8b73ae6361d20fc2c4753bec91c4c908a081f66ae266618efd2ba7efbb6b683",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.14/PT.Session.Toolkit.1.14.dmg",
+  "sha256": "6edd8d150ebca8579db026f128a79c01a50df828b75c2e4f4e18c4eb11613266",
   "releasedAt": "2026-08-21",
-  "headline": "Builds stop flickering Pro Tools' progress window",
+  "headline": "Every role lands on its own track",
   "highlights": [
-    "Imports go in groups \u2014 8 requests for a 500-line session instead of 500",
-    "Blanks match the session's rate and bit depth, so nothing is converted",
-    "Staged files finally get their clip names applied"
+    "A role no longer comes out empty when the session already has a track of that name",
+    "Clip names survive a delivery with the same filenames in a folder per character",
+    "Counts add up: blank files counted, one progress total, honest disk figures"
   ]
 }
