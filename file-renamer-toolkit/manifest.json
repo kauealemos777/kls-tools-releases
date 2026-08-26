@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.8",
+  "latestVersion": "1.9",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.8/File.Renamer.Toolkit.1.8.dmg",
-  "sha256": "76c4a61925298d88913a8d6d4fc0c9a79f780f65562a7ae16209bd6cbf661046",
-  "releasedAt": "2026-08-17",
-  "headline": "Three times faster, measured",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.9/File.Renamer.Toolkit.1.9.dmg",
+  "sha256": "f9667cfba0b93b79b07224a8d3d32196188f64076c08961121333efa9a9ce386",
+  "releasedAt": "2026-08-26",
+  "headline": "Intel Macs get their speed back",
   "highlights": [
-    "About 3x faster transcription on CPU Macs — identical transcripts",
-    "Pick the speech model right in Script Match: size and speed, per model",
-    "Every run reports its own pace, in the status line and diagnostics"
+    "The speech engine’s Intel half shipped without AVX2 — rebuilt with it",
+    "Apple Silicon untouched, verified byte-identical",
+    "Speech on Intel runs on the CPU by design — the GPU path could crash it"
   ]
 }
