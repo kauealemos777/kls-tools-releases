@@ -1,10 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "0.0",
+  "latestVersion": "1.0",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "",
-  "sha256": "",
-  "releasedAt": "",
-  "headline": "",
-  "highlights": []
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.0/Audio.File.Manager.Toolkit.1.0.dmg",
+  "sha256": "816d65b02c515d1487376a4b02264346e697e9bf207ae4bdff172ea88c9a5296",
+  "releasedAt": "2026-08-26",
+  "headline": "Index, search, and deliver audio",
+  "highlights": [
+    "Index a whole library into revisitable sessions and browse it instantly",
+    "Paste hundreds of file names and resolve every one in a single pass",
+    "Flag into colour groups, tag in Finder, and copy or move preview-first"
+  ]
 }
