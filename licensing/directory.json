@@ -224,8 +224,7 @@
       "allowedProducts" : [
         "distribution-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder",
-        "audio-file-manager-toolkit"
+        "earth-backup-builder"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
@@ -234,7 +233,8 @@
         "merge-stems-tool",
         "document-builder-toolkit",
         "voice-fx-toolkit",
-        "video-converter-toolkit"
+        "video-converter-toolkit",
+        "audio-file-manager-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
