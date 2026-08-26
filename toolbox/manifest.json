@@ -1,12 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.46",
+  "latestVersion": "1.47",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.46/KL.s.Audio.Localization.Toolbox.1.46.dmg",
-  "sha256": "fd9aaeef824d0b2aad7360eb42e83224860306b4e3f2a4d89c48b75791647615",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.47/KL.s.Audio.Localization.Toolbox.1.47.dmg",
+  "sha256": "56309bb10f30a5e49f7f02dceeea5a80ac622a9594e2e329d2146bde009ac2ce",
   "releasedAt": "2026-08-26",
-  "headline": "One File Manager, not two",
+  "headline": "Admins get new tools automatically",
   "highlights": [
-    "The upcoming File Manager Toolkit tile is gone — Audio File Manager Toolkit already does that job"
+    "Anyone flagged Admin is allowed every released tool the moment it ships",
+    "One Save & Publish carries it to their Macs"
   ]
 }
