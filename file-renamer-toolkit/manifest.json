@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.6",
+  "latestVersion": "1.7",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.6/File.Renamer.Toolkit.1.6.dmg",
-  "sha256": "d03b15d50a9765f4b9f8d47455917b9cd3a3ec642d02ce9dffa181a8a8b0db01",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.7/File.Renamer.Toolkit.1.7.dmg",
+  "sha256": "58dd08ad9fba2a35164e1cf4b3ce921d98720767eba769197d18e306bfa82cf9",
   "releasedAt": "2026-08-17",
-  "headline": "The premium round",
+  "headline": "Fast again, and a real transport",
   "highlights": [
-    "K reads the batch, chains asks, and bundles clean-ups",
-    "20 verified fixes from an adversarial audit — undo, ordinals, filters, Esc",
-    "Rules reorder with arrows; tuned for 5k rows on 2017 iMacs"
+    "Speech picks the model your machine can afford — seconds, not minutes",
+    "Seekable waveform, 3× speed at unchanged pitch, skip-silence, auto-play",
+    "Open any file in Finder or another app; results appear where you are"
   ]
 }
