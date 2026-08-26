@@ -1,14 +1,15 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.29",
+  "latestVersion": "3.30",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.29/Audio.Distribution.Toolkit.3.29.dmg",
-  "sha256": "8211e48b0f5f3f0006dda122b97e991d246c9471495710a393737e3326d62397",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.30/Audio.Distribution.Toolkit.3.30.dmg",
+  "sha256": "5fa5a311cdcce7f9c00f3193c54cfbc359cd7ba9f9db7a573f815cf0d9b2f1c2",
   "releasedAt": "2026-08-26",
-  "headline": "Clips that open on silence sync again",
+  "headline": "Scenes cut from many takes now sync",
   "highlights": [
-    "A clip that opens on room tone or silence before the first word syncs again — every placement was scored from the clip's first two seconds, so a quiet opening scored zero against the position that was exactly right",
-    "That same silence could also place a clip somewhere else entirely and still call it solved; those placements are right now",
-    "A clip exactly as long as the master now syncs, and one genuinely longer says which of the two reasons it was refused"
+    "A clip assembled from a dozen or more takes now syncs — a 2:51 assembly against a 22-minute source went from nothing placed to all of it placed, at 93% confidence",
+    "Matching is several times faster across the board: that same match takes 6.6 seconds where it took 49",
+    "Transcribe no longer crashes the app on Intel Macs",
+    "The stated requirement is now macOS 13.3 — the version the app has always actually needed"
   ]
 }
