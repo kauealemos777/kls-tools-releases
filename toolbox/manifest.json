@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.44",
+  "latestVersion": "1.45",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.44/KL.s.Audio.Localization.Toolbox.1.44.dmg",
-  "sha256": "04aaa013c31865d2d3f58cc26fc81c25b36592778c2cab5f78250aba75148e69",
-  "releasedAt": "2026-08-21",
-  "headline": "EARTH - Delivery Check Toolkit joins the Custom Tools shelf",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.45/KL.s.Audio.Localization.Toolbox.1.45.dmg",
+  "sha256": "f1924b0e3e98004df116ee4a8e9206407298110b2b7c2937c50c8c8844573280",
+  "releasedAt": "2026-08-26",
+  "headline": "Audio File Manager Toolkit joins the Audio shelf",
   "highlights": [
-    "A tenth tool: the delivery script checked against the audio",
-    "Finds what is missing, mis-named, or not the same take",
-    "Exports into the client’s folder tree, tagged by pass and dated"
+    "An eleventh tool: a whole audio library indexed into fast, revisitable sessions",
+    "Paste hundreds of file names and resolve every one of them in a single pass",
+    "Flag into colour groups, tag in Finder, and copy or move preview-first"
   ]
 }
