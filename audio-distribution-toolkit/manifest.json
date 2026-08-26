@@ -1,13 +1,14 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.28",
+  "latestVersion": "3.29",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.28/Audio.Distribution.Toolkit.3.28.dmg",
-  "sha256": "d8e5f56b3e6516df84d4d88e00bdb94aa688508d48e63243f0c18a67ea3d038a",
-  "releasedAt": "2026-08-07",
-  "headline": "Runs on Ventura",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.29/Audio.Distribution.Toolkit.3.29.dmg",
+  "sha256": "8211e48b0f5f3f0006dda122b97e991d246c9471495710a393737e3326d62397",
+  "releasedAt": "2026-08-26",
+  "headline": "Clips that open on silence sync again",
   "highlights": [
-    "Now runs on macOS 13 Ventura and later — Intel and Apple Silicon alike, built for the studio's 2017 iMacs",
-    "Resolve Rest no longer leaks a whisper model per pass"
+    "A clip that opens on room tone or silence before the first word syncs again — every placement was scored from the clip's first two seconds, so a quiet opening scored zero against the position that was exactly right",
+    "That same silence could also place a clip somewhere else entirely and still call it solved; those placements are right now",
+    "A clip exactly as long as the master now syncs, and one genuinely longer says which of the two reasons it was refused"
   ]
 }
