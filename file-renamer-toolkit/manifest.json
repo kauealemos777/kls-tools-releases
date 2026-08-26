@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.7",
+  "latestVersion": "1.8",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.7/File.Renamer.Toolkit.1.7.dmg",
-  "sha256": "58dd08ad9fba2a35164e1cf4b3ce921d98720767eba769197d18e306bfa82cf9",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.8/File.Renamer.Toolkit.1.8.dmg",
+  "sha256": "76c4a61925298d88913a8d6d4fc0c9a79f780f65562a7ae16209bd6cbf661046",
   "releasedAt": "2026-08-17",
-  "headline": "Fast again, and a real transport",
+  "headline": "Three times faster, measured",
   "highlights": [
-    "Speech picks the model your machine can afford — seconds, not minutes",
-    "Seekable waveform, 3× speed at unchanged pitch, skip-silence, auto-play",
-    "Open any file in Finder or another app; results appear where you are"
+    "About 3x faster transcription on CPU Macs — identical transcripts",
+    "Pick the speech model right in Script Match: size and speed, per model",
+    "Every run reports its own pace, in the status line and diagnostics"
   ]
 }
