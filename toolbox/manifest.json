@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.48",
+  "latestVersion": "1.49",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.48/KL.s.Audio.Localization.Toolbox.1.48.dmg",
-  "sha256": "ca4115a4a32546d1ed030e42a9c6ac83afabcb3edb86860a0f0866edadefb023",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.49/KL.s.Audio.Localization.Toolbox.1.49.dmg",
+  "sha256": "0d75ee29ad52c4ecd54b8781bffa83463f39d25fac4ec814a0ab2856eba8ddfe",
   "releasedAt": "2026-08-26",
-  "headline": "Bug reports arrive somewhere",
+  "headline": "Reports that say what crashed",
   "highlights": [
-    "Admin → Bug Reports shows everything people sent with Send Diagnostics",
-    "The menu carries a count of what arrived since you last looked"
+    "Reports now carry what macOS recorded the last few times that app crashed",
+    "Bug Reports names the app, shows a real date, and shows the sender's note"
   ]
 }
