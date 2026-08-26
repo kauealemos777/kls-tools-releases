@@ -223,9 +223,7 @@
     {
       "allowedProducts" : [
         "distribution-toolkit",
-        "file-renamer-toolkit",
-        "earth-backup-builder",
-        "earth-delivery-check-toolkit"
+        "file-renamer-toolkit"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
@@ -235,6 +233,8 @@
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
       "isAdmin" : false,
