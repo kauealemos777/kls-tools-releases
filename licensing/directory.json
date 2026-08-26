@@ -1,25 +1,26 @@
 {
-  "entries": [
+  "entries" : [
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
         "merge-stems-tool",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "audio-file-manager-toolkit"
       ],
-      "hiddenProducts": [
+      "hiddenProducts" : [
         "script-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
-      "username": "gustavo"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
+      "username" : "gustavo"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -33,13 +34,13 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_F34A854A-4AC5-4796-9344-2872AF97B896",
-      "username": "kaue"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_F34A854A-4AC5-4796-9344-2872AF97B896",
+      "username" : "kaue"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -53,26 +54,27 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_E8E62405-D8F5-4B70-AD7F-56A24912CEB6",
-      "username": "kaue"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_E8E62405-D8F5-4B70-AD7F-56A24912CEB6",
+      "username" : "kaue"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_FC8C2684-C427-4001-B988-5F39A405E799",
-      "username": "Matthew Montanez"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_FC8C2684-C427-4001-B988-5F39A405E799",
+      "username" : "Matthew Montanez"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -86,13 +88,13 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_76C9EBB6-AB0A-4E68-88BE-3905FF3B166F",
-      "username": "Kaue Lemos"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_76C9EBB6-AB0A-4E68-88BE-3905FF3B166F",
+      "username" : "Kaue Lemos"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -106,13 +108,13 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_62CE7BB1-3C7C-4E7E-A992-C23F0499928D",
-      "username": "Kaue Lemos"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_62CE7BB1-3C7C-4E7E-A992-C23F0499928D",
+      "username" : "Kaue Lemos"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -126,13 +128,13 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_DECE51F6-CEFD-4F54-90B7-8FEA430AE08E",
-      "username": "Kaue Lemos"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_DECE51F6-CEFD-4F54-90B7-8FEA430AE08E",
+      "username" : "Kaue Lemos"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -146,13 +148,13 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_F8E37C8B-124B-44F6-9B06-D281D6CC1CCA",
-      "username": "Kaue Lemos"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_F8E37C8B-124B-44F6-9B06-D281D6CC1CCA",
+      "username" : "Kaue Lemos"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -160,15 +162,16 @@
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_71A788D8-CD60-4CB0-BE45-D92844F8366C",
-      "username": "Pedro Nunes"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_71A788D8-CD60-4CB0-BE45-D92844F8366C",
+      "username" : "Pedro Nunes"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -176,51 +179,55 @@
         "document-builder-toolkit",
         "voice-fx-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_D8BEF4C3-6918-49B8-A890-C748E3110A2A",
-      "username": "Pedro Nunes"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_D8BEF4C3-6918-49B8-A890-C748E3110A2A",
+      "username" : "Pedro Nunes"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_68AD3915-E333-4CA0-8626-472AA0E4D01C",
-      "username": "Matthew Montanez"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_68AD3915-E333-4CA0-8626-472AA0E4D01C",
+      "username" : "Matthew Montanez"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
         "merge-stems-tool",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "audio-file-manager-toolkit"
       ],
-      "hiddenProducts": [
+      "hiddenProducts" : [
         "script-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_75FE6681-E713-40E3-9D13-FFDA73EEB3F7",
-      "username": "gustavo"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_75FE6681-E713-40E3-9D13-FFDA73EEB3F7",
+      "username" : "gustavo"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "distribution-toolkit",
         "file-renamer-toolkit",
-        "earth-backup-builder"
+        "earth-backup-builder",
+        "audio-file-manager-toolkit"
       ],
-      "hiddenProducts": [
+      "hiddenProducts" : [
         "preproduction-toolkit",
         "qa-toolkit",
         "script-toolkit",
@@ -229,13 +236,13 @@
         "voice-fx-toolkit",
         "video-converter-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_4F1462D5-1140-4AEC-ABDA-A4BA6CC7CE80",
-      "username": "Rafael Miranda"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_4F1462D5-1140-4AEC-ABDA-A4BA6CC7CE80",
+      "username" : "Rafael Miranda"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -249,13 +256,13 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_E5D7F669-67F5-40A5-88D9-ED7A4817E754",
-      "username": "Kaue Lemos"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_E5D7F669-67F5-40A5-88D9-ED7A4817E754",
+      "username" : "Kaue Lemos"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
@@ -269,23 +276,24 @@
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit"
       ],
-      "isAdmin": true,
-      "revoked": false,
-      "tokenID": "tok_1284D56D-F9B8-4637-9493-E0819A67A397",
-      "username": "Kaue Lemos"
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_1284D56D-F9B8-4637-9493-E0819A67A397",
+      "username" : "Kaue Lemos"
     },
     {
-      "allowedProducts": [
+      "allowedProducts" : [
         "preproduction-toolkit",
         "distribution-toolkit",
         "qa-toolkit",
         "video-converter-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit"
       ],
-      "isAdmin": false,
-      "revoked": false,
-      "tokenID": "tok_A9374F84-F538-45A6-98C8-E2FC43FB7488",
-      "username": "Matthew Montanez"
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_A9374F84-F538-45A6-98C8-E2FC43FB7488",
+      "username" : "Matthew Montanez"
     }
   ]
 }
