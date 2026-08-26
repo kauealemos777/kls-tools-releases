@@ -1,14 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.45",
+  "latestVersion": "1.46",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.45/KL.s.Audio.Localization.Toolbox.1.45.dmg",
-  "sha256": "f1924b0e3e98004df116ee4a8e9206407298110b2b7c2937c50c8c8844573280",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.46/KL.s.Audio.Localization.Toolbox.1.46.dmg",
+  "sha256": "fd9aaeef824d0b2aad7360eb42e83224860306b4e3f2a4d89c48b75791647615",
   "releasedAt": "2026-08-26",
-  "headline": "Audio File Manager Toolkit joins the Audio shelf",
+  "headline": "One File Manager, not two",
   "highlights": [
-    "An eleventh tool: a whole audio library indexed into fast, revisitable sessions",
-    "Paste hundreds of file names and resolve every one of them in a single pass",
-    "Flag into colour groups, tag in Finder, and copy or move preview-first"
+    "The upcoming File Manager Toolkit tile is gone — Audio File Manager Toolkit already does that job"
   ]
 }
