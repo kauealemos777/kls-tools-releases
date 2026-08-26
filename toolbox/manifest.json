@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.47",
+  "latestVersion": "1.48",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.47/KL.s.Audio.Localization.Toolbox.1.47.dmg",
-  "sha256": "56309bb10f30a5e49f7f02dceeea5a80ac622a9594e2e329d2146bde009ac2ce",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.48/KL.s.Audio.Localization.Toolbox.1.48.dmg",
+  "sha256": "ca4115a4a32546d1ed030e42a9c6ac83afabcb3edb86860a0f0866edadefb023",
   "releasedAt": "2026-08-26",
-  "headline": "Admins get new tools automatically",
+  "headline": "Bug reports arrive somewhere",
   "highlights": [
-    "Anyone flagged Admin is allowed every released tool the moment it ships",
-    "One Save & Publish carries it to their Macs"
+    "Admin → Bug Reports shows everything people sent with Send Diagnostics",
+    "The menu carries a count of what arrived since you last looked"
   ]
 }
