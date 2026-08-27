@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.54",
+  "latestVersion": "1.55",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.54/KL.s.Audio.Localization.Toolbox.1.54.dmg",
-  "sha256": "aaf168453f16e0a2a0e89b5cf982a017099c611287d033e46dde9bb9c7133edb",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.55/KL.s.Audio.Localization.Toolbox.1.55.dmg",
+  "sha256": "349d1ae434aa969165f5fa608d03ea3db476d73499558a5966399cd1e5e483a9",
   "releasedAt": "2026-08-26",
-  "headline": "Five things a deep review found",
+  "headline": "Lighter on its feet",
   "highlights": [
-    "A damaged access directory can no longer be republished as an empty one",
-    "Update badges clear when a tool is updated or deleted",
-    "Installing a tool no longer stutters the window"
+    "A Toolbox update no longer freezes the window while it installs",
+    "Manage Users stops running git commands on every change",
+    "The Home grid stops reading every app from disk on every redraw"
   ]
 }
