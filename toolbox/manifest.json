@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.51",
+  "latestVersion": "1.52",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.51/KL.s.Audio.Localization.Toolbox.1.51.dmg",
-  "sha256": "f1e0e41bbc67140b1aec4d712a16b8869cd318b0b03b81cbdef7e55acc4b7829",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.52/KL.s.Audio.Localization.Toolbox.1.52.dmg",
+  "sha256": "39b277b49d2cd1bb84f48bf76e8ba23ca0ce0a20310fc6837c955d4afb3f86bb",
   "releasedAt": "2026-08-26",
-  "headline": "No licence for a tool that cannot run",
+  "headline": "Pick what the widget carries",
   "highlights": [
-    "Manage Users won't grant a tool a person's Mac is too old to open",
-    "Each row says which macOS the tool needs and which one their Mac reports"
+    "Settings → Widget chooses which tools appear on the widget",
+    "The medium widget names each tool under its icon"
   ]
 }
