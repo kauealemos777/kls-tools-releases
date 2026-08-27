@@ -1,14 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.55",
+  "latestVersion": "1.56",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.55/KL.s.Audio.Localization.Toolbox.1.55.dmg",
-  "sha256": "349d1ae434aa969165f5fa608d03ea3db476d73499558a5966399cd1e5e483a9",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.56/KL.s.Audio.Localization.Toolbox.1.56.dmg",
+  "sha256": "7c470f649f12f020c803cf54d20b49db950922d3b266b00476ad584130a1255d",
   "releasedAt": "2026-08-26",
-  "headline": "Lighter on its feet",
+  "headline": "A failed install can no longer cost you the app",
   "highlights": [
-    "A Toolbox update no longer freezes the window while it installs",
-    "Manage Users stops running git commands on every change",
-    "The Home grid stops reading every app from disk on every redraw"
+    "Installs stage the new copy and swap it in — a failure never leaves you with nothing",
+    "Send Diagnostics shows your name in the preview, because the send includes it"
   ]
 }
