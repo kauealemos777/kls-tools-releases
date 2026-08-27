@@ -1,15 +1,15 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.0",
+  "latestVersion": "3.1",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.0/Audio.QA.Toolkit.3.0.dmg",
-  "sha256": "c2e6aca2c8b1db1f5e5cf980c37c3951742ae3ebee06ac5b73777662163b353c",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.1/Audio.QA.Toolkit.3.1.dmg",
+  "sha256": "0924eec85b1f023f0434a5233f088a8a719257490b70c287981709c484343c4c",
   "releasedAt": "2026-08-21",
-  "headline": "A pass finally looks like a pass",
+  "headline": "A selected region matches the matching part of the source",
   "highlights": [
-    "Fix: approved and on-spec things were the same pink as failures — pass is now green",
-    "The stage meter reads at a glance: green to −12, peach to −6, rose above",
-    "A Specs block shows every delivery measurement in one place, against the source and the spec",
-    "Select several files and the specs summarise across them, naming the first offender"
+    "Fix: Smart EQ Match compared your selection against the whole source — it now maps onto the source through the sync offset",
+    "1o1 Master follows a selection too, and leaves the rest of the file untouched",
+    "Fix: EQ regions drifted on non-48 kHz deliveries; they are seconds now",
+    "A selection that maps outside the source is refused rather than matched against silence"
   ]
 }
