@@ -1,12 +1,15 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "2.8",
+  "latestVersion": "2.9",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v2.8/Audio.QA.Toolkit.2.8.dmg",
-  "sha256": "994c9a976725a31bade9cd89e80135fc0df47d0e0c39cbb78594e72fbd1ad605",
-  "releasedAt": "2026-08-09",
-  "headline": "Send diagnostics in one click",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v2.9/Audio.QA.Toolkit.2.9.dmg",
+  "sha256": "482960b2498fa37dac473f984df517c581585d3c7af32cfd3f7d645769ad29db",
+  "releasedAt": "2026-08-21",
+  "headline": "Run anything over a whole selection",
   "highlights": [
-    "Help → Send Diagnostics to KL — readable in full before anything is sent"
+    "Every process runs in batch — Magic Sound Sync, silence match, stretch to source and the full repair suite join the four that already did",
+    "The toolbar's Smart menu becomes Process and holds everything, named to match the edit bar",
+    "Normalize gains Force: reaches a LUFS target even when the peaks already sit on the ceiling, and says so when it can't",
+    "A second sync figure, Entries, measures how precisely each phrase starts"
   ]
 }
