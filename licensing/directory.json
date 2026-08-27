@@ -9,7 +9,8 @@
         "video-converter-toolkit",
         "file-renamer-toolkit",
         "earth-backup-builder",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "hiddenProducts" : [
         "script-toolkit"
@@ -32,7 +33,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -52,7 +54,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -66,7 +69,8 @@
         "qa-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
@@ -86,7 +90,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -106,7 +111,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -126,7 +132,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -146,7 +153,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -163,7 +171,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
@@ -180,7 +189,8 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
@@ -194,7 +204,8 @@
         "qa-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
@@ -210,7 +221,8 @@
         "video-converter-toolkit",
         "file-renamer-toolkit",
         "earth-backup-builder",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "hiddenProducts" : [
         "script-toolkit"
@@ -224,7 +236,8 @@
       "allowedProducts" : [
         "distribution-toolkit",
         "file-renamer-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
@@ -255,7 +268,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -275,7 +289,8 @@
         "file-renamer-toolkit",
         "earth-backup-builder",
         "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -289,7 +304,8 @@
         "qa-toolkit",
         "video-converter-toolkit",
         "file-renamer-toolkit",
-        "audio-file-manager-toolkit"
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
