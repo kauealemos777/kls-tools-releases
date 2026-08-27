@@ -1,15 +1,15 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "2.9",
+  "latestVersion": "3.0",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v2.9/Audio.QA.Toolkit.2.9.dmg",
-  "sha256": "482960b2498fa37dac473f984df517c581585d3c7af32cfd3f7d645769ad29db",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.0/Audio.QA.Toolkit.3.0.dmg",
+  "sha256": "c2e6aca2c8b1db1f5e5cf980c37c3951742ae3ebee06ac5b73777662163b353c",
   "releasedAt": "2026-08-21",
-  "headline": "Run anything over a whole selection",
+  "headline": "A pass finally looks like a pass",
   "highlights": [
-    "Every process runs in batch — Magic Sound Sync, silence match, stretch to source and the full repair suite join the four that already did",
-    "The toolbar's Smart menu becomes Process and holds everything, named to match the edit bar",
-    "Normalize gains Force: reaches a LUFS target even when the peaks already sit on the ceiling, and says so when it can't",
-    "A second sync figure, Entries, measures how precisely each phrase starts"
+    "Fix: approved and on-spec things were the same pink as failures — pass is now green",
+    "The stage meter reads at a glance: green to −12, peach to −6, rose above",
+    "A Specs block shows every delivery measurement in one place, against the source and the spec",
+    "Select several files and the specs summarise across them, naming the first offender"
   ]
 }
