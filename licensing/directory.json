@@ -223,7 +223,8 @@
     {
       "allowedProducts" : [
         "distribution-toolkit",
-        "file-renamer-toolkit"
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
@@ -234,8 +235,7 @@
         "voice-fx-toolkit",
         "video-converter-toolkit",
         "earth-backup-builder",
-        "earth-delivery-check-toolkit",
-        "audio-file-manager-toolkit"
+        "earth-delivery-check-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
