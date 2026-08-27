@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.53",
+  "latestVersion": "1.54",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.53/KL.s.Audio.Localization.Toolbox.1.53.dmg",
-  "sha256": "7f2b609baf6af39787272dc943a46e0ab47ba5e586371fdf9fc66ca38a6e6115",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.54/KL.s.Audio.Localization.Toolbox.1.54.dmg",
+  "sha256": "aaf168453f16e0a2a0e89b5cf982a017099c611287d033e46dde9bb9c7133edb",
   "releasedAt": "2026-08-26",
-  "headline": "Search, and the tools you actually use",
+  "headline": "Five things a deep review found",
   "highlights": [
-    "Search every tool by name or by what it does — ⌘F, across all five shelves",
-    "A Recent row with the tools you opened last",
-    "Bug Reports grouped by app and filtered by kind"
+    "A damaged access directory can no longer be republished as an empty one",
+    "Update badges clear when a tool is updated or deleted",
+    "Installing a tool no longer stutters the window"
   ]
 }
