@@ -1,13 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.52",
+  "latestVersion": "1.53",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.52/KL.s.Audio.Localization.Toolbox.1.52.dmg",
-  "sha256": "39b277b49d2cd1bb84f48bf76e8ba23ca0ce0a20310fc6837c955d4afb3f86bb",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.53/KL.s.Audio.Localization.Toolbox.1.53.dmg",
+  "sha256": "7f2b609baf6af39787272dc943a46e0ab47ba5e586371fdf9fc66ca38a6e6115",
   "releasedAt": "2026-08-26",
-  "headline": "Pick what the widget carries",
+  "headline": "Search, and the tools you actually use",
   "highlights": [
-    "Settings → Widget chooses which tools appear on the widget",
-    "The medium widget names each tool under its icon"
+    "Search every tool by name or by what it does — ⌘F, across all five shelves",
+    "A Recent row with the tools you opened last",
+    "Bug Reports grouped by app and filtered by kind"
   ]
 }
