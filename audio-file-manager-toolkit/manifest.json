@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.0",
+  "latestVersion": "1.2",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.0/Audio.File.Manager.Toolkit.1.0.dmg",
-  "sha256": "816d65b02c515d1487376a4b02264346e697e9bf207ae4bdff172ea88c9a5296",
-  "releasedAt": "2026-08-26",
-  "headline": "Index, search, and deliver audio",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.2/Audio.File.Manager.Toolkit.1.2.dmg",
+  "sha256": "7dc8df4d6b64d93b34aa8a89f22a10cc71c8704b15266a7f6f01714b07044982",
+  "releasedAt": "2026-08-27",
+  "headline": "Copy and move, reachable and working",
   "highlights": [
-    "Index a whole library into revisitable sessions and browse it instantly",
-    "Paste hundreds of file names and resolve every one in a single pass",
-    "Flag into colour groups, tag in Finder, and copy or move preview-first"
+    "Copy / Move and the tag editor now have their own bar instead of being clipped off the window",
+    "The transfer sheet receives the files you actually selected",
+    "Send files into a new folder you name, created for you at the destination"
   ]
 }
