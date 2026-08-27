@@ -1,13 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.56",
+  "latestVersion": "1.57",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.56/KL.s.Audio.Localization.Toolbox.1.56.dmg",
-  "sha256": "7c470f649f12f020c803cf54d20b49db950922d3b266b00476ad584130a1255d",
-  "releasedAt": "2026-08-26",
-  "headline": "A failed install can no longer cost you the app",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.57/KL.s.Audio.Localization.Toolbox.1.57.dmg",
+  "sha256": "203a1941a133bb52f9f928ba68f1ddfe9503228737b94186fd08997756c30791",
+  "releasedAt": "2026-08-27",
+  "headline": "A new tool: Files Structure Toolkit",
   "highlights": [
-    "Installs stage the new copy and swap it in — a failure never leaves you with nothing",
-    "Send Diagnostics shows your name in the preview, because the send includes it"
+    "Files Structure Toolkit is on the Production Tools shelf — it sorts audio into MONO, STEREO and multichannel folders by the channel count in each file's own header"
   ]
 }
