@@ -1,13 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.49",
+  "latestVersion": "1.50",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.49/KL.s.Audio.Localization.Toolbox.1.49.dmg",
-  "sha256": "0d75ee29ad52c4ecd54b8781bffa83463f39d25fac4ec814a0ab2856eba8ddfe",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.50/KL.s.Audio.Localization.Toolbox.1.50.dmg",
+  "sha256": "0c584850add1df919dde7292c024ebb2e6d387a3d487b5cc63a5ab1c7f6d15f1",
   "releasedAt": "2026-08-26",
-  "headline": "Reports that say what crashed",
+  "headline": "Reporting a problem, made easy",
   "highlights": [
-    "Reports now carry what macOS recorded the last few times that app crashed",
-    "Bug Reports names the app, shows a real date, and shows the sender's note"
+    "The report dialog says what three lines make a problem fixable",
+    "Nothing to find, export or attach — the app gathers it all",
+    "Where it runs from, Rosetta, memory, display, locale, and the family beside it"
   ]
 }
