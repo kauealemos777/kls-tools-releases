@@ -1,14 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.14",
+  "latestVersion": "1.15",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.14/PT.Session.Toolkit.1.14.dmg",
-  "sha256": "6edd8d150ebca8579db026f128a79c01a50df828b75c2e4f4e18c4eb11613266",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.15/PT.Session.Toolkit.1.15.dmg",
+  "sha256": "ad1125574166bdf52284a7ec35e1e4b8ac84519c5d1b78d62b2c7cd037e9e5ca",
   "releasedAt": "2026-08-21",
-  "headline": "Every role lands on its own track",
+  "headline": "Marker names you can edit",
   "highlights": [
-    "A role no longer comes out empty when the session already has a track of that name",
-    "Clip names survive a delivery with the same filenames in a folder per character",
-    "Counts add up: blank files counted, one progress total, honest disk figures"
+    "Rename any character's marker after the import \u2014 no re-importing the script",
+    "The toolbar stops rearranging itself every few seconds",
+    "Every role lands on its own track (1.14)"
   ]
 }
