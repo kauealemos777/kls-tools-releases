@@ -1,15 +1,16 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.1",
+  "latestVersion": "3.2",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.1/Audio.QA.Toolkit.3.1.dmg",
-  "sha256": "0924eec85b1f023f0434a5233f088a8a719257490b70c287981709c484343c4c",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.2/Audio.QA.Toolkit.3.2.dmg",
+  "sha256": "6babbdc565b8337ca35b3cea6b4f8b2699b73276c8e42b90f7d5397ef7a72435",
   "releasedAt": "2026-08-21",
-  "headline": "A selected region matches the matching part of the source",
+  "headline": "The transport, the stage and the Open panel stop fighting you",
   "highlights": [
-    "Fix: Smart EQ Match compared your selection against the whole source — it now maps onto the source through the sync offset",
-    "1o1 Master follows a selection too, and leaves the rest of the file untouched",
-    "Fix: EQ regions drifted on non-48 kHz deliveries; they are seconds now",
-    "A selection that maps outside the source is refused rather than matched against silence"
+    "Fix: projects saved earlier appeared greyed out and could not be opened",
+    "Fix: autoplay no longer cuts out, and no longer starts on the raw take before jumping to the edit",
+    "Fix: saving no longer loses the file you are working on",
+    "1o1 Normalize on ⌃N levels to the source, using the matching region of it",
+    "Export can overwrite the imported files in place, or take its layout from a folder or CSV"
   ]
 }
