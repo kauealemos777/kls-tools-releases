@@ -13,7 +13,9 @@
         "files-structure-toolkit"
       ],
       "hiddenProducts" : [
-        "script-toolkit"
+        "script-toolkit",
+        "document-builder-toolkit",
+        "voice-fx-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
@@ -225,7 +227,9 @@
         "files-structure-toolkit"
       ],
       "hiddenProducts" : [
-        "script-toolkit"
+        "script-toolkit",
+        "document-builder-toolkit",
+        "voice-fx-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
