@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.58",
+  "latestVersion": "1.59",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.58/KL.s.Audio.Localization.Toolbox.1.58.dmg",
-  "sha256": "4887f3abd174eaca9f1bd904bda04ef606cf77a1903b5ef4367501fa59ea6a83",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.59/KL.s.Audio.Localization.Toolbox.1.59.dmg",
+  "sha256": "f40d47c266afe1c660d5f804c9ebbaffa6c3f68f07b9cff915e3c16b6c41e2ec",
   "releasedAt": "2026-08-27",
-  "headline": "Ask for a feature, and no more phantom updates",
+  "headline": "Nothing offers to install what you can't open",
   "highlights": [
-    "A tool you aren't licensed for no longer offers you an update",
-    "Help → Ask KL for a Feature sends an idea, not a fault",
-    "Admin → Feature Requests keeps them in their own list, exportable as CSV"
+    "A tool outside your license no longer offers to install itself",
+    "Home always says how many are installed, updating, missing or unlicensed",
+    "A license name can be corrected properly, not just in the admin's window"
   ]
 }
