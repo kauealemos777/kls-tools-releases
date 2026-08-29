@@ -1,14 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.15",
+  "latestVersion": "1.16",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.15/PT.Session.Toolkit.1.15.dmg",
-  "sha256": "ad1125574166bdf52284a7ec35e1e4b8ac84519c5d1b78d62b2c7cd037e9e5ca",
-  "releasedAt": "2026-08-21",
-  "headline": "Marker names you can edit",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.16/PT.Session.Toolkit.1.16.dmg",
+  "sha256": "f2316801e3d30ef346be1c8e0ec0d8109db2773b80d5bf8b0dcb5c759be7b6d4",
+  "releasedAt": "2026-08-27",
+  "headline": "Much faster on big sessions",
   "highlights": [
-    "Rename any character's marker after the import \u2014 no re-importing the script",
-    "The toolbar stops rearranging itself every few seconds",
-    "Every role lands on its own track (1.14)"
+    "Pasted columns line up even when a cell contains a line break",
+    "Big sessions open folded instead of building a row per clip",
+    "A Stop button, a Notes column on markers, reorderable extra tracks"
   ]
 }
