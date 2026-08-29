@@ -1,14 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.16",
+  "latestVersion": "1.17",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.16/PT.Session.Toolkit.1.16.dmg",
-  "sha256": "f2316801e3d30ef346be1c8e0ec0d8109db2773b80d5bf8b0dcb5c759be7b6d4",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.17/PT.Session.Toolkit.1.17.dmg",
+  "sha256": "a8ffb674e04e31a8cb6f63b8ef4c1b4f6cef28b6062eb69ccde3b2f114b209dc",
   "releasedAt": "2026-08-27",
-  "headline": "Much faster on big sessions",
+  "headline": "A build that says what it is doing",
   "highlights": [
-    "Pasted columns line up even when a cell contains a line break",
-    "Big sessions open folded instead of building a row per clip",
-    "A Stop button, a Notes column on markers, reorderable extra tracks"
+    "Named stages tick off as the build runs — tracks, audio, clips, markers, saving",
+    "The track or clip being handled right now is shown underneath",
+    "Elapsed time, lines per second, and roughly how much is left"
   ]
 }
