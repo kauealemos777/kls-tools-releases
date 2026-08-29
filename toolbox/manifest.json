@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.59",
+  "latestVersion": "1.60",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.59/KL.s.Audio.Localization.Toolbox.1.59.dmg",
-  "sha256": "f40d47c266afe1c660d5f804c9ebbaffa6c3f68f07b9cff915e3c16b6c41e2ec",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.60/KL.s.Audio.Localization.Toolbox.1.60.dmg",
+  "sha256": "2d42a35774302e83ce75713ab83dfe67929ef2678ea8d386a8bc0bf651a66cd7",
   "releasedAt": "2026-08-27",
-  "headline": "Nothing offers to install what you can't open",
+  "headline": "A shelf of your own",
   "highlights": [
-    "A tool outside your license no longer offers to install itself",
-    "Home always says how many are installed, updating, missing or unlicensed",
-    "A license name can be corrected properly, not just in the admin's window"
+    "Star tools for a Favorites shelf you arrange yourself, larger where you want emphasis",
+    "The widget draws the same list in the same order",
+    "Feature requests can be archived or deleted"
   ]
 }
