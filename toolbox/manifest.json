@@ -1,14 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.63",
+  "latestVersion": "1.64",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.63/KL.s.Audio.Localization.Toolbox.1.63.dmg",
-  "sha256": "683dd9917c803f2965295c0baff875603056c25239225273183e2d8f97287d13",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.64/KL.s.Audio.Localization.Toolbox.1.64.dmg",
+  "sha256": "4dc129c33cbeac422751930bfca24f87b13fcbef11f313ff8d05c8bac9ed39da",
   "releasedAt": "2026-08-27",
-  "headline": "Larger actually means larger",
+  "headline": "Icons cast their own light",
   "highlights": [
-    "Show Larger genuinely enlarges the icon — verified on screen before shipping",
-    "The gold star sits beside the name; shelf colours are three times stronger",
-    "Bug reports triage in bulk, and carry the kind the sender ticked"
+    "Pointing at a tool lights it in its artwork's own colour",
+    "The favourite star is rose"
   ]
 }
