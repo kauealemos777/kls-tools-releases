@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.60",
+  "latestVersion": "1.61",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.60/KL.s.Audio.Localization.Toolbox.1.60.dmg",
-  "sha256": "2d42a35774302e83ce75713ab83dfe67929ef2678ea8d386a8bc0bf651a66cd7",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.61/KL.s.Audio.Localization.Toolbox.1.61.dmg",
+  "sha256": "3b9495e04a9a2d75d81d7ec7279f2058fb56de85663b09e83a147153a6a0c552",
   "releasedAt": "2026-08-27",
-  "headline": "A shelf of your own",
+  "headline": "Stars you can see, and a shelf that knows its colour",
   "highlights": [
-    "Star tools for a Favorites shelf you arrange yourself, larger where you want emphasis",
-    "The widget draws the same list in the same order",
-    "Feature requests can be archived or deleted"
+    "Every tile has a star — click it, drag favourites into order, show some larger",
+    "Each shelf has its own background tint",
+    "A line at the foot of the page says where to send a problem or an idea"
   ]
 }
