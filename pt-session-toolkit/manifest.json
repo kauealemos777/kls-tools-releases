@@ -1,14 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.17",
+  "latestVersion": "1.18",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.17/PT.Session.Toolkit.1.17.dmg",
-  "sha256": "a8ffb674e04e31a8cb6f63b8ef4c1b4f6cef28b6062eb69ccde3b2f114b209dc",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.18/PT.Session.Toolkit.1.18.dmg",
+  "sha256": "7b98dfd2948170e2bd2523398aff3d531326fb5732b0d6141834b7867029bda3",
   "releasedAt": "2026-08-28",
-  "headline": "A build that says what it is doing",
+  "headline": "A progress bar that means it",
   "highlights": [
-    "Named phases and a pace line instead of \u201cstep 412 of 1576\u201d",
-    "File \u203a Open Recent for your last ten session packages",
-    "Much faster on big sessions (1.16)"
+    "The bar counts the whole build, and the time left follows the current pace",
+    "The layout reports its own cost \u2014 \u201c2,000 clips laid out in 38 ms\u201d",
+    "Themes show both their colours; Collapse All is in the View menu"
   ]
 }
