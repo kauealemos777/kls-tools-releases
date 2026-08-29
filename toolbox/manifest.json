@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.61",
+  "latestVersion": "1.62",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.61/KL.s.Audio.Localization.Toolbox.1.61.dmg",
-  "sha256": "3b9495e04a9a2d75d81d7ec7279f2058fb56de85663b09e83a147153a6a0c552",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.62/KL.s.Audio.Localization.Toolbox.1.62.dmg",
+  "sha256": "53e3c11f30d5bd386ceef496da4fc667c300b5bde2f78e50c2d1857a7d31ca68",
   "releasedAt": "2026-08-27",
-  "headline": "Stars you can see, and a shelf that knows its colour",
+  "headline": "Triage the bug reports, and a star you can find",
   "highlights": [
-    "Every tile has a star — click it, drag favourites into order, show some larger",
-    "Each shelf has its own background tint",
-    "A line at the foot of the page says where to send a problem or an idea"
+    "Reports can be marked solved, archived, reopened, refiled or deleted",
+    "The star is gold and sits on the artwork; Show Larger works from any shelf",
+    "Dragging a favourite carries just the icon, not a grey rectangle"
   ]
 }
