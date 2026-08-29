@@ -317,6 +317,18 @@
       "revoked" : false,
       "tokenID" : "tok_A9374F84-F538-45A6-98C8-E2FC43FB7488",
       "username" : "Matthew Montanez"
+    },
+    {
+      "allowedProducts" : [
+        "qa-toolkit",
+        "distribution-toolkit",
+        "preproduction-toolkit",
+        "asrec-validator"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_F9EF45BC-D317-4001-B6EB-7387D2F628F5",
+      "username" : "Gustavo Bandeira"
     }
   ]
 }
