@@ -19,7 +19,7 @@
         "voice-fx-toolkit"
       ],
       "isAdmin" : false,
-      "revoked" : false,
+      "revoked" : true,
       "tokenID" : "tok_6CFFE38A-BB2F-4787-9646-EC7768925C35",
       "username" : "gustavo"
     },
@@ -234,7 +234,7 @@
         "voice-fx-toolkit"
       ],
       "isAdmin" : false,
-      "revoked" : false,
+      "revoked" : true,
       "tokenID" : "tok_75FE6681-E713-40E3-9D13-FFDA73EEB3F7",
       "username" : "gustavo"
     },
