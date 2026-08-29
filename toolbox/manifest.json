@@ -1,13 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.64",
+  "latestVersion": "1.65",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.64/KL.s.Audio.Localization.Toolbox.1.64.dmg",
-  "sha256": "4dc129c33cbeac422751930bfca24f87b13fcbef11f313ff8d05c8bac9ed39da",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.65/KL.s.Audio.Localization.Toolbox.1.65.dmg",
+  "sha256": "bcf2e3c165dd0c054392d26b6d0a61d2aad45500f3268d9fa1f8f8c132f55242",
   "releasedAt": "2026-08-27",
-  "headline": "Icons cast their own light",
+  "headline": "One colour per shelf, everywhere",
   "highlights": [
-    "Pointing at a tool lights it in its artwork's own colour",
-    "The favourite star is rose"
+    "The hover light behind a tool matches its shelf's background colour"
   ]
 }
