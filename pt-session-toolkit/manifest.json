@@ -4,11 +4,11 @@
   "installedAppName": "PT Session Toolkit.app",
   "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.17/PT.Session.Toolkit.1.17.dmg",
   "sha256": "a8ffb674e04e31a8cb6f63b8ef4c1b4f6cef28b6062eb69ccde3b2f114b209dc",
-  "releasedAt": "2026-08-27",
+  "releasedAt": "2026-08-28",
   "headline": "A build that says what it is doing",
   "highlights": [
-    "Named stages tick off as the build runs — tracks, audio, clips, markers, saving",
-    "The track or clip being handled right now is shown underneath",
-    "Elapsed time, lines per second, and roughly how much is left"
+    "Named phases and a pace line instead of \u201cstep 412 of 1576\u201d",
+    "File \u203a Open Recent for your last ten session packages",
+    "Much faster on big sessions (1.16)"
   ]
 }
