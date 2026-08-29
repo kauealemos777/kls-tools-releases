@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.9",
+  "latestVersion": "1.10",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.9/File.Renamer.Toolkit.1.9.dmg",
-  "sha256": "f9667cfba0b93b79b07224a8d3d32196188f64076c08961121333efa9a9ce386",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.10/File.Renamer.Toolkit.1.10.dmg",
+  "sha256": "169d72354a33e805c59d967cd965f5a448d9a1c90b99c9204cd91d847d83fbbc",
   "releasedAt": "2026-08-26",
-  "headline": "Intel Macs get their speed back",
+  "headline": "The review bench",
   "highlights": [
-    "The speech engine’s Intel half shipped without AVX2 — rebuilt with it",
-    "Apple Silicon untouched, verified byte-identical",
-    "Speech on Intel runs on the CPU by design — the GPU path could crash it"
+    "Doubled extensions (audiofile.wav.wav) are caught — one click fixes them",
+    "Fixed transport: the waveform never shifts the layout again",
+    "Auto-play walks the session, with a full keyboard review loop"
   ]
 }
