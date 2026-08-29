@@ -1,16 +1,15 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.2",
+  "latestVersion": "3.3",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.2/Audio.QA.Toolkit.3.2.dmg",
-  "sha256": "6babbdc565b8337ca35b3cea6b4f8b2699b73276c8e42b90f7d5397ef7a72435",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.3/Audio.QA.Toolkit.3.3.dmg",
+  "sha256": "ddd75a4d3b95bf1f158afd121303913628cee78d10e8c014933c9b14bcd26969",
   "releasedAt": "2026-08-21",
-  "headline": "The transport, the stage and the Open panel stop fighting you",
+  "headline": "Export follows the folder structure you point it at",
   "highlights": [
-    "Fix: projects saved earlier appeared greyed out and could not be opened",
-    "Fix: autoplay no longer cuts out, and no longer starts on the raw take before jumping to the edit",
-    "Fix: saving no longer loses the file you are working on",
-    "1o1 Normalize on ⌃N levels to the source, using the matching region of it",
-    "Export can overwrite the imported files in place, or take its layout from a folder or CSV"
+    "Fix: Mirror source structure now follows the SOURCE's folder tree, not the target's import path",
+    "Fix: exporting from a reference folder no longer prepends a stray folder to every path",
+    "Fix: export settings no longer reset after updating",
+    "The waveform panel no longer closes on its own — it has a Hide button instead"
   ]
 }
