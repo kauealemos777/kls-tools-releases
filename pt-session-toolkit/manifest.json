@@ -1,13 +1,14 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.19",
+  "latestVersion": "1.20",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.19/PT.Session.Toolkit.1.19.dmg",
-  "sha256": "8daff3908542e0def502b85515affa6ad3e3bcde50d9f4243940e386b8b53344",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.20/PT.Session.Toolkit.1.20.dmg",
+  "sha256": "0492187207c5a1e809cfc2ed4c10968662eb9d0303b26b25586995260220c459",
   "releasedAt": "2026-08-28",
-  "headline": "Every clip keeps its own name",
+  "headline": "Themes that show, and reports that sort themselves",
   "highlights": [
-    "Fixes every clip in a session coming out called \u201c__muted\u201d",
-    "Files the script does not list are reported, with a sheet to review and remove them"
+    "The theme finally colours the preview \u2014 TC colours no longer override it silently",
+    "Problem reports carry what kind of problem they are, as ticks",
+    "Every clip keeps its own name (1.19)"
   ]
 }
