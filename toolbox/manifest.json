@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.62",
+  "latestVersion": "1.63",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.62/KL.s.Audio.Localization.Toolbox.1.62.dmg",
-  "sha256": "53e3c11f30d5bd386ceef496da4fc667c300b5bde2f78e50c2d1857a7d31ca68",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.63/KL.s.Audio.Localization.Toolbox.1.63.dmg",
+  "sha256": "683dd9917c803f2965295c0baff875603056c25239225273183e2d8f97287d13",
   "releasedAt": "2026-08-27",
-  "headline": "Triage the bug reports, and a star you can find",
+  "headline": "Larger actually means larger",
   "highlights": [
-    "Reports can be marked solved, archived, reopened, refiled or deleted",
-    "The star is gold and sits on the artwork; Show Larger works from any shelf",
-    "Dragging a favourite carries just the icon, not a grey rectangle"
+    "Show Larger genuinely enlarges the icon — verified on screen before shipping",
+    "The gold star sits beside the name; shelf colours are three times stronger",
+    "Bug reports triage in bulk, and carry the kind the sender ticked"
   ]
 }
