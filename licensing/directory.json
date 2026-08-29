@@ -320,10 +320,21 @@
     },
     {
       "allowedProducts" : [
-        "qa-toolkit",
-        "distribution-toolkit",
         "preproduction-toolkit",
-        "asrec-validator"
+        "distribution-toolkit",
+        "qa-toolkit",
+        "merge-stems-tool",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "document-builder-toolkit",
+        "voice-fx-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
