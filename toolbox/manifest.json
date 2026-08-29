@@ -1,12 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.65",
+  "latestVersion": "1.66",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.65/KL.s.Audio.Localization.Toolbox.1.65.dmg",
-  "sha256": "bcf2e3c165dd0c054392d26b6d0a61d2aad45500f3268d9fa1f8f8c132f55242",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.66/KL.s.Audio.Localization.Toolbox.1.66.dmg",
+  "sha256": "41b70aaba16abb79b83ee0b7d4d34e4ff45ef3f56aac9da708c6069782028219",
   "releasedAt": "2026-08-27",
-  "headline": "One colour per shelf, everywhere",
+  "headline": "Favorites wears gold",
   "highlights": [
-    "The hover light behind a tool matches its shelf's background colour"
+    "The shelf you compose yourself has its own colour — gold, in the wash and the hover light"
   ]
 }
