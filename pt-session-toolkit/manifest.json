@@ -1,14 +1,13 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.18",
+  "latestVersion": "1.19",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.18/PT.Session.Toolkit.1.18.dmg",
-  "sha256": "7b98dfd2948170e2bd2523398aff3d531326fb5732b0d6141834b7867029bda3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.19/PT.Session.Toolkit.1.19.dmg",
+  "sha256": "8daff3908542e0def502b85515affa6ad3e3bcde50d9f4243940e386b8b53344",
   "releasedAt": "2026-08-28",
-  "headline": "A progress bar that means it",
+  "headline": "Every clip keeps its own name",
   "highlights": [
-    "The bar counts the whole build, and the time left follows the current pace",
-    "The layout reports its own cost \u2014 \u201c2,000 clips laid out in 38 ms\u201d",
-    "Themes show both their colours; Collapse All is in the View menu"
+    "Fixes every clip in a session coming out called \u201c__muted\u201d",
+    "Files the script does not list are reported, with a sheet to review and remove them"
   ]
 }
