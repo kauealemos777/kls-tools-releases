@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.15",
+  "latestVersion": "1.16",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.15/EARTH.Merge.Stems.Toolkit.1.15.dmg",
-  "sha256": "0ca24833e7d9e4a26d85c5e155781a0d256575345083b7ae8d6352d4d47322a0",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.16/EARTH.Merge.Stems.Toolkit.1.16.dmg",
+  "sha256": "954f2c8f6e2b0802974398ba2be35911b8c8e9b1a48fdd76aff24f7e1ed79ba8",
   "releasedAt": "2026-08-26",
-  "headline": "Versions: gendered readings, alternate takes, and the Erik/Alma split",
+  "headline": "Cancel puts it back, the panel folds up, and the stems keep their names",
   "highlights": [
-    "Gendered, alternate and Alma/Erik versions, each in its own folder",
-    "Source stems conformed to level and format before any merge reads them",
-    "A language dropdown that tags the delivery, and templates that remember a setup"
+    "Cancel reverts the run — renames, rewrites, merges and trashed files",
+    "The options panel collapses into blocks, each summarising its own setting",
+    "LQA owns the folder shape, and source stems are never renamed"
   ]
 }
