@@ -1,14 +1,14 @@
 {
   "displayName": "Video Converter Toolkit",
-  "latestVersion": "1.1",
+  "latestVersion": "1.2",
   "installedAppName": "Video Converter Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.1/Video.Converter.Toolkit.1.1.dmg",
-  "sha256": "fc6da2151b3b2f7529005fd1139f185923ec7d1f50d2b66e32a4f48a45657a36",
-  "releasedAt": "2026-08-17",
-  "headline": "Watch Folders \u2014 conversion that runs itself",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.2/Video.Converter.Toolkit.1.2.dmg",
+  "sha256": "20c87ff0718c89fc4499ed17cdd02d864337e365d9afe55050686b3e87aa8671",
+  "releasedAt": "2026-08-27",
+  "headline": "A third preset: Tiny File",
   "highlights": [
-    "Watched folders convert every arriving video hands-off, each with its own preset",
-    "Pin a session rate per folder; originals can move to Trash after a verified output",
-    "Half-copied files are left alone until they finish landing"
+    "Tiny File: H.265, about a third the size of HQ and still sharp",
+    "The small presets never inflate a file that is already lean",
+    "Stop responds the moment you click it"
   ]
 }
