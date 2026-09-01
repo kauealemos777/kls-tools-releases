@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.10",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.10/EARTH.Delivery.Check.Toolkit.1.10.dmg",
-  "sha256": "6ff6422a71a319185560cf399afa933dcab5232293f0f61cffda554c76b9cf9a",
-  "releasedAt": "2026-08-23",
-  "headline": "The session remembers, the files are locked when you say so, and a perfect match can never read as extra again.",
+  "latestVersion": "1.12",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.12/EARTH.Delivery.Check.Toolkit.1.12.dmg",
+  "sha256": "31c985a045cbee1f3ba8f303ae866b20d3724bf4e57b7738423ea198986e6e07",
+  "releasedAt": "2026-09-01",
+  "headline": "The adjustments stick: a full reliability audit of what survives saves, renames, tab switches and re-imports.",
   "highlights": [
-    "The session keeps a history.",
-    "Snapshots make the session restorable.",
-    "File operations can be undone (⌥⌘Z)."
+    "Decisions follow a renamed line.",
+    "A rename now carries every language’s files, not just the tab on screen.",
+    "Saving mid-sweep is deferred."
   ]
 }
