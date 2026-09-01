@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.11",
+  "latestVersion": "1.12",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.11/File.Renamer.Toolkit.1.11.dmg",
-  "sha256": "ac85f9d95e0f60e5246544ae0aa50764763fdf643278fc2b499139d89ee9be21",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.12/File.Renamer.Toolkit.1.12.dmg",
+  "sha256": "4b0dca3d5a15a6ebd1ff680236b955c2fb36ce929b18ccd49c917254891e7996",
   "releasedAt": "2026-08-26",
-  "headline": "Fast for real, templates for keeps",
+  "headline": "The Finder doors",
   "highlights": [
-    "Fifteen verified render hot spots fixed — same cost at 50 files or 5,000",
-    "Templates update in place: amber dot on edits, one-click Update",
-    "K forgives typos — removi, ad, remvoe, keeep all resolve"
+    "Select files in Finder, press ⇧⌘B — they land in the batch",
+    "Open With works for any files and folders — viewer only, steals nothing",
+    "The rules Clear button works again"
   ]
 }
