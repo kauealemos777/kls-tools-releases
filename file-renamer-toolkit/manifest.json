@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.12",
+  "latestVersion": "1.13",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.12/File.Renamer.Toolkit.1.12.dmg",
-  "sha256": "4b0dca3d5a15a6ebd1ff680236b955c2fb36ce929b18ccd49c917254891e7996",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.13/File.Renamer.Toolkit.1.13.dmg",
+  "sha256": "6f00b417d45673c5f371e473cd45a2ed9e81e64c819e4c10093c7a5f36a36bd1",
   "releasedAt": "2026-08-26",
-  "headline": "The Finder doors",
+  "headline": "Keys to everything",
   "highlights": [
-    "Select files in Finder, press ⇧⌘B — they land in the batch",
-    "Open With works for any files and folders — viewer only, steals nothing",
-    "The rules Clear button works again"
+    "Select files in Finder, press ⇧⌘B — the Service delivers for real now",
+    "⌘↩ renames from anywhere; ↩ confirms the summary and closes the result",
+    "Three deletes: ⌫ removes, ⌃⌫ excludes, ⌘⌫ clears the list"
   ]
 }
