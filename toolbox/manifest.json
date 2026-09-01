@@ -1,12 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.66",
+  "latestVersion": "1.67",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.66/KL.s.Audio.Localization.Toolbox.1.66.dmg",
-  "sha256": "41b70aaba16abb79b83ee0b7d4d34e4ff45ef3f56aac9da708c6069782028219",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.67/KL.s.Audio.Localization.Toolbox.1.67.dmg",
+  "sha256": "6caeccc03654624a659176ec695680c61bdf37d0d10903c1cf10c919e360a4bf",
   "releasedAt": "2026-08-27",
-  "headline": "Favorites wears gold",
+  "headline": "Ask for your license from inside the app",
   "highlights": [
-    "The shelf you compose yourself has its own colour — gold, in the wash and the hover light"
+    "A Request a license card for unlicensed Macs — one click, and the granted license installs itself",
+    "Hidden entirely once a license is active"
   ]
 }
