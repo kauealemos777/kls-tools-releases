@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.10",
+  "latestVersion": "1.11",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.10/File.Renamer.Toolkit.1.10.dmg",
-  "sha256": "169d72354a33e805c59d967cd965f5a448d9a1c90b99c9204cd91d847d83fbbc",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.11/File.Renamer.Toolkit.1.11.dmg",
+  "sha256": "ac85f9d95e0f60e5246544ae0aa50764763fdf643278fc2b499139d89ee9be21",
   "releasedAt": "2026-08-26",
-  "headline": "The review bench",
+  "headline": "Fast for real, templates for keeps",
   "highlights": [
-    "Doubled extensions (audiofile.wav.wav) are caught — one click fixes them",
-    "Fixed transport: the waveform never shifts the layout again",
-    "Auto-play walks the session, with a full keyboard review loop"
+    "Fifteen verified render hot spots fixed — same cost at 50 files or 5,000",
+    "Templates update in place: amber dot on edits, one-click Update",
+    "K forgives typos — removi, ad, remvoe, keeep all resolve"
   ]
 }
