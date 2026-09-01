@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.13",
+  "latestVersion": "1.14",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.13/File.Renamer.Toolkit.1.13.dmg",
-  "sha256": "6f00b417d45673c5f371e473cd45a2ed9e81e64c819e4c10093c7a5f36a36bd1",
-  "releasedAt": "2026-08-26",
-  "headline": "Keys to everything",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.14/File.Renamer.Toolkit.1.14.dmg",
+  "sha256": "d3e2d34126b27a3072b0523250c0495f1fe2e4871899d06bdfc9bd788ac76d7b",
+  "releasedAt": "2026-09-01",
+  "headline": "In the menu at last",
   "highlights": [
-    "Select files in Finder, press ⇧⌘B — the Service delivers for real now",
-    "⌘↩ renames from anywhere; ↩ confirms the summary and closes the result",
-    "Three deletes: ⌫ removes, ⌃⌫ excludes, ⌘⌫ clears the list"
+    "\"Rename with File Renamer Toolkit\" now appears in Finder's right-click Services menu — the app declares its files the way macOS actually matches them.",
+    "Development builds no longer register a duplicate service that could hide the real one.",
+    "⇧⌘B triggers the service from the keyboard, reassignable in System Settings."
   ]
 }
