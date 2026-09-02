@@ -364,8 +364,21 @@
     },
     {
       "allowedProducts" : [
-        "file-renamer-toolkit",
-        "preproduction-toolkit"
+        "preproduction-toolkit",
+        "file-renamer-toolkit"
+      ],
+      "hiddenProducts" : [
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
