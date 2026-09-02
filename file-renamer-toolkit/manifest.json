@@ -1,14 +1,14 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.14",
+  "latestVersion": "1.15",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.14/File.Renamer.Toolkit.1.14.dmg",
-  "sha256": "d3e2d34126b27a3072b0523250c0495f1fe2e4871899d06bdfc9bd788ac76d7b",
-  "releasedAt": "2026-09-01",
-  "headline": "In the menu at last",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.15/File.Renamer.Toolkit.1.15.dmg",
+  "sha256": "a732d753e87ac149546a386c746cf00ca549b0504cf9f80e8f633356ed0de910",
+  "releasedAt": "2026-09-02",
+  "headline": "Every language at once",
   "highlights": [
-    "\"Rename with File Renamer Toolkit\" now appears in Finder's right-click Services menu — the app declares its files the way macOS actually matches them.",
-    "Development builds no longer register a duplicate service that could hide the real one.",
-    "⇧⌘B triggers the service from the keyboard, reassignable in System Settings."
+    "Script Match handles mixed-language sessions: each clip's language is identified individually and matched against its own language's script column.",
+    "Localization workbooks map themselves — language sheets recognized, Filename and Script columns pre-picked, per-language file names supported.",
+    "Near-verbatim matches are unstealable, and the review list is a real keyboard list: visible selection, click-to-select, ↑↓ with auto-play and skip-silence."
   ]
 }
