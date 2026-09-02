@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.67",
+  "latestVersion": "1.68",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.67/KL.s.Audio.Localization.Toolbox.1.67.dmg",
-  "sha256": "6caeccc03654624a659176ec695680c61bdf37d0d10903c1cf10c919e360a4bf",
-  "releasedAt": "2026-08-27",
-  "headline": "Ask for your license from inside the app",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.68/KL.s.Audio.Localization.Toolbox.1.68.dmg",
+  "sha256": "b109380324eda35dce8b0d204ec8f5b64bb1d4cf22a87f9bb2d96775d9f43c5a",
+  "releasedAt": "2026-09-02",
+  "headline": "The voices the tools speak with",
   "highlights": [
-    "A Request a license card for unlicensed Macs — one click, and the granted license installs itself",
-    "Hidden entirely once a license is active"
+    "Speech Models shows, per language, the best TTS voice installed and its tier — compact flagged, premium/enhanced good.",
+    "One button opens the System Settings pane where Apple's free premium voices download; the list refreshes when you come back."
   ]
 }
