@@ -1,15 +1,13 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.16",
+  "latestVersion": "1.17",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.16/File.Renamer.Toolkit.1.16.dmg",
-  "sha256": "2347bc3a2187fbea3351f942b97dc6ec55af4cc9c49b41581720a4e2bd89b257",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.17/File.Renamer.Toolkit.1.17.dmg",
+  "sha256": "cf58348e4fca6da45f56e5572468a860ecb242ec8e6be5d010caf0b0adc8d520",
   "releasedAt": "2026-09-02",
-  "headline": "Hear the script, read the score",
+  "headline": "K, unboxed",
   "highlights": [
-    "⌃Space reads the script line aloud in the clip's identified language — Space plays the take, ⌃Space the text, the ear compares.",
-    "A TTS voice manager: pick a voice per language, and a one-click path to Apple's free premium voices (most Macs ship with only the compact tier).",
-    "Japanese diffs compare character by character — perfect matches finally read green — and the match score is a big aligned number on every row.",
-    "Assign offers only the names a clip's language can still take."
+    "K draws straight over the app background — no card, no border, just the mascot and his moods.",
+    "K's sounds play exactly as recorded — the pitched-up treatment is retired."
   ]
 }
