@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.2",
+  "latestVersion": "1.3",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.2/Audio.File.Manager.Toolkit.1.2.dmg",
-  "sha256": "7dc8df4d6b64d93b34aa8a89f22a10cc71c8704b15266a7f6f01714b07044982",
-  "releasedAt": "2026-08-27",
-  "headline": "Copy and move, reachable and working",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.3/Audio.File.Manager.Toolkit.1.3.dmg",
+  "sha256": "f0c69a6190c96b3ac44c4fa7b61fcca98dea018f782a709425f5813787c95956",
+  "releasedAt": "2026-09-01",
+  "headline": "Folders, undo, and search everywhere",
   "highlights": [
-    "Copy / Move and the tag editor now have their own bar instead of being clipped off the window",
-    "The transfer sheet receives the files you actually selected",
-    "Send files into a new folder you name, created for you at the destination"
+    "Sessions live in folders you can create, collapse and drag into — and browse whole, every file from every session in one list",
+    "Undo for marks, keeps, renames and folder moves, and search in every list, editor and column",
+    "Skip silence works again, files that leave the disk keep their marks, and every column sorts"
   ]
 }
