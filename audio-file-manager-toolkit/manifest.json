@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.3",
+  "latestVersion": "1.4",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.3/Audio.File.Manager.Toolkit.1.3.dmg",
-  "sha256": "f0c69a6190c96b3ac44c4fa7b61fcca98dea018f782a709425f5813787c95956",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.4/Audio.File.Manager.Toolkit.1.4.dmg",
+  "sha256": "0f6db066fc9f807091be32cce7d7621ef537756d12ba8d23bbf189652ecab23c",
   "releasedAt": "2026-09-01",
-  "headline": "Folders, undo, and search everywhere",
+  "headline": "The corrections 1.3 needed",
   "highlights": [
-    "Sessions live in folders you can create, collapse and drag into — and browse whole, every file from every session in one list",
-    "Undo for marks, keeps, renames and folder moves, and search in every list, editor and column",
-    "Skip silence works again, files that leave the disk keep their marks, and every column sorts"
+    "Undo can no longer revert into the wrong batch list, or report success and change nothing",
+    "Sessions open in the order they say they are in, instead of re-sorting themselves by name",
+    "Skip silence survives being switched off and on, and keeps skipping when a file loops"
   ]
 }
