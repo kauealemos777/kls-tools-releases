@@ -361,6 +361,16 @@
       "revoked" : false,
       "tokenID" : "tok_4A88695B-D6B0-40D7-BBC6-E18768145910",
       "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "file-renamer-toolkit",
+        "preproduction-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_01CC80BA-686A-461B-A25E-B76A32041C1D",
+      "username" : "Mauricio Lopez"
     }
   ]
 }
