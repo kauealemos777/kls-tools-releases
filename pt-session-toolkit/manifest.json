@@ -1,14 +1,13 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.21",
+  "latestVersion": "1.22",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.21/PT.Session.Toolkit.1.21.dmg",
-  "sha256": "78c5768211d2138319329d7d758e9bc755e95316514fce182b36bdc254a7b767",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.22/PT.Session.Toolkit.1.22.dmg",
+  "sha256": "394acef32790e003da7f334e71e1627fe2a8b0a9ed9b5134387f2b1d08f33ed2",
   "releasedAt": "2026-08-29",
-  "headline": "Drag the track order",
+  "headline": "The muted repeat costs nothing extra",
   "highlights": [
-    "Extra tracks reorder by dragging, not one click per row",
-    "\u201cOne per character\u201d builds the track list from the script",
-    "Collapse all sits above the settings panels"
+    "Muted repeats are the same clip placed twice \u2014 half the imports and files",
+    "Drag the extra-track order; \u201cOne per character\u201d builds it from the script"
   ]
 }
