@@ -1,13 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.5",
+  "latestVersion": "1.6",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.5/Audio.File.Manager.Toolkit.1.5.dmg",
-  "sha256": "6497f1753da95a19bf5bda0d9cf076a6d7de382ee635578d444561b1c9da3248",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.6/Audio.File.Manager.Toolkit.1.6.dmg",
+  "sha256": "8c8b02a900190d34e6fc8b1615adfc56d8be5c6c1eebbbb61430e5d3093055c7",
   "releasedAt": "2026-09-02",
-  "headline": "The family-standard Help menu",
+  "headline": "Export that tells you what it is doing",
   "highlights": [
-    "The Help menu is now the KL's Tools standard: Send Diagnostics, Ask KL for a Feature, What's New — nothing else",
-    "Ask KL for a Feature sends a request straight from the app, the way a diagnostics report does"
+    "Export names what it writes, counts it, and greys out what it cannot write — instead of silently doing nothing",
+    "Matches and extras now show how long each file is",
+    "“Kept” is gone: the files you tick are the CHOSEN ones, everywhere you read it"
   ]
 }
