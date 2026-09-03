@@ -1,12 +1,12 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.15",
+  "latestVersion": "1.16",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.15/Document.Builder.Toolkit.1.15.dmg",
-  "sha256": "6d87f08a4b52af9888d3fc3e43079e1cef67343982948d013c467f2ca19b8ba5",
-  "releasedAt": "2026-08-19",
-  "headline": "A release cannot ship an app whose notarization ticket failed to attach",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.16/Document.Builder.Toolkit.1.16.dmg",
+  "sha256": "64f40f562da4bd770969846cfaecd5d1cc51b06075b7846678d572650870683d",
+  "releasedAt": "2026-09-02",
+  "headline": "The app joins the family reporting",
   "highlights": [
-    "The build now proves the ticket attached instead of assuming it, and refuses to package one that did not"
+    "Send Diagnostics to KL and Ask KL for a Feature now live under Help, alongside What's New"
   ]
 }
