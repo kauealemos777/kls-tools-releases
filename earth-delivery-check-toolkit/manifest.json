@@ -1,14 +1,13 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.12",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.12/EARTH.Delivery.Check.Toolkit.1.12.dmg",
-  "sha256": "31c985a045cbee1f3ba8f303ae866b20d3724bf4e57b7738423ea198986e6e07",
-  "releasedAt": "2026-09-01",
-  "headline": "The adjustments stick: a full reliability audit of what survives saves, renames, tab switches and re-imports.",
+  "latestVersion": "1.13",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.13/EARTH.Delivery.Check.Toolkit.1.13.dmg",
+  "sha256": "b0a660b469b1cc1c844f1222d2a1d306428fed206621fca8a9904b747b152a32",
+  "releasedAt": "2026-09-02",
+  "headline": "The Help menu is now the family standard, shared by every KL's Tools app.",
   "highlights": [
-    "Decisions follow a renamed line.",
-    "A rename now carries every language’s files, not just the tab on screen.",
-    "Saving mid-sweep is deferred."
+    "Ask KL for a Feature….",
+    "The Help menu is the family standard now, served by the shared kit rather than written per app: Send Diagnostics to K…"
   ]
 }
