@@ -1,13 +1,13 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.22",
+  "latestVersion": "1.23",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.22/PT.Session.Toolkit.1.22.dmg",
-  "sha256": "394acef32790e003da7f334e71e1627fe2a8b0a9ed9b5134387f2b1d08f33ed2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.23/PT.Session.Toolkit.1.23.dmg",
+  "sha256": "746035301e935f1081333c0d19697bd5128059810ceace175c498ce534a6d92c",
   "releasedAt": "2026-08-29",
-  "headline": "The muted repeat costs nothing extra",
+  "headline": "Sessions built straight into Pro Tools, in sequence",
   "highlights": [
-    "Muted repeats are the same clip placed twice \u2014 half the imports and files",
-    "Drag the extra-track order; \u201cOne per character\u201d builds it from the script"
+    "A layout that makes several sessions — one per character, or a split past 24 hours — can now be built straight into Pro Tools, one session after another: created, built, saved and closed in turn. Anything that fails stops and asks whether to skip it, the asking can be switched off for the rest of the run, and the end of the run leads with the sessions that need a second look rather than the ones that are simply done. One honest note: the first real multi-session run is the proving run — closing sessions over the scripting link is new ground, and a Pro Tools dialog raised mid-run can still stall it.",
+    "Ask KL for a Feature… sits in the Help menu beside Send Diagnostics: describe what the app should do and the request reaches KL the same way a problem report does."
   ]
 }
