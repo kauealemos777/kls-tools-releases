@@ -1,12 +1,13 @@
 {
   "displayName": "Script Toolkit",
-  "latestVersion": "1.17",
+  "latestVersion": "1.18",
   "installedAppName": "Script Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.17/Script.Toolkit.1.17.dmg",
-  "sha256": "fe3c4b6d3f1066e6a12f7269e728d53e7c719b85a428d79aa5e9ccecc9b0acb2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.18/Script.Toolkit.1.18.dmg",
+  "sha256": "73446e42742399a8a7fa9d78fc1f7b894f2a32a8af691618b6735b1fe9624fc1",
   "releasedAt": "2026-08-07",
-  "headline": "Send diagnostics in one click",
+  "headline": "The family-standard Help menu",
   "highlights": [
-    "Help → Send Diagnostics to KL — readable in full before anything is sent"
+    "The Help menu is now the KL's Tools family standard — Send Diagnostics to KL, Ask KL for a Feature, and What's New in this version (⇧⌘/), and nothing else. The system's default Help items led nowhere in this app, so they are gone.",
+    "Ask KL for a Feature — describe what's missing, read exactly what will be sent, and it reaches KL directly. Nothing sends without your click."
   ]
 }
