@@ -1,14 +1,13 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.32",
+  "latestVersion": "3.33",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.32/Audio.Distribution.Toolkit.3.32.dmg",
-  "sha256": "c4287f2b1c6a5f0b8e6daf097a2c71d689f82d0bffa05d477fb9d8d7729338c3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.33/Audio.Distribution.Toolkit.3.33.dmg",
+  "sha256": "a38ef49fd3183795bb833bc2fec61d9f6d612db5fd4ac8db5ef156f21705649c",
   "releasedAt": "2026-08-26",
-  "headline": "Matching is five times faster",
+  "headline": "The family-standard Help menu",
   "highlights": [
-    "Matching no longer searches the whole source for stretches of a clip that are silent — those searches could only fail, and each failure split the stretch and searched again",
-    "A clip cut from many takes matches in about a second where 3.31 took five; a 31-clip session finishes in one second instead of nearly seven",
-    "Identical results: same placements, same confidence"
+    "The Help menu is now the KL's Tools family standard, identical in every app: Send Diagnostics to KL, Ask KL for a Feature, and What's New in this version — nothing else.",
+    "Ask KL for a Feature: describe the tool you wish this app had, straight from the Help menu, and it reaches KL the same way diagnostics do."
   ]
 }
