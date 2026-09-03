@@ -1,14 +1,13 @@
 {
-  "displayName": "Earth Backup PT Session Builder",
-  "installedAppName": "Earth Backup PT Session Builder.app",
-  "latestVersion": "1.0",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.0/Earth.Backup.PT.Session.Builder.1.0.dmg",
-  "sha256": "46203f264ce62063677df21951f605c45e6b989fd216c45a65ca89c785da4849",
-  "releasedAt": "2026-08-20",
-  "headline": "First release — backup-mic sessions, built per category",
+  "displayName": "EARTH - Backup PT Session Builder",
+  "installedAppName": "EARTH - Backup PT Session Builder.app",
+  "latestVersion": "1.1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.1/Earth.Backup.PT.Session.Builder.1.1.dmg",
+  "sha256": "ae6e0f4ae474d36751bd00e339b81d51f0e5872801946f4673b7f86443d04bf5",
+  "releasedAt": "2026-09-02",
+  "headline": "The Help menu is now the family standard",
   "highlights": [
-    "One Pro Tools session per category, built live and saved for you",
-    "Every DPA and Neumann take sits on the exact frame of its source",
-    "Says what is missing, and takes a later delivery without rebuilding"
+    "Ask KL for a Feature — send a feature request straight from the Help menu",
+    "Help holds exactly the family's items: Send Diagnostics, Ask for a Feature, What's New"
   ]
 }
