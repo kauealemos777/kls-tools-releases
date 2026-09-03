@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.16",
+  "latestVersion": "1.17",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.16/EARTH.Merge.Stems.Toolkit.1.16.dmg",
-  "sha256": "954f2c8f6e2b0802974398ba2be35911b8c8e9b1a48fdd76aff24f7e1ed79ba8",
-  "releasedAt": "2026-08-26",
-  "headline": "Cancel puts it back, the panel folds up, and the stems keep their names",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.17/EARTH.Merge.Stems.Toolkit.1.17.dmg",
+  "sha256": "bf505c222a493ed1fcc8b6ec9f96a5b6c2816495e93e234e6fe07df7081038c9",
+  "releasedAt": "2026-09-02",
+  "headline": "The Help menu is now the family standard",
   "highlights": [
-    "Cancel reverts the run — renames, rewrites, merges and trashed files",
-    "The options panel collapses into blocks, each summarising its own setting",
-    "LQA owns the folder shape, and source stems are never renamed"
+    "Help holds exactly three items, shared by every KL's Tools app",
+    "Ask KL for a Feature — send a feature request straight from the menu",
+    "What's New keeps its name and its ⇧⌘/ everywhere"
   ]
 }
