@@ -1,14 +1,13 @@
 {
   "displayName": "Video Converter Toolkit",
-  "latestVersion": "1.2",
+  "latestVersion": "1.3",
   "installedAppName": "Video Converter Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.2/Video.Converter.Toolkit.1.2.dmg",
-  "sha256": "20c87ff0718c89fc4499ed17cdd02d864337e365d9afe55050686b3e87aa8671",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.3/Video.Converter.Toolkit.1.3.dmg",
+  "sha256": "e60025be6ea3a4adaefc8b18963f94b23b7bf7939eb13c961045cf8247143441",
   "releasedAt": "2026-08-27",
-  "headline": "A third preset: Tiny File",
+  "headline": "The app joins the family reporting",
   "highlights": [
-    "Tiny File: H.265, about a third the size of HQ and still sharp",
-    "The small presets never inflate a file that is already lean",
-    "Stop responds the moment you click it"
+    "Send Diagnostics to KL, right from the Help menu. When something ",
+    "Ask KL for a Feature lives beside it. The idea you have while the "
   ]
 }
