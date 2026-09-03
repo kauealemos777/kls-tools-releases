@@ -1,14 +1,13 @@
 {
   "displayName": "Files Structure Toolkit",
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "installedAppName": "Files Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.0/Files.Structure.Toolkit.1.0.dmg",
-  "sha256": "60ba425e4dac27b6ffad8f093a115dc33b8fdd855cecd80366afd13bcbc19a44",
-  "releasedAt": "2026-08-27",
-  "headline": "Audio sorted by the channel count in its own header",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.1/Files.Structure.Toolkit.1.1.dmg",
+  "sha256": "1d57279787bffc54051b34fbf9cf0ead0168eb354cd4d741265f5908a5198514",
+  "releasedAt": "2026-09-02",
+  "headline": "The Help menu is now the family standard",
   "highlights": [
-    "Sorts a whole session tree into MONO, STEREO and multichannel folders — in place, or into one flat destination",
-    "Copy or move, previewed in full first: a name already taken gets a numeric suffix, never an overwrite",
-    "Channel counts are read from each file's header, never guessed from its name"
+    "Help menu rebuilt to the KL's Tools standard — Send Diagnostics, Ask KL for a Feature, What's New, nothing else",
+    "Ask KL for a Feature — send a feature request straight from the Help menu"
   ]
 }
