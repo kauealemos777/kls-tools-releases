@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.69",
+  "latestVersion": "1.70",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.69/KL.s.Audio.Localization.Toolbox.1.69.dmg",
-  "sha256": "2fcd379a6f73563a61e15d4cdb28c3603a4fd32be7d55f0ae3ed625509fa232f",
-  "releasedAt": "2026-09-02",
-  "headline": "One Help menu for the whole family",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.70/KL.s.Audio.Localization.Toolbox.1.70.dmg",
+  "sha256": "e1188415c471e729da480db54395a3b8031f70857b14d891208c8c272a9f7bac",
+  "releasedAt": "2026-09-03",
+  "headline": "EARTH - Audio Files Match Toolkit joins the family",
   "highlights": [
-    "Help is three lines in every tool: Send Diagnostics, Ask KL for a Feature, What's New",
-    "Apple's dead-end help search is gone, family-wide"
+    "New tool: keeper, DPA and U87 paired by the waveform itself — blind to loudness, length and file names",
+    "Matched raw files renamed in place after their keeper, and collected into KEEPER / DPA / U87 folders"
   ]
 }
