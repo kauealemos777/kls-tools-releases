@@ -384,6 +384,27 @@
       "revoked" : false,
       "tokenID" : "tok_01CC80BA-686A-461B-A25E-B76A32041C1D",
       "username" : "Mauricio Lopez"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
+      ],
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_3D773C2A-9450-4960-81D4-795476800F1D",
+      "username" : "Kaue Lemos"
     }
   ]
 }
