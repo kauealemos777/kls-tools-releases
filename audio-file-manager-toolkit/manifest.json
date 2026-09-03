@@ -1,14 +1,13 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.4",
+  "latestVersion": "1.5",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.4/Audio.File.Manager.Toolkit.1.4.dmg",
-  "sha256": "0f6db066fc9f807091be32cce7d7621ef537756d12ba8d23bbf189652ecab23c",
-  "releasedAt": "2026-09-01",
-  "headline": "The corrections 1.3 needed",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.5/Audio.File.Manager.Toolkit.1.5.dmg",
+  "sha256": "6497f1753da95a19bf5bda0d9cf076a6d7de382ee635578d444561b1c9da3248",
+  "releasedAt": "2026-09-02",
+  "headline": "The family-standard Help menu",
   "highlights": [
-    "Undo can no longer revert into the wrong batch list, or report success and change nothing",
-    "Sessions open in the order they say they are in, instead of re-sorting themselves by name",
-    "Skip silence survives being switched off and on, and keeps skipping when a file loops"
+    "The Help menu is now the KL's Tools standard: Send Diagnostics, Ask KL for a Feature, What's New — nothing else",
+    "Ask KL for a Feature sends a request straight from the app, the way a diagnostics report does"
   ]
 }
