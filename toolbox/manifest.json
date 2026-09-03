@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.68",
+  "latestVersion": "1.69",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.68/KL.s.Audio.Localization.Toolbox.1.68.dmg",
-  "sha256": "b109380324eda35dce8b0d204ec8f5b64bb1d4cf22a87f9bb2d96775d9f43c5a",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.69/KL.s.Audio.Localization.Toolbox.1.69.dmg",
+  "sha256": "2fcd379a6f73563a61e15d4cdb28c3603a4fd32be7d55f0ae3ed625509fa232f",
   "releasedAt": "2026-09-02",
-  "headline": "The voices the tools speak with",
+  "headline": "One Help menu for the whole family",
   "highlights": [
-    "Speech Models shows, per language, the best TTS voice installed and its tier — compact flagged, premium/enhanced good.",
-    "One button opens the System Settings pane where Apple's free premium voices download; the list refreshes when you come back."
+    "Help is three lines in every tool: Send Diagnostics, Ask KL for a Feature, What's New",
+    "Apple's dead-end help search is gone, family-wide"
   ]
 }
