@@ -1,12 +1,13 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.18",
+  "latestVersion": "1.19",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.18/Audio.File.Manager.Toolkit.1.18.dmg",
-  "sha256": "bdea16b08a01dbace72ea07817c3d052033eaa5d984cbe6acd50fa1c16914113",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.19/Audio.File.Manager.Toolkit.1.19.dmg",
+  "sha256": "3b8559d6d2bce4b12c62ff21a6b0b0dc7a6405f5e7cbe94e1222fc74995578f3",
   "releasedAt": "2026-09-04",
-  "headline": "Sample rate and bit depth, side by side",
+  "headline": "Deliver a whole list, duplicates warned first",
   "highlights": [
-    "A Bits column — 16, 24, 32 — beside Sample Rate, both sortable"
+    "Copy or move every match of a batch list straight from its card — preview first, copy by default",
+    "Duplicates are warned before the export, with what will be done and the ways out"
   ]
 }
