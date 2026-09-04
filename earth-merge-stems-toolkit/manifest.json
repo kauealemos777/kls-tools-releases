@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.17",
+  "latestVersion": "1.18",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.17/EARTH.Merge.Stems.Toolkit.1.17.dmg",
-  "sha256": "bf505c222a493ed1fcc8b6ec9f96a5b6c2816495e93e234e6fe07df7081038c9",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.18/EARTH.Merge.Stems.Toolkit.1.18.dmg",
+  "sha256": "9ef8765bf94611f3d60bc6e653023d03c4202aa4869268c4496f0ef0e96350bd",
   "releasedAt": "2026-09-02",
-  "headline": "The Help menu is now the family standard",
+  "headline": "⌘Q asks first, ⌘W only closes the window",
   "highlights": [
-    "Help holds exactly three items, shared by every KL's Tools app",
-    "Ask KL for a Feature — send a feature request straight from the menu",
-    "What's New keeps its name and its ⇧⌘/ everywhere"
+    "⌘Q pauses on one plain question before losing unsaved work or a running merge",
+    "⌘W closes the window only — the app, the session, and a running merge keep going",
+    "A click on the Dock icon brings the window back exactly as it was"
   ]
 }
