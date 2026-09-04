@@ -1,14 +1,13 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.15",
+  "latestVersion": "1.16",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.15/Audio.File.Manager.Toolkit.1.15.dmg",
-  "sha256": "bca80764d8795b70d1e5c404964f3ab53b280319ceee0f20d5883bb35b3a10fc",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.16/Audio.File.Manager.Toolkit.1.16.dmg",
+  "sha256": "e4a2872eacf2bbde06577e39c9177b7124901ef1658679f2a54d9db0d1f9d216",
   "releasedAt": "2026-09-04",
-  "headline": "Drag from the grip, and they are groups now",
+  "headline": "A softer selection, and you can see which group is open",
   "highlights": [
-    "Drag a session by its grip: drop it in front of another to reorder, onto a group to file it, with a line showing where it lands",
-    "Sidebar folders are called groups, so they cannot be mistaken for folders on your drive",
-    "Clicking, ⌘-click and ⇧-click are untouched — only the grip drags"
+    "The selected session is a translucent tint rather than a solid block",
+    "The group open on the working surface says OPEN on its header"
   ]
 }
