@@ -1,12 +1,13 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.1",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.1/EARTH.Audio.Files.Match.Toolkit.1.1.dmg",
-  "sha256": "3d9a98d05810574c62662120937abe0a9532ec09446e38b2cb9755bfc47d7480",
+  "latestVersion": "1.2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.2/EARTH.Audio.Files.Match.Toolkit.1.2.dmg",
+  "sha256": "3bcbd6d0ef15771643e62efb025d6942115dfe865c186cde028945998b5c863f",
   "releasedAt": "2026-09-03",
-  "headline": "The tool wears its own face.",
+  "headline": "Short lines match, and progress lives in the boxes.",
   "highlights": [
-    "A proper app icon — two audio files linked over the EARTH, above the aligned waveforms."
+    "The full-screen progress overlay is gone.",
+    "Very short lines — barks under a second — could score just under the match line against their own raw take and land in 'no match'."
   ]
 }
