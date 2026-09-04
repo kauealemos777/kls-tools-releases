@@ -1,14 +1,13 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.4",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.4/EARTH.Audio.Files.Match.Toolkit.1.4.dmg",
-  "sha256": "6436bcdcf2cd3c331c305a54eff883c00b9a3b2e9b4db79fe3d6c4ff2d6b5154",
+  "latestVersion": "1.5",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.5/EARTH.Audio.Files.Match.Toolkit.1.5.dmg",
+  "sha256": "cc36884d66bd22c98b3412ddf20d65f5af210ecc313013b868e09aa57b1d95b5",
   "releasedAt": "2026-09-03",
-  "headline": "Results you can read at a glance — and open in the Finder.",
+  "headline": "The keeper is king — probable matches ask for your ear, then take its name.",
   "highlights": [
-    "The lists fold: complete sets collapse to their summary, the needs-attention list stays open.",
-    "A summary card leads the results: the completion percentage coloured by health, and one line per fact.",
-    "Colour-coded verdicts on every row: a green percent pill is a clean match, amber means the keeper is edited (normal), red is a hole."
+    "Probable matches are proposed, not discarded: a raw file whose waveform says 'probably' gets an amber pill and a Conf…",
+    "The report now writes the keeper's law: DPA NEW NAME and U87 NEW NAME columns carry the name every matched file has t…"
   ]
 }
