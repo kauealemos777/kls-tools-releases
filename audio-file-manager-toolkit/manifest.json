@@ -1,12 +1,12 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.21",
+  "latestVersion": "1.22",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.21/Audio.File.Manager.Toolkit.1.21.dmg",
-  "sha256": "2c69279e82a528691e6200c02ae392dcb27fe074fc4d469cc3a6778a6e2b2ae4",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.22/Audio.File.Manager.Toolkit.1.22.dmg",
+  "sha256": "848e62ea738903575b9f64c3f59687391933d14fb2527d80ea46ad2cf73280f2",
   "releasedAt": "2026-09-04",
-  "headline": "Exact names, chosen when you paste",
+  "headline": "Exact means the search too",
   "highlights": [
-    "An Exact names switch on the paste and edit sheets, so a list resolves the intended way from the start"
+    "With Exact on, the batch review’s search matches the whole name, extension ignored — entries and extras alike"
   ]
 }
