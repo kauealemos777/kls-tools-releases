@@ -1,13 +1,13 @@
 {
   "displayName": "EARTH - Delivery Check Toolkit",
   "installedAppName": "EARTH - Delivery Check Toolkit.app",
-  "latestVersion": "1.13",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.13/EARTH.Delivery.Check.Toolkit.1.13.dmg",
-  "sha256": "b0a660b469b1cc1c844f1222d2a1d306428fed206621fca8a9904b747b152a32",
+  "latestVersion": "1.14",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-delivery-check-toolkit-v1.14/EARTH.Delivery.Check.Toolkit.1.14.dmg",
+  "sha256": "2db8e42e207d06bb97dc3a28375ce47fddf4d79433eb5c5a030b6aee37374820",
   "releasedAt": "2026-09-02",
-  "headline": "The Help menu is now the family standard, shared by every KL's Tools app.",
+  "headline": "Quitting and closing behave like every Mac app — and now like every KL's Tools app.",
   "highlights": [
-    "Ask KL for a Feature….",
-    "The Help menu is the family standard now, served by the shared kit rather than written per app: Send Diagnostics to K…"
+    "⌘Q asks before abandoning running work.",
+    "⌘W closes the window, and only the window — the family standard, shared by every KL's Tools app."
   ]
 }
