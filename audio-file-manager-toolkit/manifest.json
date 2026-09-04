@@ -1,13 +1,13 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.13",
+  "latestVersion": "1.14",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.13/Audio.File.Manager.Toolkit.1.13.dmg",
-  "sha256": "36134f50a2291458d301b4d9d51b236b44720fc0e4a387b0c716d8c10afe4b83",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.14/Audio.File.Manager.Toolkit.1.14.dmg",
+  "sha256": "40bfebc81436e7cf9b2c6bc8887883f917ce22f821328763acbba72bc046529b",
   "releasedAt": "2026-09-04",
-  "headline": "Drop a folder anywhere, and read the channels",
+  "headline": "A clean click",
   "highlights": [
-    "Drop folders anywhere in the window to index them, not only on the sidebar",
-    "The channel column says Mono, Stereo, 5.1, 7.1, 7.1.4 — colour-coded by family"
+    "No more lines flashing above and below a session on the first click",
+    "The sidebar is a little wider"
   ]
 }
