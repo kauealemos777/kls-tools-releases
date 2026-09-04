@@ -1,13 +1,14 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.3",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.3/EARTH.Audio.Files.Match.Toolkit.1.3.dmg",
-  "sha256": "bfa698dc6f4a3ad19ae5740426a48a591a446d1864996ac7e952d3e25e6af76b",
+  "latestVersion": "1.4",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.4/EARTH.Audio.Files.Match.Toolkit.1.4.dmg",
+  "sha256": "6436bcdcf2cd3c331c305a54eff883c00b9a3b2e9b4db79fe3d6c4ff2d6b5154",
   "releasedAt": "2026-09-03",
-  "headline": "Drop the whole delivery — the folders say where everything goes.",
+  "headline": "Results you can read at a glance — and open in the Finder.",
   "highlights": [
-    "Folder routing: files under folders named Keeper, DPA or U87 (Neumann counts as U87) land in the right box whichever box you drop on.",
-    "Each box now says what is loaded, not just how much: the source folder under its parent, like 'Dialogue/Keeper — 149 files'."
+    "The lists fold: complete sets collapse to their summary, the needs-attention list stays open.",
+    "A summary card leads the results: the completion percentage coloured by health, and one line per fact.",
+    "Colour-coded verdicts on every row: a green percent pill is a clean match, amber means the keeper is edited (normal), red is a hole."
   ]
 }
