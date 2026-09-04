@@ -1,14 +1,12 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.0",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.0/EARTH.Audio.Files.Match.Toolkit.1.0.dmg",
-  "sha256": "5bf484f204977c0a948e31e1ae2871f5fe80083aa55c6cfeb4a485ee57da482f",
+  "latestVersion": "1.1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.1/EARTH.Audio.Files.Match.Toolkit.1.1.dmg",
+  "sha256": "3d9a98d05810574c62662120937abe0a9532ec09446e38b2cb9755bfc47d7480",
   "releasedAt": "2026-09-03",
-  "headline": "Keeper, DPA and U87 paired by the waveform itself — and named after the keeper.",
+  "headline": "The tool wears its own face.",
   "highlights": [
-    "Three drop boxes — Keeper, DPA, U87.",
-    "Apply _DPA / _U87 Names renames every matched raw file in place to its keeper's name plus the mic suffix.",
-    "Collect into Folders copies or moves the session's files into KEEPER, DPA and U87 folders inside a destination you choose."
+    "A proper app icon — two audio files linked over the EARTH, above the aligned waveforms."
   ]
 }
