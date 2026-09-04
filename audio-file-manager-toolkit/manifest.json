@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.6",
+  "latestVersion": "1.7",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.6/Audio.File.Manager.Toolkit.1.6.dmg",
-  "sha256": "8c8b02a900190d34e6fc8b1615adfc56d8be5c6c1eebbbb61430e5d3093055c7",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.7/Audio.File.Manager.Toolkit.1.7.dmg",
+  "sha256": "3523ca4b1fbbfa2a1cd0e087dba4a1d01cf674752612a865a0de4765cfc87d8b",
   "releasedAt": "2026-09-02",
-  "headline": "Export that tells you what it is doing",
+  "headline": "Drop a folder, and a sidebar you can read",
   "highlights": [
-    "Export names what it writes, counts it, and greys out what it cannot write — instead of silently doing nothing",
-    "Matches and extras now show how long each file is",
-    "“Kept” is gone: the files you tick are the CHOSEN ones, everywhere you read it"
+    "Drop folders on the sidebar to index them — several at once become a folder you can search as one list",
+    "Folders are coloured and countable, and dragging organises the sidebar instead of offering sessions to other apps",
+    "Clicking a session opens it again"
   ]
 }
