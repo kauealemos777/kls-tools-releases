@@ -1,14 +1,12 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.17",
+  "latestVersion": "1.18",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.17/Audio.File.Manager.Toolkit.1.17.dmg",
-  "sha256": "b2fd420bdcd0d933ad5ae12d2df13d2a4169cbc59e6900a703237c3762c0bf01",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.18/Audio.File.Manager.Toolkit.1.18.dmg",
+  "sha256": "bdea16b08a01dbace72ea07817c3d052033eaa5d984cbe6acd50fa1c16914113",
   "releasedAt": "2026-09-04",
-  "headline": "Selection never waits on a scan",
+  "headline": "Sample rate and bit depth, side by side",
   "highlights": [
-    "Clicking a session no longer waits behind the scanner — every sidebar write is off the main thread",
-    "The extra files play: a button per row, auto-play, and the arrows",
-    "Reordering inside an open group no longer rebuilds the whole list"
+    "A Bits column — 16, 24, 32 — beside Sample Rate, both sortable"
   ]
 }
