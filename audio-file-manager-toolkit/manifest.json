@@ -1,12 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.22",
+  "latestVersion": "1.23",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.22/Audio.File.Manager.Toolkit.1.22.dmg",
-  "sha256": "848e62ea738903575b9f64c3f59687391933d14fb2527d80ea46ad2cf73280f2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.23/Audio.File.Manager.Toolkit.1.23.dmg",
+  "sha256": "7a093b4161c662ed230d29d6dfce7f70a39abe2204d9ce3a2fa19efeb0c2bb18",
   "releasedAt": "2026-09-04",
-  "headline": "Exact means the search too",
+  "headline": "A report you ask for, not a file left behind",
   "highlights": [
-    "With Exact on, the batch review’s search matches the whole name, extension ignored — entries and extras alike"
+    "No more KCOPIED.txt in the destination — nothing is written there but your files",
+    "Save Report… writes a colour-coded Excel workbook, one row per file, wherever you choose",
+    "Reveal Folder & Close, for when you just want to look"
   ]
 }
