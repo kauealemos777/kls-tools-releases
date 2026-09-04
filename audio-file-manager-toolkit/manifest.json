@@ -1,13 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.14",
+  "latestVersion": "1.15",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.14/Audio.File.Manager.Toolkit.1.14.dmg",
-  "sha256": "40bfebc81436e7cf9b2c6bc8887883f917ce22f821328763acbba72bc046529b",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.15/Audio.File.Manager.Toolkit.1.15.dmg",
+  "sha256": "bca80764d8795b70d1e5c404964f3ab53b280319ceee0f20d5883bb35b3a10fc",
   "releasedAt": "2026-09-04",
-  "headline": "A clean click",
+  "headline": "Drag from the grip, and they are groups now",
   "highlights": [
-    "No more lines flashing above and below a session on the first click",
-    "The sidebar is a little wider"
+    "Drag a session by its grip: drop it in front of another to reorder, onto a group to file it, with a line showing where it lands",
+    "Sidebar folders are called groups, so they cannot be mistaken for folders on your drive",
+    "Clicking, ⌘-click and ⇧-click are untouched — only the grip drags"
   ]
 }
