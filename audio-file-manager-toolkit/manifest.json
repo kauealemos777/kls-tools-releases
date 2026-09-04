@@ -1,14 +1,12 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.20",
+  "latestVersion": "1.21",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.20/Audio.File.Manager.Toolkit.1.20.dmg",
-  "sha256": "4a6876335237a306c517f02435f687a1f64926a7176f78b1a4df50b83d7ed5e3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.21/Audio.File.Manager.Toolkit.1.21.dmg",
+  "sha256": "2c69279e82a528691e6200c02ae392dcb27fe074fc4d469cc3a6778a6e2b2ae4",
   "releasedAt": "2026-09-04",
-  "headline": "Loose names, every match, several entries at once",
+  "headline": "Exact names, chosen when you paste",
   "highlights": [
-    "A pasted name finds every file that starts with it — take numbers and all — unless Exact is on",
-    "Export and Copy / Move can take every match of the list, or the matches of the entries you selected",
-    "Selecting several entries shows several entries"
+    "An Exact names switch on the paste and edit sheets, so a list resolves the intended way from the start"
   ]
 }
