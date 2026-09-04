@@ -1,13 +1,13 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.2",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.2/EARTH.Audio.Files.Match.Toolkit.1.2.dmg",
-  "sha256": "3bcbd6d0ef15771643e62efb025d6942115dfe865c186cde028945998b5c863f",
+  "latestVersion": "1.3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.3/EARTH.Audio.Files.Match.Toolkit.1.3.dmg",
+  "sha256": "bfa698dc6f4a3ad19ae5740426a48a591a446d1864996ac7e952d3e25e6af76b",
   "releasedAt": "2026-09-03",
-  "headline": "Short lines match, and progress lives in the boxes.",
+  "headline": "Drop the whole delivery — the folders say where everything goes.",
   "highlights": [
-    "The full-screen progress overlay is gone.",
-    "Very short lines — barks under a second — could score just under the match line against their own raw take and land in 'no match'."
+    "Folder routing: files under folders named Keeper, DPA or U87 (Neumann counts as U87) land in the right box whichever box you drop on.",
+    "Each box now says what is loaded, not just how much: the source folder under its parent, like 'Dialogue/Keeper — 149 files'."
   ]
 }
