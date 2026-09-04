@@ -1,14 +1,13 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.12",
+  "latestVersion": "1.13",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.12/Audio.File.Manager.Toolkit.1.12.dmg",
-  "sha256": "89181828d6d5fe93e82e085aa92c0dd4d06b685ab96f184a42cdfda733d85ca8",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.13/Audio.File.Manager.Toolkit.1.13.dmg",
+  "sha256": "36134f50a2291458d301b4d9d51b236b44720fc0e4a387b0c716d8c10afe4b83",
   "releasedAt": "2026-09-04",
-  "headline": "One selection box, one copy of the app, and the word “index”",
+  "headline": "Drop a folder anywhere, and read the channels",
   "highlights": [
-    "The selected session draws one box instead of two overlapping ones",
-    "Only one copy of the app runs at a time",
-    "Remove a folder with or without the index sessions inside it — nothing on disk is ever touched"
+    "Drop folders anywhere in the window to index them, not only on the sidebar",
+    "The channel column says Mono, Stereo, 5.1, 7.1, 7.1.4 — colour-coded by family"
   ]
 }
