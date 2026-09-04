@@ -1,12 +1,13 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.16",
+  "latestVersion": "1.17",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.16/Document.Builder.Toolkit.1.16.dmg",
-  "sha256": "64f40f562da4bd770969846cfaecd5d1cc51b06075b7846678d572650870683d",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.17/Document.Builder.Toolkit.1.17.dmg",
+  "sha256": "072ff1594678c2e8bcabcbaa3adac9b0b225e3c138981e7b42eccb63a9b286f0",
   "releasedAt": "2026-09-02",
-  "headline": "The app joins the family reporting",
+  "headline": "Closing the window no longer costs the session",
   "highlights": [
-    "Send Diagnostics to KL and Ask KL for a Feature now live under Help, alongside What's New"
+    "⌘W closes just the window — the template, list and mapping survive for the Dock click back",
+    "⌘Q asks before abandoning a generation run mid-flight"
   ]
 }
