@@ -1,13 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.16",
+  "latestVersion": "1.17",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.16/Audio.File.Manager.Toolkit.1.16.dmg",
-  "sha256": "e4a2872eacf2bbde06577e39c9177b7124901ef1658679f2a54d9db0d1f9d216",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.17/Audio.File.Manager.Toolkit.1.17.dmg",
+  "sha256": "b2fd420bdcd0d933ad5ae12d2df13d2a4169cbc59e6900a703237c3762c0bf01",
   "releasedAt": "2026-09-04",
-  "headline": "A softer selection, and you can see which group is open",
+  "headline": "Selection never waits on a scan",
   "highlights": [
-    "The selected session is a translucent tint rather than a solid block",
-    "The group open on the working surface says OPEN on its header"
+    "Clicking a session no longer waits behind the scanner — every sidebar write is off the main thread",
+    "The extra files play: a button per row, auto-play, and the arrows",
+    "Reordering inside an open group no longer rebuilds the whole list"
   ]
 }
