@@ -1,12 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.11",
+  "latestVersion": "1.12",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.11/Audio.File.Manager.Toolkit.1.11.dmg",
-  "sha256": "34c354fc5936e301cc6410edd2d2decd5eddcb9104221c74bed94f56bc978d8d",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.12/Audio.File.Manager.Toolkit.1.12.dmg",
+  "sha256": "89181828d6d5fe93e82e085aa92c0dd4d06b685ab96f184a42cdfda733d85ca8",
   "releasedAt": "2026-09-04",
-  "headline": "The window responds again",
+  "headline": "One selection box, one copy of the app, and the word “index”",
   "highlights": [
-    "Fixes a freeze on opening: the sidebar was rebuilding itself once for every session in it"
+    "The selected session draws one box instead of two overlapping ones",
+    "Only one copy of the app runs at a time",
+    "Remove a folder with or without the index sessions inside it — nothing on disk is ever touched"
   ]
 }
