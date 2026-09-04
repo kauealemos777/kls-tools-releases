@@ -1,14 +1,12 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.10",
+  "latestVersion": "1.11",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.10/Audio.File.Manager.Toolkit.1.10.dmg",
-  "sha256": "ef5fb517d34cad4855943a7956dd2c3423578d683e90a520fc81454a92f69012",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.11/Audio.File.Manager.Toolkit.1.11.dmg",
+  "sha256": "07f26f7a0a2a2cb67dbed52f9d3fbb5c4ffdf1e7d1298e24f0123b9e16b9005a",
   "releasedAt": "2026-09-04",
-  "headline": "⌘Q asks first, ⌘W only closes the window",
+  "headline": "The window responds again",
   "highlights": [
-    "⌘Q pauses on one plain question if an index or a copy/move batch is still running",
-    "⌘W closes the window and keeps the app running — the Dock icon brings it back as it was",
-    "Clicking a session opens it at once instead of freezing the window first"
+    "Fixes a freeze on opening: the sidebar was rebuilding itself once for every session in it"
   ]
 }
