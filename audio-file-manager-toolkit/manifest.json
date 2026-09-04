@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.7",
+  "latestVersion": "1.8",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.7/Audio.File.Manager.Toolkit.1.7.dmg",
-  "sha256": "3523ca4b1fbbfa2a1cd0e087dba4a1d01cf674752612a865a0de4765cfc87d8b",
-  "releasedAt": "2026-09-02",
-  "headline": "Drop a folder, and a sidebar you can read",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.8/Audio.File.Manager.Toolkit.1.8.dmg",
+  "sha256": "613df08e5cba663feab2a6c4b24cb832e41600e261a868a60cd396bc3411db7f",
+  "releasedAt": "2026-09-04",
+  "headline": "The sidebar behaves like a sidebar",
   "highlights": [
-    "Drop folders on the sidebar to index them — several at once become a folder you can search as one list",
-    "Folders are coloured and countable, and dragging organises the sidebar instead of offering sessions to other apps",
-    "Clicking a session opens it again"
+    "⌘-click and ⇧-click select several sessions again, so a group can be filed into a folder",
+    "Dragging a session no longer ends in the system’s poof, as though a real folder had been dragged out of a window",
+    "Reordering is the list’s own drag, with a proper insertion line"
   ]
 }
