@@ -1,13 +1,15 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.34",
+  "latestVersion": "3.35",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.34/Audio.Distribution.Toolkit.3.34.dmg",
-  "sha256": "94992874c2a8fb39b97d39fccbc9bf39a75325c41e1a7951da9d2a3cc4eb7ca6",
-  "releasedAt": "2026-08-26",
-  "headline": "Quitting and closing, the family way",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.35/Audio.Distribution.Toolkit.3.35.dmg",
+  "sha256": "411b2096bfe0524b825a718f541a347eb1a9c3c635ee88847cc30197f7ab81d1",
+  "releasedAt": "2026-09-04",
+  "headline": "Collect the listed clips into a folder",
   "highlights": [
-    "⌘Q asks before losing work, and only then. A session with unsaved matches, approvals, or edits gets one plain question — Save and Quit, Quit Anyway, or Cancel — and a job still running (matching, transcription, an export) gets Quit Anyway or Cancel. A clean, idle session quits silently.",
-    "⌘W closes the window and only the window — no prompt. The app keeps running, the session stays exactly as it was, and a click on the Dock icon brings the window back with everything in place. Closing the window no longer quits the app, and choosing Don't Save on close can no longer throw a session away."
+    "Collect Filtered into a Folder… gathers exactly the clips the current filter and search show, into a folder you pick",
+    "Copy (default) leaves the originals alone; Move relocates them and repoints the session so nothing breaks",
+    "Keep the original folders, or go flat with clashing names separated by the folder they came from — TAKE01#line_001.wav",
+    "Every clash is listed with what each clip becomes before anything is written; files already in the destination are never overwritten"
   ]
 }
