@@ -1,13 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.19",
+  "latestVersion": "1.20",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.19/Audio.File.Manager.Toolkit.1.19.dmg",
-  "sha256": "3b8559d6d2bce4b12c62ff21a6b0b0dc7a6405f5e7cbe94e1222fc74995578f3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.20/Audio.File.Manager.Toolkit.1.20.dmg",
+  "sha256": "4a6876335237a306c517f02435f687a1f64926a7176f78b1a4df50b83d7ed5e3",
   "releasedAt": "2026-09-04",
-  "headline": "Deliver a whole list, duplicates warned first",
+  "headline": "Loose names, every match, several entries at once",
   "highlights": [
-    "Copy or move every match of a batch list straight from its card — preview first, copy by default",
-    "Duplicates are warned before the export, with what will be done and the ways out"
+    "A pasted name finds every file that starts with it — take numbers and all — unless Exact is on",
+    "Export and Copy / Move can take every match of the list, or the matches of the entries you selected",
+    "Selecting several entries shows several entries"
   ]
 }
