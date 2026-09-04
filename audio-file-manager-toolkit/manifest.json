@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.8",
+  "latestVersion": "1.9",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.8/Audio.File.Manager.Toolkit.1.8.dmg",
-  "sha256": "613df08e5cba663feab2a6c4b24cb832e41600e261a868a60cd396bc3411db7f",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.9/Audio.File.Manager.Toolkit.1.9.dmg",
+  "sha256": "38fc636eddaaf10fbd15e462fe4f35fb33f74089344b2eb9acfa64687c67af79",
   "releasedAt": "2026-09-04",
-  "headline": "The sidebar behaves like a sidebar",
+  "headline": "A sidebar that answers the mouse",
   "highlights": [
-    "⌘-click and ⇧-click select several sessions again, so a group can be filed into a folder",
-    "Dragging a session no longer ends in the system’s poof, as though a real folder had been dragged out of a window",
-    "Reordering is the list’s own drag, with a proper insertion line"
+    "⌘-click and ⇧-click select several sessions, and a click on a folder opens it at once",
+    "No more disappearing poof when a session is dragged",
+    "Ordering and browsing a whole folder moved into the menus, where they cannot interfere"
   ]
 }
