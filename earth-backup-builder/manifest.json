@@ -1,13 +1,13 @@
 {
   "displayName": "EARTH - Backup PT Session Builder",
   "installedAppName": "EARTH - Backup PT Session Builder.app",
-  "latestVersion": "1.1",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.1/Earth.Backup.PT.Session.Builder.1.1.dmg",
-  "sha256": "ae6e0f4ae474d36751bd00e339b81d51f0e5872801946f4673b7f86443d04bf5",
+  "latestVersion": "1.2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.2/Earth.Backup.PT.Session.Builder.1.2.dmg",
+  "sha256": "f4943e033e87996e02de622502b84d76eb25fb6cd2336ebd227b1e19dcf904a6",
   "releasedAt": "2026-09-02",
-  "headline": "The Help menu is now the family standard",
+  "headline": "⌘Q asks before abandoning work; ⌘W only closes the window",
   "highlights": [
-    "Ask KL for a Feature — send a feature request straight from the Help menu",
-    "Help holds exactly the family's items: Send Diagnostics, Ask for a Feature, What's New"
+    "⌘Q pauses on one plain prompt if a build is still running in Pro Tools",
+    "⌘W closes the window, the app stays — your setup survives, the Dock brings it back"
   ]
 }
