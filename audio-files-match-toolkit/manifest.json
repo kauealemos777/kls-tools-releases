@@ -1,13 +1,13 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.5",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.5/EARTH.Audio.Files.Match.Toolkit.1.5.dmg",
-  "sha256": "cc36884d66bd22c98b3412ddf20d65f5af210ecc313013b868e09aa57b1d95b5",
+  "latestVersion": "1.6",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.6/EARTH.Audio.Files.Match.Toolkit.1.6.dmg",
+  "sha256": "a98f8f9bfa406d43340be2b8d7ecc1f5256710581f92f6d1e235a863b5b90414",
   "releasedAt": "2026-09-03",
-  "headline": "The keeper is king — probable matches ask for your ear, then take its name.",
+  "headline": "Wrong names get called out — and fixed in one click.",
   "highlights": [
-    "Probable matches are proposed, not discarded: a raw file whose waveform says 'probably' gets an amber pill and a Conf…",
-    "The report now writes the keeper's law: DPA NEW NAME and U87 NEW NAME columns carry the name every matched file has t…"
+    "When a file matches its keeper perfectly but wears the wrong name, the row flags it in red with the name it should ha…",
+    "The summary counts wrongly named matches so a delivery with perfect audio and broken names cannot read as clean."
   ]
 }
