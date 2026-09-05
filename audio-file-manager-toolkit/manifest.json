@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.24",
+  "latestVersion": "1.25",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.24/Audio.File.Manager.Toolkit.1.24.dmg",
-  "sha256": "68e5c4fe576d18dbabcbd4e46f0cc5ca0ac4481a4034b5999d8e3e5aeba5946e",
-  "releasedAt": "2026-09-04",
-  "headline": "It can tell you what language a file is in — and what is not speech at all",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.25/Audio.File.Manager.Toolkit.1.25.dmg",
+  "sha256": "799447ee74b70f32726a0760fd62daa5b06e8ebf147734a6a5fdef2a3221cdde",
+  "releasedAt": "2026-09-05",
+  "headline": "Sessions say which drive they are on, and go gentle on the slow ones",
   "highlights": [
-    "Identify Speech… reads the language of your files on this Mac, offline, and never touches the files",
-    "Reactions, silence and unreadable files are told apart from dialogue — reactions carry no language",
-    "Search it: lang:pt, kind:reaction, says:“bom dia”, conf:low — and sort by the new Language column"
+    "A session on an external drive or a network volume now says so — and says when the drive is not connected",
+    "Gentle mode: on those drives the app reads only what you are looking at, instead of sweeping the whole library in the background",
+    "One click on the pill switches between gentle and reading ahead, per drive"
   ]
 }
