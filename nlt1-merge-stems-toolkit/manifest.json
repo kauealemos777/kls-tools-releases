@@ -1,0 +1,14 @@
+{
+  "displayName": "NLT1 – Merge Stems Toolkit",
+  "installedAppName": "NLT1 Merge Stems Toolkit.app",
+  "latestVersion": "0.1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.1/NLT1.Merge.Stems.Toolkit.0.1.dmg",
+  "sha256": "0aee4a79033a86bb30a4254f66933323d2afaa8b9800e7e317d8ba5d91f02567",
+  "releasedAt": "2026-09-04",
+  "headline": "The multilingual reconstruction environment",
+  "highlights": [
+    "Hybrid synchronization: every Japanese clip finds its exact place in the video by waveform analysis, with on-device s…",
+    "One sync, two passes: the source locks to the picture, then all seven target languages inherit the timeline automatically.",
+    "A review console: per-language solos on the number row, source-versus-target on shift+number, spatial monitoring, loo…"
+  ]
+}
