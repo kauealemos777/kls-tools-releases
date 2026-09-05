@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.26",
+  "latestVersion": "1.27",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.26/Audio.File.Manager.Toolkit.1.26.dmg",
-  "sha256": "3d703a89f6335445ec46a1dc51d9237bbcbd01fa63c381362a9a8a93b8c3e8cf",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.27/Audio.File.Manager.Toolkit.1.27.dmg",
+  "sha256": "0b346493f010b1367ae57a90c33c6fd67e17eda25c6e445c6a679b17f84ad477",
   "releasedAt": "2026-09-05",
-  "headline": "Pools: gather files from anywhere, deliver them together",
+  "headline": "Switching off gentle mode now measures the drive first",
   "highlights": [
-    "⌃1…⌃9 gather the selected files into a pool — from any session, any folder, any drive",
-    "The pool is one set: copy or move all of it at once, with the usual preview and duplicate handling",
-    "Pools survive quitting; name one to keep it, empty it when the job is out"
+    "Turning on read-ahead measures the drive and says what it will cost — in hours, not adjectives",
+    "It only asks when the drive really is slow; a fast external SSD just switches",
+    "Turning gentle back on never asks — that direction is always safe"
   ]
 }
