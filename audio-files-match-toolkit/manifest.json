@@ -1,13 +1,13 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.6",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.6/EARTH.Audio.Files.Match.Toolkit.1.6.dmg",
-  "sha256": "a98f8f9bfa406d43340be2b8d7ecc1f5256710581f92f6d1e235a863b5b90414",
+  "latestVersion": "1.7",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.7/EARTH.Audio.Files.Match.Toolkit.1.7.dmg",
+  "sha256": "2b863eacbf7084078a1d2a98728beb7493237b22b0dd17e5dd986d3ea462aefa",
   "releasedAt": "2026-09-03",
-  "headline": "Wrong names get called out — and fixed in one click.",
+  "headline": "A verdict you cannot miss: red until fixed, green when done.",
   "highlights": [
-    "When a file matches its keeper perfectly but wears the wrong name, the row flags it in red with the name it should ha…",
-    "The summary counts wrongly named matches so a delivery with perfect audio and broken names cannot read as clean."
+    "A big banner now leads the results: red with every issue listed — wrong names, unconfirmed matches, keepers with nothing.",
+    "The rename button says what it will do and how much: 'Fix 3 Wrong Names' while there is work, a quiet checkmark once …"
   ]
 }
