@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.23",
+  "latestVersion": "1.24",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.23/Audio.File.Manager.Toolkit.1.23.dmg",
-  "sha256": "7a093b4161c662ed230d29d6dfce7f70a39abe2204d9ce3a2fa19efeb0c2bb18",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.24/Audio.File.Manager.Toolkit.1.24.dmg",
+  "sha256": "68e5c4fe576d18dbabcbd4e46f0cc5ca0ac4481a4034b5999d8e3e5aeba5946e",
   "releasedAt": "2026-09-04",
-  "headline": "A report you ask for, not a file left behind",
+  "headline": "It can tell you what language a file is in — and what is not speech at all",
   "highlights": [
-    "No more KCOPIED.txt in the destination — nothing is written there but your files",
-    "Save Report… writes a colour-coded Excel workbook, one row per file, wherever you choose",
-    "Reveal Folder & Close, for when you just want to look"
+    "Identify Speech… reads the language of your files on this Mac, offline, and never touches the files",
+    "Reactions, silence and unreadable files are told apart from dialogue — reactions carry no language",
+    "Search it: lang:pt, kind:reaction, says:“bom dia”, conf:low — and sort by the new Language column"
   ]
 }
