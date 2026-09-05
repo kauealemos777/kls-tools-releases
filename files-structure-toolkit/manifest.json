@@ -1,13 +1,12 @@
 {
   "displayName": "Files Structure Toolkit",
-  "latestVersion": "1.2",
+  "latestVersion": "1.3",
   "installedAppName": "Files Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.2/Files.Structure.Toolkit.1.2.dmg",
-  "sha256": "7e2371ed0af0afd519ce07c19c47ff3f640ee5da3055b8b91ba058545d892508",
-  "releasedAt": "2026-09-02",
-  "headline": "⌘Q asks before abandoning a run; ⌘W just closes the window",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.3/Files.Structure.Toolkit.1.3.dmg",
+  "sha256": "524c4dfd822d7b561836bc3fb0882915d023264616e085bb577a1529d25183a7",
+  "releasedAt": "2026-09-05",
+  "headline": "The installer tells the truth about macOS 14",
   "highlights": [
-    "⌘Q now asks before quitting while a sort batch is still moving or copying files",
-    "⌘W closes only the window — the app keeps running, and a Dock click brings the session back"
+    "The app has always needed macOS 14 — now the installer says so too"
   ]
 }
