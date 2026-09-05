@@ -9,10 +9,11 @@
         "video-converter-toolkit",
         "file-renamer-toolkit",
         "earth-backup-builder",
-        "audio-files-match-toolkit",
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit",
-        "files-structure-toolkit"
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit"
       ],
       "hiddenProducts" : [
         "script-toolkit",
@@ -231,10 +232,11 @@
         "video-converter-toolkit",
         "file-renamer-toolkit",
         "earth-backup-builder",
-        "audio-files-match-toolkit",
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit",
-        "files-structure-toolkit"
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit"
       ],
       "hiddenProducts" : [
         "script-toolkit",
@@ -337,10 +339,11 @@
         "video-converter-toolkit",
         "file-renamer-toolkit",
         "earth-backup-builder",
-        "audio-files-match-toolkit",
         "earth-delivery-check-toolkit",
         "audio-file-manager-toolkit",
-        "files-structure-toolkit"
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit"
       ],
       "hiddenProducts" : [
         "script-toolkit",
