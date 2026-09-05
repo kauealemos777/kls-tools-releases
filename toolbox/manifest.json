@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.71",
+  "latestVersion": "1.72",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.71/KL.s.Audio.Localization.Toolbox.1.71.dmg",
-  "sha256": "37f69eae8a4d58f5241de2e6cba137de1603323d4e30d03f1709525f4ad6fc1c",
-  "releasedAt": "2026-09-02",
-  "headline": "The update button says which tools",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.72/KL.s.Audio.Localization.Toolbox.1.72.dmg",
+  "sha256": "3d37e145362f05aec2b568f8bed93672b2546c4cac3c759e4a2397248ba5b27c",
+  "releasedAt": "2026-09-05",
+  "headline": "NLT1 - Merge Stems Toolkit joins the family",
   "highlights": [
-    "Hover the Update or Install button and it names every tool it would touch",
-    "The chevron beside it lists them — with versions — and updates any one alone"
+    "New tool: the Japanese video as the master timeline — every language’s dialogue rebuilt on it",
+    "Hybrid clip sync — waveform, on-device speech and the script, each clip carrying its evidence"
   ]
 }
