@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.25",
+  "latestVersion": "1.26",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.25/Audio.File.Manager.Toolkit.1.25.dmg",
-  "sha256": "799447ee74b70f32726a0760fd62daa5b06e8ebf147734a6a5fdef2a3221cdde",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.26/Audio.File.Manager.Toolkit.1.26.dmg",
+  "sha256": "3d703a89f6335445ec46a1dc51d9237bbcbd01fa63c381362a9a8a93b8c3e8cf",
   "releasedAt": "2026-09-05",
-  "headline": "Sessions say which drive they are on, and go gentle on the slow ones",
+  "headline": "Pools: gather files from anywhere, deliver them together",
   "highlights": [
-    "A session on an external drive or a network volume now says so — and says when the drive is not connected",
-    "Gentle mode: on those drives the app reads only what you are looking at, instead of sweeping the whole library in the background",
-    "One click on the pill switches between gentle and reading ahead, per drive"
+    "⌃1…⌃9 gather the selected files into a pool — from any session, any folder, any drive",
+    "The pool is one set: copy or move all of it at once, with the usual preview and duplicate handling",
+    "Pools survive quitting; name one to keep it, empty it when the job is out"
   ]
 }
