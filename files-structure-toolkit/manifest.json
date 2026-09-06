@@ -1,12 +1,14 @@
 {
   "displayName": "Files Structure Toolkit",
-  "latestVersion": "1.3",
+  "latestVersion": "1.4",
   "installedAppName": "Files Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.3/Files.Structure.Toolkit.1.3.dmg",
-  "sha256": "524c4dfd822d7b561836bc3fb0882915d023264616e085bb577a1529d25183a7",
-  "releasedAt": "2026-09-05",
-  "headline": "The installer tells the truth about macOS 14",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.4/Folder.Structure.Toolkit.1.4.dmg",
+  "sha256": "d5e66eba61c029c59d61a1099ebed07690e36cdd9b5e7d00d459e8422fd9bc99",
+  "releasedAt": "2026-09-06",
+  "headline": "A new name, a file browser at the core, and Organise All",
   "highlights": [
-    "The app has always needed macOS 14 — now the installer says so too"
+    "Files Structure Toolkit is now Folder Structure Toolkit — same tool, licenses and settings carry over",
+    "Sorting starts from a file browser, and files can be organized by channel count or by sample rate and bit depth",
+    "Structures can organise every target folder in one pass — one preview, one press"
   ]
 }
