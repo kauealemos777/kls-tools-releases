@@ -1,14 +1,14 @@
 {
   "displayName": "NLT1 – Merge Stems Toolkit",
   "installedAppName": "NLT1 Merge Stems Toolkit.app",
-  "latestVersion": "0.1",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.1/NLT1.Merge.Stems.Toolkit.0.1.dmg",
-  "sha256": "0aee4a79033a86bb30a4254f66933323d2afaa8b9800e7e317d8ba5d91f02567",
-  "releasedAt": "2026-09-04",
-  "headline": "The multilingual reconstruction environment",
+  "latestVersion": "0.2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.2/NLT1.Merge.Stems.Toolkit.0.2.dmg",
+  "sha256": "86c49f1430f8f23a466caeb37815405b65e5b3e27d740d727e757e116c11f34c",
+  "releasedAt": "2026-09-06",
+  "headline": "The Language view",
   "highlights": [
-    "Hybrid synchronization: every Japanese clip finds its exact place in the video by waveform analysis, with on-device s…",
-    "One sync, two passes: the source locks to the picture, then all seven target languages inherit the timeline automatically.",
-    "A review console: per-language solos on the number row, source-versus-target on shift+number, spatial monitoring, loo…"
+    "The Language view: one language at a time on per-character lanes, with the video on top, the source (JPN) track ridin…",
+    "Extra files resolved where you see them: every clip with no source counterpart waits on a shelf.",
+    "Duration flags with their fixes attached: a clip shorter than the source gets the smart fix."
   ]
 }
