@@ -1,14 +1,14 @@
 {
   "displayName": "NLT1 – Merge Stems Toolkit",
   "installedAppName": "NLT1 Merge Stems Toolkit.app",
-  "latestVersion": "0.2",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.2/NLT1.Merge.Stems.Toolkit.0.2.dmg",
-  "sha256": "86c49f1430f8f23a466caeb37815405b65e5b3e27d740d727e757e116c11f34c",
+  "latestVersion": "0.3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.3/NLT1.Merge.Stems.Toolkit.0.3.dmg",
+  "sha256": "4fd90c8a483deacc2d6743def3fbfd2f1f0b908a8fc4b6eb818b91fd655e5dbd",
   "releasedAt": "2026-09-06",
-  "headline": "The Language view",
+  "headline": "Alternate takes, and nothing hides",
   "highlights": [
-    "The Language view: one language at a time on per-character lanes, with the video on top, the source (JPN) track ridin…",
-    "Extra files resolved where you see them: every clip with no source counterpart waits on a shelf.",
-    "Duration flags with their fixes attached: a clip shorter than the source gets the smart fix."
+    "Alternate takes: sibling folders like Luke A and Luke B inside a language import as takes of the same material.",
+    "Approve and lock a whole project in one gesture — on the transport bar, the project's right-click, or ⌥⌘A.",
+    "The inspector opens with the health of the project: green ALL GOOD, or every problem named, counted and colored."
   ]
 }
