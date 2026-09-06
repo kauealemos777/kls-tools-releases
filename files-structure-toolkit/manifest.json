@@ -1,14 +1,13 @@
 {
   "displayName": "Files Structure Toolkit",
-  "latestVersion": "1.4",
+  "latestVersion": "1.5",
   "installedAppName": "Files Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.4/Folder.Structure.Toolkit.1.4.dmg",
-  "sha256": "d5e66eba61c029c59d61a1099ebed07690e36cdd9b5e7d00d459e8422fd9bc99",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.5/Folder.Structure.Toolkit.1.5.dmg",
+  "sha256": "dcc123a88e563adf85fbf16d23a5b0ae491244af865242430d592969ce4c5301",
   "releasedAt": "2026-09-06",
-  "headline": "A new name, a file browser at the core, and Organise All",
+  "headline": "Drops that ask, and empty folders on request",
   "highlights": [
-    "Files Structure Toolkit is now Folder Structure Toolkit — same tool, licenses and settings carry over",
-    "Sorting starts from a file browser, and files can be organized by channel count or by sample rate and bit depth",
-    "Structures can organise every target folder in one pass — one preview, one press"
+    "Dropping folders on Structures asks whether they are a source or targets — no more guessing",
+    "Organise can build the structure's empty folders, or skip any folder nothing moves into"
   ]
 }
