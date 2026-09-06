@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.29",
+  "latestVersion": "1.30",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.29/Audio.File.Manager.Toolkit.1.29.dmg",
-  "sha256": "b89ddf5d015b4faf436fe02cd2fc1720459ff37b24b60d5a44fdb358643ef7ac",
-  "releasedAt": "2026-09-05",
-  "headline": "Structures: save a folder shape once, then check every delivery against it",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.30/Audio.File.Manager.Toolkit.1.30.dmg",
+  "sha256": "d7b06c1e21448857897653f529cf28257e3fbe6426a25ac932f7bd1b8533f9f8",
+  "releasedAt": "2026-09-06",
+  "headline": "The freeze on network and sleeping drives, found and fixed",
   "highlights": [
-    "Save a source folder’s shape as a structure — the tree AND the file list — and never point at the source again",
-    "Check any number of deliveries at once, each judged on its own: missing, extra, in the wrong folder, duplicates",
-    "Organise a delivery into the shape in one move — files are only ever moved, never deleted or overwritten"
+    "Clicking a row no longer stats the file — the seconds-long freezes on sleeping and network drives are gone",
+    "The freeze log now records where it stopped, and stops reporting a napping app as a hang",
+    "Structures has been withdrawn — it belongs in another tool in the family"
   ]
 }
