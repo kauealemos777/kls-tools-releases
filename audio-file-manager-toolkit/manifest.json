@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.28",
+  "latestVersion": "1.29",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.28/Audio.File.Manager.Toolkit.1.28.dmg",
-  "sha256": "c130ea4d47f799270ab759463b41427364993c83a635b60d9d97c87b366d3fda",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.29/Audio.File.Manager.Toolkit.1.29.dmg",
+  "sha256": "b89ddf5d015b4faf436fe02cd2fc1720459ff37b24b60d5a44fdb358643ef7ac",
   "releasedAt": "2026-09-05",
-  "headline": "⌘C in a pool copies the files, ready to paste into Finder",
+  "headline": "Structures: save a folder shape once, then check every delivery against it",
   "highlights": [
-    "Select in a pool and press ⌘C — paste straight into a Finder window, as everywhere else in the app",
-    "⌘⇧C copies the full paths; the context menu offers both",
-    "Files on a drive that is not connected are left out rather than pasted as dead references"
+    "Save a source folder’s shape as a structure — the tree AND the file list — and never point at the source again",
+    "Check any number of deliveries at once, each judged on its own: missing, extra, in the wrong folder, duplicates",
+    "Organise a delivery into the shape in one move — files are only ever moved, never deleted or overwritten"
   ]
 }
