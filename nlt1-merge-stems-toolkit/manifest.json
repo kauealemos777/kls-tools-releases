@@ -1,12 +1,14 @@
 {
   "displayName": "NLT1 – Merge Stems Toolkit",
   "installedAppName": "NLT1 Merge Stems Toolkit.app",
-  "latestVersion": "0.4",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.4/NLT1.Merge.Stems.Toolkit.0.4.dmg",
-  "sha256": "51279758c751516b490c97b67be9b8f07872d66715b34b8eede9d2688250cfd5",
+  "latestVersion": "0.5",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.5/NLT1.Merge.Stems.Toolkit.0.5.dmg",
+  "sha256": "066843b8f5696580dce9f45bc294430b545b5a61f5504297766d6e11b17eaf8b",
   "releasedAt": "2026-09-06",
-  "headline": "Smart alignment at any scope",
+  "headline": "The waveform you can trust",
   "highlights": [
-    "The smart duration fix runs at whichever scope the work needs: one language from the Fix Shorts button in the language view."
+    "The video's waveform and the JPN lane lock above the vertical scroll on both stages.",
+    "The whole-production report is ONE professional Excel workbook: a color-coded overview sheet, one sheet per project w…",
+    "Saving walks a real progress bar, file by file through a Full Session's media — no more frozen window reading as a hang."
   ]
 }
