@@ -1,14 +1,12 @@
 {
   "displayName": "NLT1 – Merge Stems Toolkit",
   "installedAppName": "NLT1 Merge Stems Toolkit.app",
-  "latestVersion": "0.3",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.3/NLT1.Merge.Stems.Toolkit.0.3.dmg",
-  "sha256": "4fd90c8a483deacc2d6743def3fbfd2f1f0b908a8fc4b6eb818b91fd655e5dbd",
+  "latestVersion": "0.4",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/nlt1-merge-stems-toolkit-v0.4/NLT1.Merge.Stems.Toolkit.0.4.dmg",
+  "sha256": "51279758c751516b490c97b67be9b8f07872d66715b34b8eede9d2688250cfd5",
   "releasedAt": "2026-09-06",
-  "headline": "Alternate takes, and nothing hides",
+  "headline": "Smart alignment at any scope",
   "highlights": [
-    "Alternate takes: sibling folders like Luke A and Luke B inside a language import as takes of the same material.",
-    "Approve and lock a whole project in one gesture — on the transport bar, the project's right-click, or ⌥⌘A.",
-    "The inspector opens with the health of the project: green ALL GOOD, or every problem named, counted and colored."
+    "The smart duration fix runs at whichever scope the work needs: one language from the Fix Shorts button in the language view."
   ]
 }
