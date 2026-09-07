@@ -1,13 +1,13 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.17",
+  "latestVersion": "1.19",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.17/File.Renamer.Toolkit.1.17.dmg",
-  "sha256": "cf58348e4fca6da45f56e5572468a860ecb242ec8e6be5d010caf0b0adc8d520",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.19/File.Renamer.Toolkit.1.19.dmg",
+  "sha256": "a77260f7a36d32e66090bed582c6d35427bded53e332f8afd3cfebfd3adb01c7",
   "releasedAt": "2026-09-02",
-  "headline": "K, unboxed",
+  "headline": "Quit asks, close stays",
   "highlights": [
-    "K draws straight over the app background — no card, no border, just the mascot and his moods.",
-    "K's sounds play exactly as recorded — the pitched-up treatment is retired."
+    "\\u{2318}Q pauses on one plain question before abandoning real ",
+    "\\u{2318}W now closes only the window — the app keeps "
   ]
 }
