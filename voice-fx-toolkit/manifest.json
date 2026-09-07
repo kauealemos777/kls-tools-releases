@@ -1,13 +1,13 @@
 {
   "displayName": "Voice FX Toolkit",
-  "latestVersion": "1.5",
+  "latestVersion": "1.6",
   "installedAppName": "Voice FX Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/voice-fx-toolkit-v1.5/Voice.FX.Toolkit.1.5.dmg",
-  "sha256": "46987b8e84038e6746ef2e0e23cd9df3215067508883d958e4c01072a574b9e2",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/voice-fx-toolkit-v1.6/Voice.FX.Toolkit.1.6.dmg",
+  "sha256": "913107e40061f0c2786d5bfde83f1e6978f91bc3fda2f2324e2c3e19536050fd",
   "releasedAt": "2026-08-08",
-  "headline": "Quit asks before losing work; Close keeps the app running",
+  "headline": "Problem reports can now show, not just tell",
   "highlights": [
-    "⌘Q now pauses on one plain question when quitting would lose work: ",
-    "⌘W closes only the window — it used to quit the whole app. The app "
+    "The problem-report dialog can now attach screenshots — up to ",
+    "⌘Q now pauses on one plain question when quitting would lose work: "
   ]
 }
