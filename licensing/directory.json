@@ -431,6 +431,20 @@
       "revoked" : false,
       "tokenID" : "tok_3D773C2A-9450-4960-81D4-795476800F1D",
       "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "audio-file-manager-toolkit",
+        "script-toolkit",
+        "qa-toolkit",
+        "document-builder-toolkit",
+        "file-renamer-toolkit",
+        "files-structure-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_D0749476-B6A6-43D8-ADAD-F743DB3737E5",
+      "username" : "Pedro Nunes — pedro.nunes@lionbridge.com"
     }
   ]
 }
