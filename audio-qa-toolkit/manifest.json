@@ -1,13 +1,13 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.6",
+  "latestVersion": "3.7",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.6/Audio.QA.Toolkit.3.6.dmg",
-  "sha256": "b9998004875585653025d5d9dce20c5c8a4aa4ca998473f456acdcbfd23021ac",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.7/Audio.QA.Toolkit.3.7.dmg",
+  "sha256": "a77721734b0df49bdf23d8ea4ea57d544613feda8068a376ecc98f1247d89a62",
   "releasedAt": "2026-08-21",
-  "headline": "Seconds constraints, alt takes, and a bar that stops wrapping",
+  "headline": "A problem report can now show the problem",
   "highlights": [
-    "Nine new time constraints speak in seconds instead of percent: TC +1/2/3s (the target may run that much longer than the source, never shorter), TC −1/2/3s (that much shorter, never longer), and TC ±1/2/3s (either way). Mapping labels like “TC+2”, “-1s” or “+/-3” resolve on import, and violations are stated in seconds — the unit the constraint is written in.",
-    "A target named with the _LBALT suffix is recognised as an alternative take: paired against the untagged line’s source automatically, checked against that line’s constraint, and badged in the list. Takes that arrive without the tag can be marked by hand — Set time constraint → Mark as Alt Take — and the mark survives re-imports and saves with the project."
+    "Exporting “approved files only” now covers ALL the approved files: a leftover row selection no longer silently shrinks the batch. The sheet says which files it covers — everything in the current view by default, with “selected only” one click away.",
+    "The export sheet’s Structure menu includes Per character — one folder per character, “Unassigned” for files without one — with names read from the mapping or from hand assignments."
   ]
 }
