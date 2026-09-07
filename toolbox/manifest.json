@@ -1,12 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.75",
+  "latestVersion": "1.76",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.75/KL.s.Audio.Localization.Toolbox.1.75.dmg",
-  "sha256": "40b4aef5c973314880dda4281179d9a41e3cc15dd979f6e389b602eb2dbbb1df",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.76/KL.s.Audio.Localization.Toolbox.1.76.dmg",
+  "sha256": "f41c6b92623d67a806504b5b0c9acc4547a48d0ef94aff204f74f909e5490f73",
   "releasedAt": "2026-09-05",
-  "headline": "A merge unites the device allowance too",
+  "headline": "Bug reports carry screenshots",
   "highlights": [
-    "Merging two approved people grows the allowance to cover every Mac both held"
+    "Reporters can attach up to three screenshots — for the problems words can't carry",
+    "Bug Reports shows them as thumbnails; click opens full-size"
   ]
 }
