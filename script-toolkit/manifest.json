@@ -1,13 +1,13 @@
 {
   "displayName": "Script Toolkit",
-  "latestVersion": "1.18",
+  "latestVersion": "1.19",
   "installedAppName": "Script Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.18/Script.Toolkit.1.18.dmg",
-  "sha256": "73446e42742399a8a7fa9d78fc1f7b894f2a32a8af691618b6735b1fe9624fc1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/script-toolkit-v1.19/Script.Toolkit.1.19.dmg",
+  "sha256": "cdecaa26401188c05a2c3dd1f9bcd90730652fdeec848b77f432e3657cdb285f",
   "releasedAt": "2026-08-07",
-  "headline": "The family-standard Help menu",
+  "headline": "Quit asks, close keeps",
   "highlights": [
-    "The Help menu is now the KL's Tools family standard — Send Diagnostics to KL, Ask KL for a Feature, and What's New in this version (⇧⌘/), and nothing else. The system's default Help items led nowhere in this app, so they are gone.",
-    "Ask KL for a Feature — describe what's missing, read exactly what will be sent, and it reaches KL directly. Nothing sends without your click."
+    "⌘Q asks before losing work: if a batch is still running — a transcription run, a package build — the quit pauses on one plain question instead of silently abandoning it. With nothing at risk it just quits; review decisions, edits, comments, and flags are already saved the moment they happen.",
+    "⌘W closes the window and only the window — the app keeps running with your project loaded, and a click on the Dock icon brings the same window back exactly as it was. Closing the window no longer quits the app; that is ⌘Q's job. ⌘⇧W still closes the project itself."
   ]
 }
