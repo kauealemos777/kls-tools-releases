@@ -1,13 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.31",
+  "latestVersion": "1.32",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.31/Audio.File.Manager.Toolkit.1.31.dmg",
-  "sha256": "d7cebfa2bd8dd87468e7ebeca77487b82c959313c26c04cf8c9815b7adbf9f7d",
-  "releasedAt": "2026-09-05",
-  "headline": "A problem report can now show the problem",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.32/Audio.File.Manager.Toolkit.1.32.dmg",
+  "sha256": "f3433b7ea5054acf78f858dd5ac8d868c5db110a125ca143258f12b6ccc496b1",
+  "releasedAt": "2026-09-07",
+  "headline": "Loudness and true peak, measured on demand and kept",
   "highlights": [
-    "Attach up to three screenshots to a problem report",
-    "Images are downscaled before they travel — reports stay light"
+    "Analyze Loudness fills two new sortable columns — LUFS and Peak (dBTP) — for exactly the files you choose",
+    "Never automatic: on a 300,000-file library, nothing reads every sample unless you ask it to",
+    "Measurements are cached in the index — a file is never measured twice unless it changed"
   ]
 }
