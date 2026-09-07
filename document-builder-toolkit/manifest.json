@@ -1,13 +1,13 @@
 {
   "displayName": "Document Builder Toolkit",
-  "latestVersion": "1.17",
+  "latestVersion": "1.18",
   "installedAppName": "Document Builder Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.17/Document.Builder.Toolkit.1.17.dmg",
-  "sha256": "072ff1594678c2e8bcabcbaa3adac9b0b225e3c138981e7b42eccb63a9b286f0",
-  "releasedAt": "2026-09-02",
-  "headline": "Closing the window no longer costs the session",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/document-builder-toolkit-v1.18/Document.Builder.Toolkit.1.18.dmg",
+  "sha256": "5956043705c3c407e47fcce14c91f8a5190c465a2be5c4b1390157154686b96c",
+  "releasedAt": "2026-09-05",
+  "headline": "A problem report can now show the problem",
   "highlights": [
-    "⌘W closes just the window — the template, list and mapping survive for the Dock click back",
-    "⌘Q asks before abandoning a generation run mid-flight"
+    "Attach up to three screenshots to a problem report",
+    "Images are downscaled before they travel — reports stay light"
   ]
 }
