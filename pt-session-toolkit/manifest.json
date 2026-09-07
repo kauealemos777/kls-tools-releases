@@ -1,13 +1,13 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.24",
+  "latestVersion": "1.25",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.24/PT.Session.Toolkit.1.24.dmg",
-  "sha256": "66c5a846276248c5284021399e0bcda1987fa7433dd7838ec7f20123022f790a",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.25/PT.Session.Toolkit.1.25.dmg",
+  "sha256": "dcbb5475a3336389e430669f69194e76e19737b86bcf5280629207d7279a4d1a",
   "releasedAt": "2026-08-29",
-  "headline": "Closing the window keeps the app; quitting asks first",
+  "headline": "Problem reports can now show, not just tell",
   "highlights": [
-    "\\u{2318}Q pauses on one plain question when quitting would cost something. A session that isn't saved to a package offers Save and Quit / Quit Anyway / Cancel — Save and Quit writes the same .klsession package as \\u{21E7}\\u{2318}S — and a build, export, package save or import still mid-flight asks before being abandoned. A quit with nothing to lose stays instant.",
-    "\\u{2318}W closes the window and only the window now. The app keeps running, the session survives untouched, and a click on the Dock icon brings the window back exactly as it was — closing the window used to quit the whole app on the spot. Both behaviors come from one shared piece of the kit, the same window-and-quit standard across the KL's Tools family."
+    "The problem-report dialog can now attach screenshots — up to three images, downscaled before they travel, for the problems words can't carry: a broken layout, a wrong colour, a control out of place.",
+    "\\u{2318}Q pauses on one plain question when quitting would cost something. A session that isn't saved to a package offers Save and Quit / Quit Anyway / Cancel — Save and Quit writes the same .klsession package as \\u{21E7}\\u{2318}S — and a build, export, package save or import still mid-flight asks before being abandoned. A quit with nothing to lose stays instant."
   ]
 }
