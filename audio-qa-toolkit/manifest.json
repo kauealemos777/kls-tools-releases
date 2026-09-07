@@ -1,13 +1,13 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.5",
+  "latestVersion": "3.6",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.5/Audio.QA.Toolkit.3.5.dmg",
-  "sha256": "c66d51f431baaf91f58e27998641720d2b8b779d4e8ef418b2a957bdc0507092",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.6/Audio.QA.Toolkit.3.6.dmg",
+  "sha256": "b9998004875585653025d5d9dce20c5c8a4aa4ca998473f456acdcbfd23021ac",
   "releasedAt": "2026-08-21",
-  "headline": "Quitting can no longer cost you work",
+  "headline": "Seconds constraints, alt takes, and a bar that stops wrapping",
   "highlights": [
-    "\\u{2318}Q now pauses on one plain question before anything is lost: with unsaved session changes it offers Save and Quit / Quit Anyway / Cancel, and with a batch or export still running it offers Quit Anyway / Cancel. A clean, idle session quits silently, exactly as before.",
-    "\\u{2318}W closes the window without ending the app. The session survives untouched — click the Dock icon and the window is back exactly as it was. Closing the window used to quit the whole app."
+    "Nine new time constraints speak in seconds instead of percent: TC +1/2/3s (the target may run that much longer than the source, never shorter), TC −1/2/3s (that much shorter, never longer), and TC ±1/2/3s (either way). Mapping labels like “TC+2”, “-1s” or “+/-3” resolve on import, and violations are stated in seconds — the unit the constraint is written in.",
+    "A target named with the _LBALT suffix is recognised as an alternative take: paired against the untagged line’s source automatically, checked against that line’s constraint, and badged in the list. Takes that arrive without the tag can be marked by hand — Set time constraint → Mark as Alt Take — and the mark survives re-imports and saves with the project."
   ]
 }
