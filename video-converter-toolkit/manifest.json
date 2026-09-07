@@ -1,13 +1,13 @@
 {
   "displayName": "Video Converter Toolkit",
-  "latestVersion": "1.4",
+  "latestVersion": "1.5",
   "installedAppName": "Video Converter Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.4/Video.Converter.Toolkit.1.4.dmg",
-  "sha256": "ae7dd2a968883536fbfaa8eff4fae342b13c70f0d9d38bf8a7e2e4922e9b37cf",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/video-converter-toolkit-v1.5/Video.Converter.Toolkit.1.5.dmg",
+  "sha256": "6cf0bcc992bdf500b8d3965a9857e84ee6e5b97ef58230481c9300021472febf",
   "releasedAt": "2026-08-27",
-  "headline": "Quit and Close now mean what they say",
+  "headline": "Problem reports can now show, not just tell",
   "highlights": [
-    "⌘Q asks before abandoning a running conversion: one plain question ",
-    "⌘W closes the window and only the window — it used to quit the whole "
+    "The problem-report dialog can now attach screenshots — up to ",
+    "⌘Q asks before abandoning a running conversion: one plain question "
   ]
 }
