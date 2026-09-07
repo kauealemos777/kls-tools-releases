@@ -1,13 +1,13 @@
 {
   "displayName": "Voice FX Toolkit",
-  "latestVersion": "1.4",
+  "latestVersion": "1.5",
   "installedAppName": "Voice FX Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/voice-fx-toolkit-v1.4/Voice.FX.Toolkit.1.4.dmg",
-  "sha256": "1a1553551efaa008e9ca40126f1acb376f47b31e3cd64c0208065495bda32b7d",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/voice-fx-toolkit-v1.5/Voice.FX.Toolkit.1.5.dmg",
+  "sha256": "46987b8e84038e6746ef2e0e23cd9df3215067508883d958e4c01072a574b9e2",
   "releasedAt": "2026-08-08",
-  "headline": "The family-standard Help menu",
+  "headline": "Quit asks before losing work; Close keeps the app running",
   "highlights": [
-    "The Help menu is now the family standard, shared with every sibling ",
-    "Ask KL for a Feature: describe what the app should do next and send "
+    "⌘Q now pauses on one plain question when quitting would lose work: ",
+    "⌘W closes only the window — it used to quit the whole app. The app "
   ]
 }
