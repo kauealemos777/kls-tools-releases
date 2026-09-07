@@ -1,13 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.73",
+  "latestVersion": "1.74",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.73/KL.s.Audio.Localization.Toolbox.1.73.dmg",
-  "sha256": "7f58e3002fe529e435e57b5320afb22092d3c979f42578bf284e844e0141d556",
-  "releasedAt": "2026-09-06",
-  "headline": "Files Structure Toolkit is now Folder Structure Toolkit",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.74/KL.s.Audio.Localization.Toolbox.1.74.dmg",
+  "sha256": "664418103cfdf93152250a909f6bc69fa74c4b3ffafc71a5b487aefaa61e2ddd",
+  "releasedAt": "2026-09-05",
+  "headline": "Duplicated people merge, and installs survive renames",
   "highlights": [
-    "The tile takes the tool's new name — licenses, settings and updates all carry over",
-    "An install made under the old name is still recognized, and renamed on the next consolidation pass"
+    "One person, one row: “Name” and “Name — email” fold together, and Merge handles the rest",
+    "Installing a renamed tool works again — the installer trusts the app in the volume"
   ]
 }
