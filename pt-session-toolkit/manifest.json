@@ -1,13 +1,13 @@
 {
   "displayName": "PT Session Toolkit",
-  "latestVersion": "1.23",
+  "latestVersion": "1.24",
   "installedAppName": "PT Session Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.23/PT.Session.Toolkit.1.23.dmg",
-  "sha256": "746035301e935f1081333c0d19697bd5128059810ceace175c498ce534a6d92c",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/pt-session-toolkit-v1.24/PT.Session.Toolkit.1.24.dmg",
+  "sha256": "66c5a846276248c5284021399e0bcda1987fa7433dd7838ec7f20123022f790a",
   "releasedAt": "2026-08-29",
-  "headline": "Sessions built straight into Pro Tools, in sequence",
+  "headline": "Closing the window keeps the app; quitting asks first",
   "highlights": [
-    "A layout that makes several sessions — one per character, or a split past 24 hours — can now be built straight into Pro Tools, one session after another: created, built, saved and closed in turn. Anything that fails stops and asks whether to skip it, the asking can be switched off for the rest of the run, and the end of the run leads with the sessions that need a second look rather than the ones that are simply done. One honest note: the first real multi-session run is the proving run — closing sessions over the scripting link is new ground, and a Pro Tools dialog raised mid-run can still stall it.",
-    "Ask KL for a Feature… sits in the Help menu beside Send Diagnostics: describe what the app should do and the request reaches KL the same way a problem report does."
+    "\\u{2318}Q pauses on one plain question when quitting would cost something. A session that isn't saved to a package offers Save and Quit / Quit Anyway / Cancel — Save and Quit writes the same .klsession package as \\u{21E7}\\u{2318}S — and a build, export, package save or import still mid-flight asks before being abandoned. A quit with nothing to lose stays instant.",
+    "\\u{2318}W closes the window and only the window now. The app keeps running, the session survives untouched, and a click on the Dock icon brings the window back exactly as it was — closing the window used to quit the whole app on the spot. Both behaviors come from one shared piece of the kit, the same window-and-quit standard across the KL's Tools family."
   ]
 }
