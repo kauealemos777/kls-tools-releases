@@ -1,13 +1,13 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.8",
+  "latestVersion": "3.9",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.8/Audio.QA.Toolkit.3.8.dmg",
-  "sha256": "592104635238074affcce2b94c94885674cf7cab72c9f5f27c023db4780d8ce3",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.9/Audio.QA.Toolkit.3.9.dmg",
+  "sha256": "f8505cadcd659e7e3fcc159739ae7a938416889e95203f6b7b1f3d2ea92c605f",
   "releasedAt": "2026-08-21",
-  "headline": "The mastering release: force, stretch, and the road back",
+  "headline": "Master Analysis: the mastering read gets its own window",
   "highlights": [
-    "The time stretch no longer shifts audio right: a warm-up inside the stretch engine was never compensated, so every stretched file gained ~100 ms of silence at the head. Content now lands within a couple of dozen SAMPLES of where it belongs, at every ratio.",
-    "Smart Stretch to Source — the premium stretch: finer analysis, consonants locked so speech never smears or doubles, pitch untouched to the cent, and the result lands on the source's duration to the exact frame. Beside the plain stretch in the duration fixes."
+    "Master Analysis — a window that is just for reading a master: Source, Target and After side by side — integrated LUFS, true peak, duration (seconds and frames) and short-term max — with each Target and After value carrying its delta against the source in the verdict colors, so a drift is visible before it is audible. Below the table, the source's and target's short-term loudness contours overlaid on the BS.1770 grid (the source riding the diagnosed sync offset, exactly as the ride is computed), and the After contour joins them the moment an edit exists. Every number comes from the mastering engine's own measurement code and the After column from the same renderer preview and export use — the window cannot disagree with the master it explains.",
+    "Mastering without leaving the window: 1o1 Master, Force 1o1 Master and Force Normalize sit under the table — the same tools as the Smart and Process menus, same preview, same one-step undo — and the After column and curve refresh as each lands. The quality score and any honest shortfall wording report at the window's own foot. Opens from Smart \\u{25B8} Master Analysis… in the editor and from the batch Process menu, and follows the selected file live."
   ]
 }
