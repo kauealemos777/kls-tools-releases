@@ -1,13 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.74",
+  "latestVersion": "1.75",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.74/KL.s.Audio.Localization.Toolbox.1.74.dmg",
-  "sha256": "664418103cfdf93152250a909f6bc69fa74c4b3ffafc71a5b487aefaa61e2ddd",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.75/KL.s.Audio.Localization.Toolbox.1.75.dmg",
+  "sha256": "40b4aef5c973314880dda4281179d9a41e3cc15dd979f6e389b602eb2dbbb1df",
   "releasedAt": "2026-09-05",
-  "headline": "Duplicated people merge, and installs survive renames",
+  "headline": "A merge unites the device allowance too",
   "highlights": [
-    "One person, one row: “Name” and “Name — email” fold together, and Merge handles the rest",
-    "Installing a renamed tool works again — the installer trusts the app in the volume"
+    "Merging two approved people grows the allowance to cover every Mac both held"
   ]
 }
