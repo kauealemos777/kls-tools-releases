@@ -1,15 +1,13 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.3",
+  "latestVersion": "3.5",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.3/Audio.QA.Toolkit.3.3.dmg",
-  "sha256": "ddd75a4d3b95bf1f158afd121303913628cee78d10e8c014933c9b14bcd26969",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.5/Audio.QA.Toolkit.3.5.dmg",
+  "sha256": "c66d51f431baaf91f58e27998641720d2b8b779d4e8ef418b2a957bdc0507092",
   "releasedAt": "2026-08-21",
-  "headline": "Export follows the folder structure you point it at",
+  "headline": "Quitting can no longer cost you work",
   "highlights": [
-    "Fix: Mirror source structure now follows the SOURCE's folder tree, not the target's import path",
-    "Fix: exporting from a reference folder no longer prepends a stray folder to every path",
-    "Fix: export settings no longer reset after updating",
-    "The waveform panel no longer closes on its own — it has a Hide button instead"
+    "\\u{2318}Q now pauses on one plain question before anything is lost: with unsaved session changes it offers Save and Quit / Quit Anyway / Cancel, and with a batch or export still running it offers Quit Anyway / Cancel. A clean, idle session quits silently, exactly as before.",
+    "\\u{2318}W closes the window without ending the app. The session survives untouched — click the Dock icon and the window is back exactly as it was. Closing the window used to quit the whole app."
   ]
 }
