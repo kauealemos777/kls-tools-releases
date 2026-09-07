@@ -1,13 +1,13 @@
 {
   "displayName": "File Renamer Toolkit",
-  "latestVersion": "1.19",
+  "latestVersion": "1.20",
   "installedAppName": "File Renamer Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.19/File.Renamer.Toolkit.1.19.dmg",
-  "sha256": "a77260f7a36d32e66090bed582c6d35427bded53e332f8afd3cfebfd3adb01c7",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/file-renamer-toolkit-v1.20/File.Renamer.Toolkit.1.20.dmg",
+  "sha256": "58e1eb9f1fd5214f1b1e624bb82b890b58ab11cbf47fd03a4e7acc3c461de122",
   "releasedAt": "2026-09-02",
-  "headline": "Quit asks, close stays",
+  "headline": "Problem reports can now show, not just tell",
   "highlights": [
-    "\\u{2318}Q pauses on one plain question before abandoning real ",
-    "\\u{2318}W now closes only the window — the app keeps "
+    "The problem-report dialog can now attach screenshots — ",
+    "\\u{2318}Q pauses on one plain question before abandoning real "
   ]
 }
