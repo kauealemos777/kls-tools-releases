@@ -1,13 +1,12 @@
 {
   "displayName": "Folder Structure Toolkit",
-  "latestVersion": "1.5",
+  "latestVersion": "1.6",
   "installedAppName": "Folder Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.5/Folder.Structure.Toolkit.1.5.dmg",
-  "sha256": "dcc123a88e563adf85fbf16d23a5b0ae491244af865242430d592969ce4c5301",
-  "releasedAt": "2026-09-06",
-  "headline": "Drops that ask, and empty folders on request",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.6/Folder.Structure.Toolkit.1.6.dmg",
+  "sha256": "44c2e91cf19fb9af58bfdef041a0e18fd38155c2a6aecdbb1b225b42f34b8fc5",
+  "releasedAt": "2026-09-05",
+  "headline": "Problem reports can now show, not just tell",
   "highlights": [
-    "Dropping folders on Structures asks whether they are a source or targets — no more guessing",
-    "Organise can build the structure's empty folders, or skip any folder nothing moves into"
+    "The problem-report dialog can attach up to three screenshots, downscaled before they travel"
   ]
 }
