@@ -1,13 +1,13 @@
 {
   "displayName": "Audio QA Toolkit",
-  "latestVersion": "3.7",
+  "latestVersion": "3.8",
   "installedAppName": "Audio QA Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.7/Audio.QA.Toolkit.3.7.dmg",
-  "sha256": "a77721734b0df49bdf23d8ea4ea57d544613feda8068a376ecc98f1247d89a62",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-qa-toolkit-v3.8/Audio.QA.Toolkit.3.8.dmg",
+  "sha256": "592104635238074affcce2b94c94885674cf7cab72c9f5f27c023db4780d8ce3",
   "releasedAt": "2026-08-21",
-  "headline": "A problem report can now show the problem",
+  "headline": "The mastering release: force, stretch, and the road back",
   "highlights": [
-    "Exporting “approved files only” now covers ALL the approved files: a leftover row selection no longer silently shrinks the batch. The sheet says which files it covers — everything in the current view by default, with “selected only” one click away.",
-    "The export sheet’s Structure menu includes Per character — one folder per character, “Unassigned” for files without one — with names read from the mapping or from hand assignments."
+    "The time stretch no longer shifts audio right: a warm-up inside the stretch engine was never compensated, so every stretched file gained ~100 ms of silence at the head. Content now lands within a couple of dozen SAMPLES of where it belongs, at every ratio.",
+    "Smart Stretch to Source — the premium stretch: finer analysis, consonants locked so speech never smears or doubles, pitch untouched to the cent, and the result lands on the source's duration to the exact frame. Beside the plain stretch in the duration fixes."
   ]
 }
