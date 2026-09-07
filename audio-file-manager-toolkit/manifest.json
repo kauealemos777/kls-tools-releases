@@ -1,14 +1,13 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.30",
+  "latestVersion": "1.31",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.30/Audio.File.Manager.Toolkit.1.30.dmg",
-  "sha256": "d7b06c1e21448857897653f529cf28257e3fbe6426a25ac932f7bd1b8533f9f8",
-  "releasedAt": "2026-09-06",
-  "headline": "The freeze on network and sleeping drives, found and fixed",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.31/Audio.File.Manager.Toolkit.1.31.dmg",
+  "sha256": "d7cebfa2bd8dd87468e7ebeca77487b82c959313c26c04cf8c9815b7adbf9f7d",
+  "releasedAt": "2026-09-05",
+  "headline": "A problem report can now show the problem",
   "highlights": [
-    "Clicking a row no longer stats the file — the seconds-long freezes on sleeping and network drives are gone",
-    "The freeze log now records where it stopped, and stops reporting a napping app as a hang",
-    "Structures has been withdrawn — it belongs in another tool in the family"
+    "Attach up to three screenshots to a problem report",
+    "Images are downscaled before they travel — reports stay light"
   ]
 }
