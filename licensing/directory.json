@@ -519,6 +519,29 @@
       "revoked" : false,
       "tokenID" : "tok_41049C12-268A-4381-85CB-5BE0E1B218E4",
       "username" : "Matthew Montanez"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "file-renamer-toolkit"
+      ],
+      "hiddenProducts" : [
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_740C9836-9CF4-4EE9-8825-D2FFC5A710B1",
+      "username" : "Mauricio Lopez"
     }
   ]
 }
