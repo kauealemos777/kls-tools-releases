@@ -491,6 +491,30 @@
       "revoked" : false,
       "tokenID" : "tok_D0749476-B6A6-43D8-ADAD-F743DB3737E5",
       "username" : "Pedro Nunes — pedro.nunes@lionbridge.com"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_41049C12-268A-4381-85CB-5BE0E1B218E4",
+      "username" : "Matthew Montanez"
     }
   ]
 }
