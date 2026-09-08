@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.32",
+  "latestVersion": "1.33",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.32/Audio.File.Manager.Toolkit.1.32.dmg",
-  "sha256": "f3433b7ea5054acf78f858dd5ac8d868c5db110a125ca143258f12b6ccc496b1",
-  "releasedAt": "2026-09-07",
-  "headline": "Loudness and true peak, measured on demand and kept",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.33/Audio.File.Manager.Toolkit.1.33.dmg",
+  "sha256": "bbf654ed86dfb8bb8a15e32402c48cfe516347bbf6a9fd83ca7b4143c1e7b986",
+  "releasedAt": "2026-09-08",
+  "headline": "Identifying speech is about three times faster, and searching keeps up with typing",
   "highlights": [
-    "Analyze Loudness fills two new sortable columns — LUFS and Peak (dBTP) — for exactly the files you choose",
-    "Never automatic: on a 300,000-file library, nothing reads every sample unless you ask it to",
-    "Measurements are cached in the index — a file is never measured twice unless it changed"
+    "Speech identification runs about 3× faster — the same words, the same languages, a third of the wait",
+    "Searching a big library no longer re-reads the whole thing on every keystroke",
+    "Both measured on real files here, not estimated"
   ]
 }
