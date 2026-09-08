@@ -1,13 +1,13 @@
 {
   "displayName": "Audio Distribution Toolkit",
-  "latestVersion": "3.36",
+  "latestVersion": "3.37",
   "installedAppName": "Audio Distribution Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.36/Audio.Distribution.Toolkit.3.36.dmg",
-  "sha256": "b8806d1179843020d9a87836ead5086848363a19eaf3339da7304e6c787f3a5c",
-  "releasedAt": "2026-09-04",
-  "headline": "Problem reports can now show, not just tell",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-distribution-toolkit-v3.37/Audio.Distribution.Toolkit.3.37.dmg",
+  "sha256": "06df7460fce4e275d839d5cb690cca902800bb3508ce55949f0c415780e2845c",
+  "releasedAt": "2026-09-08",
+  "headline": "Imported clip counts are right again",
   "highlights": [
-    "The problem-report dialog can now attach screenshots — up to three images, downscaled before they travel, for the problems words can't carry: a broken layout, a wrong colour, a control out of place.",
-    "The batch menu has Collect Filtered into a Folder…, which gathers exactly the clips the current filter and search are showing into a folder you pick. Copy is the default and leaves the originals where they are; Move relocates them and repoints the session so nothing breaks."
+    "Importing a folder no longer brings in the session saved inside it — a Full Session save puts a copy of every clip inside the .audiosync package, so the count read double what you imported",
+    "Dragging a folder together with a file already inside it no longer imports that file twice, and neither does reaching the same folder through a shortcut"
   ]
 }
