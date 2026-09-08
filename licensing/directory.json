@@ -81,6 +81,15 @@
         "audio-file-manager-toolkit",
         "files-structure-toolkit"
       ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
+      ],
       "isAdmin" : false,
       "revoked" : false,
       "tokenID" : "tok_FC8C2684-C427-4001-B988-5F39A405E799",
@@ -234,6 +243,15 @@
         "audio-file-manager-toolkit",
         "files-structure-toolkit"
       ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
+      ],
       "isAdmin" : false,
       "revoked" : false,
       "tokenID" : "tok_68AD3915-E333-4CA0-8626-472AA0E4D01C",
@@ -342,6 +360,15 @@
         "file-renamer-toolkit",
         "audio-file-manager-toolkit",
         "files-structure-toolkit"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
       ],
       "isAdmin" : false,
       "revoked" : false,
