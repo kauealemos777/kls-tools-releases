@@ -289,6 +289,7 @@
         "distribution-toolkit",
         "file-renamer-toolkit",
         "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
         "files-structure-toolkit"
       ],
       "hiddenProducts" : [
@@ -667,6 +668,7 @@
         "distribution-toolkit",
         "file-renamer-toolkit",
         "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
         "files-structure-toolkit"
       ],
       "hiddenProducts" : [
