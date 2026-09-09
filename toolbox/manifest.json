@@ -1,13 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.76",
+  "latestVersion": "1.77",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.76/KL.s.Audio.Localization.Toolbox.1.76.dmg",
-  "sha256": "f41c6b92623d67a806504b5b0c9acc4547a48d0ef94aff204f74f909e5490f73",
-  "releasedAt": "2026-09-05",
-  "headline": "Bug reports carry screenshots",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.77/KL.s.Audio.Localization.Toolbox.1.77.dmg",
+  "sha256": "9bf30bbb339b19f858cb93f83c375d76390b70f3037fcaae575d1d200f4ef693",
+  "releasedAt": "2026-09-08",
+  "headline": "Extending a licence carries today's grants",
   "highlights": [
-    "Reporters can attach up to three screenshots — for the problems words can't carry",
-    "Bug Reports shows them as thumbnails; click opens full-size"
+    "Extend now signs the tools you currently allow — not the old licence's frozen list"
   ]
 }
