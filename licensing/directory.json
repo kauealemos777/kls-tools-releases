@@ -542,6 +542,31 @@
       "revoked" : false,
       "tokenID" : "tok_740C9836-9CF4-4EE9-8825-D2FFC5A710B1",
       "username" : "Mauricio Lopez"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_A76AB6C9-E95C-4023-84C9-D9279E359310",
+      "username" : "Matthew Montanez"
     }
   ]
 }
