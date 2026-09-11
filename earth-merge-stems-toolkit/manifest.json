@@ -1,14 +1,12 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.19",
+  "latestVersion": "1.20",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.19/EARTH.Merge.Stems.Toolkit.1.19.dmg",
-  "sha256": "14f3c1d8dee7f0b345d74e5542ba863b43ffa9e95c7bb1975776bd88821acd67",
-  "releasedAt": "2026-09-05",
-  "headline": "A problem report can now show the problem",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.20/EARTH.Merge.Stems.Toolkit.1.20.dmg",
+  "sha256": "02d047fcb75602e467285bfceec5d62793ea830a6439a4f33621312efed64512",
+  "releasedAt": "2026-09-10",
+  "headline": "Erik and Alma were the wrong way round",
   "highlights": [
-    "Attach up to three screenshots to a problem report",
-    "Images are downscaled before they travel — reports stay light",
-    "For the problems words can't carry: layout, colour, placement"
+    "NPC101_00_002 is Erik and NPC102_00_001 is Alma — they were swapped"
   ]
 }
