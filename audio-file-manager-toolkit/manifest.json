@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.35",
+  "latestVersion": "1.36",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.35/Audio.File.Manager.Toolkit.1.35.dmg",
-  "sha256": "670e013360feb75dbe88f2db20ac092ec3235042688224f87000a2e97921de8b",
-  "releasedAt": "2026-09-10",
-  "headline": "The metadata inside your files, in the list — and only the columns that have something in them",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.36/Audio.File.Manager.Toolkit.1.36.dmg",
+  "sha256": "d94fa4e25cbc8816c44b82107ee651743fee134c12193a10bf4e6a973737b3da",
+  "releasedAt": "2026-09-11",
+  "headline": "Metadata is read for the library you have open, and says so while it works",
   "highlights": [
-    "Columns for the metadata your files actually carry — BWF originator, timecode, recording date, iXML project and frame rate",
-    "A field every file in the list agrees on is marked ◆ right in its header, with the value",
-    "One click hides the whole set; nothing is ever written back to a file"
+    "The session you open is read first — it no longer waits behind an older library",
+    "A root that has not been read yet says “reading 306,427” instead of showing nothing",
+    "Faster to find what is still unread, on any size of library"
   ]
 }
