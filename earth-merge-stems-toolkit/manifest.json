@@ -1,12 +1,13 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.20",
+  "latestVersion": "1.21",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.20/EARTH.Merge.Stems.Toolkit.1.20.dmg",
-  "sha256": "02d047fcb75602e467285bfceec5d62793ea830a6439a4f33621312efed64512",
-  "releasedAt": "2026-09-10",
-  "headline": "Erik and Alma were the wrong way round",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.21/EARTH.Merge.Stems.Toolkit.1.21.dmg",
+  "sha256": "7cc14d5cf6b8bcebcc231a383039e9d50ab0f8404640aece54663b2efd6a9f54",
+  "releasedAt": "2026-09-11",
+  "headline": "Tagging a source stem no longer means rewriting it",
   "highlights": [
-    "NPC101_00_002 is Erik and NPC102_00_001 is Alma — they were swapped"
+    "Artist metadata on source stems is its own switch, independent of level and format",
+    "A stem that needs only the tag is appended to, not rewritten — bext and iXML survive"
   ]
 }
