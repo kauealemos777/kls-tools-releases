@@ -1,13 +1,12 @@
 {
   "displayName": "EARTH - Audio Files Match Toolkit",
   "installedAppName": "EARTH - Audio Files Match Toolkit.app",
-  "latestVersion": "1.8",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.8/EARTH.Audio.Files.Match.Toolkit.1.8.dmg",
-  "sha256": "8eda8f73e732452cff2fdb71041f0718ed0e889328b0426555e28d1b4b11403e",
+  "latestVersion": "1.9",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-files-match-toolkit-v1.9/EARTH.Audio.Files.Match.Toolkit.1.9.dmg",
+  "sha256": "7372b6601e1bf757d0d5720c6238f5e10fcb0add2f2e4655ad0b314124907bb6",
   "releasedAt": "2026-09-16",
-  "headline": "Hear it before you decide — and fewer proposals that waste your ear.",
+  "headline": "Alternate takes keep their own names — no more false rename prompts.",
   "highlights": [
-    "A play button on every file in the results: click to hear it, click another to switch instantly.",
-    "Proposals got strict: the correlation floor rose to 86%, and a raw file shorter than 70% of the keeper is never offered."
+    "Two takes of the same line could swap partners — their audio is nearly identical."
   ]
 }
