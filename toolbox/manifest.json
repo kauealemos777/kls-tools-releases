@@ -1,12 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.77",
+  "latestVersion": "1.78",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.77/KL.s.Audio.Localization.Toolbox.1.77.dmg",
-  "sha256": "9bf30bbb339b19f858cb93f83c375d76390b70f3037fcaae575d1d200f4ef693",
-  "releasedAt": "2026-09-08",
-  "headline": "Extending a licence carries today's grants",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.78/KL.s.Audio.Localization.Toolbox.1.78.dmg",
+  "sha256": "d6c9ea401521627f72de6909dde9d0980c9db5c1423d1e627067d5fd94a88f3f",
+  "releasedAt": "2026-09-19",
+  "headline": "The reports list is back, and it can't drown again",
   "highlights": [
-    "Extend now signs the tools you currently allow — not the old licence's frozen list"
+    "Bug Reports, feature requests and usage read through indexes now — the daily quota that silenced them is out of the picture"
   ]
 }
