@@ -1,12 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.78",
+  "latestVersion": "1.79",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.78/KL.s.Audio.Localization.Toolbox.1.78.dmg",
-  "sha256": "d6c9ea401521627f72de6909dde9d0980c9db5c1423d1e627067d5fd94a88f3f",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.79/KL.s.Audio.Localization.Toolbox.1.79.dmg",
+  "sha256": "a5180138d9f7d7726930f3381923b0b512e19221157e0b96cdd0c209c3a084ca",
   "releasedAt": "2026-09-19",
-  "headline": "The reports list is back, and it can't drown again",
+  "headline": "The badges stop spending the reports' quota",
   "highlights": [
-    "Bug Reports, feature requests and usage read through indexes now — the daily quota that silenced them is out of the picture"
+    "Report and request badges check every fifteen minutes instead of every two",
+    "A half-finished index rebuild is resumed, not restarted"
   ]
 }
