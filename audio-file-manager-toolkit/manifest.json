@@ -1,14 +1,14 @@
 {
   "displayName": "Audio File Manager Toolkit",
-  "latestVersion": "1.36",
+  "latestVersion": "1.37",
   "installedAppName": "Audio File Manager Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.36/Audio.File.Manager.Toolkit.1.36.dmg",
-  "sha256": "d94fa4e25cbc8816c44b82107ee651743fee134c12193a10bf4e6a973737b3da",
-  "releasedAt": "2026-09-11",
-  "headline": "Metadata is read for the library you have open, and says so while it works",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/audio-file-manager-toolkit-v1.37/Audio.File.Manager.Toolkit.1.37.dmg",
+  "sha256": "07307b563292f12111999b69dd31fc8fa7bea4ee9e72bef4dd44083220ceeda7",
+  "releasedAt": "2026-09-19",
+  "headline": "Files you deleted stop showing up after a rescan",
   "highlights": [
-    "The session you open is read first — it no longer waits behind an older library",
-    "A root that has not been read yet says “reading 306,427” instead of showing nothing",
-    "Faster to find what is still unread, on any size of library"
+    "Fixes deleted files staying in a session no matter how often you rescanned",
+    "Rescan does the thorough pass whenever the quick one could not be trusted",
+    "Your next rescan clears the files already stuck there"
   ]
 }
