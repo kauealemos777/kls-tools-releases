@@ -1,14 +1,13 @@
 {
   "displayName": "EARTH - Backup PT Session Builder",
   "installedAppName": "EARTH - Backup PT Session Builder.app",
-  "latestVersion": "1.4",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.4/Earth.Backup.PT.Session.Builder.1.4.dmg",
-  "sha256": "ed663f2778d2af6870da2bc83ba5c9cb20faa344de0263dad428ae11b692ee0e",
+  "latestVersion": "1.5",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.5/Earth.Backup.PT.Session.Builder.1.5.dmg",
+  "sha256": "d052081e116e9d37561d8a644bd14bcbc39c0f33f2e00749137e1ea6ff57dc79",
   "releasedAt": "2026-09-19",
-  "headline": "The session carries its own audio",
+  "headline": "A problem report now says what the build did",
   "highlights": [
-    "Takes are copied into the session's Audio Files folder, so it travels whole",
-    "A take that matches nothing is now named, with the line it looked for",
-    "A stray space in a filename no longer reads as a missing take"
+    "Imports, matching and every build are written to the diagnostic log",
+    "Unmatched takes are named in the log as well as on screen"
   ]
 }
