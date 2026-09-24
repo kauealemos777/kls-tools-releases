@@ -1,13 +1,12 @@
 {
   "displayName": "EARTH - Backup PT Session Builder",
   "installedAppName": "EARTH - Backup PT Session Builder.app",
-  "latestVersion": "1.5",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.5/Earth.Backup.PT.Session.Builder.1.5.dmg",
-  "sha256": "d052081e116e9d37561d8a644bd14bcbc39c0f33f2e00749137e1ea6ff57dc79",
-  "releasedAt": "2026-09-19",
-  "headline": "A problem report now says what the build did",
+  "latestVersion": "1.6",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-backup-builder-v1.6/Earth.Backup.PT.Session.Builder.1.6.dmg",
+  "sha256": "374e86f1a2c89c96876e602b1da405da117d623a95ea7e1414d303ef07187b15",
+  "releasedAt": "2026-09-23",
+  "headline": "Markers are plain markers again",
   "highlights": [
-    "Imports, matching and every build are written to the diagnostic log",
-    "Unmatched takes are named in the log as well as on screen"
+    "Markers no longer carry Track Visibility — nothing to recall, just a position"
   ]
 }
