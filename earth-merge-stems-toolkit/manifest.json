@@ -1,13 +1,13 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.21",
+  "latestVersion": "1.22",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.21/EARTH.Merge.Stems.Toolkit.1.21.dmg",
-  "sha256": "7cc14d5cf6b8bcebcc231a383039e9d50ab0f8404640aece54663b2efd6a9f54",
-  "releasedAt": "2026-09-11",
-  "headline": "Tagging a source stem no longer means rewriting it",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.22/EARTH.Merge.Stems.Toolkit.1.22.dmg",
+  "sha256": "6a6e24bea4d39b13cefeb8ad3d6e04dad0c566dcdb80c428883b2b581ed52d96",
+  "releasedAt": "2026-09-28",
+  "headline": "Source stems are tagged again, and every launch starts clean",
   "highlights": [
-    "Artist metadata on source stems is its own switch, independent of level and format",
-    "A stem that needs only the tag is appended to, not rewritten — bext and iXML survive"
+    "Artist metadata on source stems is ON by default — 1.21 shipped it off and quietly stopped tagging",
+    "The app opens on a reset window instead of the last session's settings"
   ]
 }
