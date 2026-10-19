@@ -1,12 +1,13 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.79",
+  "latestVersion": "1.80",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.79/KL.s.Audio.Localization.Toolbox.1.79.dmg",
-  "sha256": "c7b9ac42c6df9ee180970d4f6e84d1626dc9d02edf729d3caa2f81ccf518d9a1",
-  "releasedAt": "2026-10-08",
-  "headline": "No more permission dialog at every launch",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.80/KL.s.Audio.Localization.Toolbox.1.80.dmg",
+  "sha256": "06df35f6442d8bee6a2ff440396591eda17af38e95e702d13f6f47afc0171820",
+  "releasedAt": "2026-10-19",
+  "headline": "A Toolbox that can't update itself now says so",
   "highlights": [
-    "The “access data from other apps” prompt is gone — the widget handoff moved to shared ground"
+    "Update failures are never silent again — the reason shows as a notice, with the cure",
+    "Admin usage panels load in about a second instead of timing out"
   ]
 }
