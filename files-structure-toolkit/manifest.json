@@ -1,12 +1,14 @@
 {
   "displayName": "Folder Structure Toolkit",
-  "latestVersion": "1.6",
+  "latestVersion": "1.7",
   "installedAppName": "Folder Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.6/Folder.Structure.Toolkit.1.6.dmg",
-  "sha256": "44c2e91cf19fb9af58bfdef041a0e18fd38155c2a6aecdbb1b225b42f34b8fc5",
-  "releasedAt": "2026-09-05",
-  "headline": "Problem reports can now show, not just tell",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.7/Folder.Structure.Toolkit.1.7.dmg",
+  "sha256": "5baa028c3120ca90e3e64b04f8211e8ae5ec7caeacd9aea4841f6c4d291f551f",
+  "releasedAt": "2026-10-26",
+  "headline": "Structures from a table, ALT takes, and a readable plan",
   "highlights": [
-    "The problem-report dialog can attach up to three screenshots, downscaled before they travel"
+    "A structure can be imported from a table — file names plus folder layers, as deep as you need — and reopened to review or edit its rows",
+    "ALT takes recognized by your own suffixes and filed into an _ALT subfolder or beside their main take",
+    "Both Organise sheets open on a labeled tally of what the run will do, and the app opens on a proper mode menu"
   ]
 }
