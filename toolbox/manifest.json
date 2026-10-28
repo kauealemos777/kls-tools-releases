@@ -1,13 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.80",
+  "latestVersion": "1.81",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.80/KL.s.Audio.Localization.Toolbox.1.80.dmg",
-  "sha256": "06df35f6442d8bee6a2ff440396591eda17af38e95e702d13f6f47afc0171820",
-  "releasedAt": "2026-10-19",
-  "headline": "A Toolbox that can't update itself now says so",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.81/KL.s.Audio.Localization.Toolbox.1.81.dmg",
+  "sha256": "6ec1f748141ddccfe27848956f8ab7e864eb8d263c76551c6ac58656ef645ab5",
+  "releasedAt": "2026-10-28",
+  "headline": "Mastering Toolkit joins the shelf as Upcoming",
   "highlights": [
-    "Update failures are never silent again — the reason shows as a notice, with the cure",
-    "Admin usage panels load in about a second instead of timing out"
+    "Mastering Toolkit appears under Audio Toolkits as Upcoming — batch Fixed Peak, LUFS and 1o1 mastering"
   ]
 }
