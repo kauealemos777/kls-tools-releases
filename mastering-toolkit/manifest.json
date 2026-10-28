@@ -1,0 +1,14 @@
+{
+  "displayName": "Mastering Toolkit",
+  "latestVersion": "1.0",
+  "installedAppName": "Mastering Toolkit.app",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/mastering-toolkit-v1.0/Mastering.Toolkit.1.0.dmg",
+  "sha256": "57811f28c12c162ac2630b5e829d0322998f779d333106c28e41b895586f8645",
+  "releasedAt": "2026-10-28",
+  "headline": "Batch mastering: Fixed Peak, LUFS, or 1o1 against each file's source",
+  "highlights": [
+    "Fixed Peak, LUFS or 1o1 source matching, with ceiling, boost/cut limits and compensation (comma or point)",
+    "Transparent true-peak limiter; a gentle compressor only when it helps; any shortfall reported, never crushed",
+    "Unmatched files flagged before the run, M/S/C tags, templates with notes, and saved sessions"
+  ]
+}
