@@ -42,7 +42,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -65,7 +66,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -114,7 +116,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -137,7 +140,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -160,7 +164,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -183,7 +188,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -296,7 +302,8 @@
         "file-renamer-toolkit",
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
-        "files-structure-toolkit"
+        "files-structure-toolkit",
+        "mastering-toolkit"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
@@ -330,7 +337,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -353,7 +361,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -428,7 +437,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -475,7 +485,8 @@
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
         "files-structure-toolkit",
-        "nlt1-merge-stems-toolkit"
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
       ],
       "isAdmin" : true,
       "revoked" : false,
@@ -686,7 +697,8 @@
         "file-renamer-toolkit",
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
-        "files-structure-toolkit"
+        "files-structure-toolkit",
+        "mastering-toolkit"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
@@ -710,7 +722,8 @@
         "file-renamer-toolkit",
         "audio-file-manager-toolkit",
         "audio-files-match-toolkit",
-        "files-structure-toolkit"
+        "files-structure-toolkit",
+        "mastering-toolkit"
       ],
       "hiddenProducts" : [
         "preproduction-toolkit",
