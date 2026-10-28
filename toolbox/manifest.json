@@ -1,12 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.82",
+  "latestVersion": "1.83",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.82/KL.s.Audio.Localization.Toolbox.1.82.dmg",
-  "sha256": "702bc47c1fe164637f9c7b3574a180cb03f5617eed84c929f510494437a40809",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.83/KL.s.Audio.Localization.Toolbox.1.83.dmg",
+  "sha256": "03915f827e51d0c27ebc6ef17be0da2704b04a5712a6f6ece28b02a318e671cb",
   "releasedAt": "2026-10-28",
-  "headline": "Mastering Toolkit is ready to install",
+  "headline": "Home is the launcher now — and the news announces itself",
   "highlights": [
-    "Mastering Toolkit 1.0 installs from the Audio Toolkits shelf — batch Fixed Peak, LUFS and 1o1 mastering"
+    "Every shelf on one page: color-coded sections, jump chips, and a slim rail in place of the sidebar list",
+    "What's New — new tools, updates and release notes appear on their own, with a bell counting what you haven't seen",
+    "Manage Users shows who's waiting for a license, reads the published directory on every Mac, and refreshes with ⌘R"
   ]
 }
