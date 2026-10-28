@@ -1,12 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.81",
+  "latestVersion": "1.82",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.81/KL.s.Audio.Localization.Toolbox.1.81.dmg",
-  "sha256": "6ec1f748141ddccfe27848956f8ab7e864eb8d263c76551c6ac58656ef645ab5",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.82/KL.s.Audio.Localization.Toolbox.1.82.dmg",
+  "sha256": "702bc47c1fe164637f9c7b3574a180cb03f5617eed84c929f510494437a40809",
   "releasedAt": "2026-10-28",
-  "headline": "Mastering Toolkit joins the shelf as Upcoming",
+  "headline": "Mastering Toolkit is ready to install",
   "highlights": [
-    "Mastering Toolkit appears under Audio Toolkits as Upcoming — batch Fixed Peak, LUFS and 1o1 mastering"
+    "Mastering Toolkit 1.0 installs from the Audio Toolkits shelf — batch Fixed Peak, LUFS and 1o1 mastering"
   ]
 }
