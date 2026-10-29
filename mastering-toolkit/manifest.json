@@ -1,14 +1,14 @@
 {
   "displayName": "Mastering Toolkit",
-  "latestVersion": "1.0",
+  "latestVersion": "1.1",
   "installedAppName": "Mastering Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/mastering-toolkit-v1.0/Mastering.Toolkit.1.0.dmg",
-  "sha256": "57811f28c12c162ac2630b5e829d0322998f779d333106c28e41b895586f8645",
-  "releasedAt": "2026-10-28",
-  "headline": "Batch mastering: Fixed Peak, LUFS, or 1o1 against each file's source",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/mastering-toolkit-v1.1/Mastering.Toolkit.1.1.dmg",
+  "sha256": "19ed5bb5be611aa98f9eb5015881ba642e4c5fccfb93e32466bc73b360bc8a4d",
+  "releasedAt": "2026-10-29",
+  "headline": "Smart EQ match, a Loud chain, true-peak insights and A/B listening",
   "highlights": [
-    "Fixed Peak, LUFS or 1o1 source matching, with ceiling, boost/cut limits and compensation (comma or point)",
-    "Transparent true-peak limiter; a gentle compressor only when it helps; any shortfall reported, never crushed",
-    "Unmatched files flagged before the run, M/S/C tags, templates with notes, and saved sessions"
+    "1o1 now matches each file's tone to its source — a smooth, corrective, linear-phase EQ",
+    "Smart and Loud processing: cleaner masters at very loud targets, never over the ceiling on QC meters",
+    "True-peak details and timeline, A/B listening, Preview, and a Check a Delivery mode"
   ]
 }
