@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.84",
+  "latestVersion": "1.85",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.84/KL.s.Audio.Localization.Toolbox.1.84.dmg",
-  "sha256": "65c1417abb53dd527d75d9a3e731e470deb102cfdf10eb54fb076d60c2fe07cb",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.85/KL.s.Audio.Localization.Toolbox.1.85.dmg",
+  "sha256": "a5f71e30e956b5c5745d76fc87e95e3a5a1af5c7bd2a7d131ab8736b5703d282",
   "releasedAt": "2026-10-29",
-  "headline": "The window buttons are back — and Manage Users reaches any browser",
+  "headline": "Fix All Licenses — every grant baked into the signed files in one press",
   "highlights": [
-    "Close, minimize and zoom are visible again on macOS 26 — the window surface was painting over them",
-    "Admins can manage people from any browser at the usage endpoint's /manage page; the Mac's Manage Users folds those edits in instead of overwriting them",
-    "Only one Toolbox runs at a time, and a self-update now refreshes a duplicate install instead of leaving it behind"
+    "Manage Users counts the licenses whose grants live only online and re-signs them all with one press — today's allowed set, nobody's expiry shortened",
+    "Revoked and expired licenses are never touched, and the published directory is re-checked at press time, so a revocation made from the web always wins",
+    "The whole batch rides a single directory publish, and every fresh file is delivered online right away"
   ]
 }
