@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.83",
+  "latestVersion": "1.84",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.83/KL.s.Audio.Localization.Toolbox.1.83.dmg",
-  "sha256": "03915f827e51d0c27ebc6ef17be0da2704b04a5712a6f6ece28b02a318e671cb",
-  "releasedAt": "2026-10-28",
-  "headline": "Home is the launcher now — and the news announces itself",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.84/KL.s.Audio.Localization.Toolbox.1.84.dmg",
+  "sha256": "65c1417abb53dd527d75d9a3e731e470deb102cfdf10eb54fb076d60c2fe07cb",
+  "releasedAt": "2026-10-29",
+  "headline": "The window buttons are back — and Manage Users reaches any browser",
   "highlights": [
-    "Every shelf on one page: color-coded sections, jump chips, and a slim rail in place of the sidebar list",
-    "What's New — new tools, updates and release notes appear on their own, with a bell counting what you haven't seen",
-    "Manage Users shows who's waiting for a license, reads the published directory on every Mac, and refreshes with ⌘R"
+    "Close, minimize and zoom are visible again on macOS 26 — the window surface was painting over them",
+    "Admins can manage people from any browser at the usage endpoint's /manage page; the Mac's Manage Users folds those edits in instead of overwriting them",
+    "Only one Toolbox runs at a time, and a self-update now refreshes a duplicate install instead of leaving it behind"
   ]
 }
