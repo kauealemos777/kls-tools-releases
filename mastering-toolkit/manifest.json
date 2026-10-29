@@ -1,14 +1,14 @@
 {
   "displayName": "Mastering Toolkit",
-  "latestVersion": "1.1",
+  "latestVersion": "1.2",
   "installedAppName": "Mastering Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/mastering-toolkit-v1.1/Mastering.Toolkit.1.1.dmg",
-  "sha256": "19ed5bb5be611aa98f9eb5015881ba642e4c5fccfb93e32466bc73b360bc8a4d",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/mastering-toolkit-v1.2/Mastering.Toolkit.1.2.dmg",
+  "sha256": "09aef567c56cecd179d26ce6aa818388c19e61d8563f5789805bd1c3e3f3b474",
   "releasedAt": "2026-10-29",
-  "headline": "Smart EQ match, a Loud chain, true-peak insights and A/B listening",
+  "headline": "Listen to the source, and a much faster Preview",
   "highlights": [
-    "1o1 now matches each file's tone to its source — a smooth, corrective, linear-phase EQ",
-    "Smart and Loud processing: cleaner masters at very loud targets, never over the ceiling on QC meters",
-    "True-peak details and timeline, A/B listening, Preview, and a Check a Delivery mode"
+    "Listen now switches between the original, the master and its paired source",
+    "Preview renders about three times faster, and Listen plays it straight away",
+    "A taller inspector shows the whole peak and processing summary"
   ]
 }
