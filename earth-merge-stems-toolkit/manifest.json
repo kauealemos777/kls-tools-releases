@@ -1,13 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.22",
+  "latestVersion": "1.23",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.22/EARTH.Merge.Stems.Toolkit.1.22.dmg",
-  "sha256": "6a6e24bea4d39b13cefeb8ad3d6e04dad0c566dcdb80c428883b2b581ed52d96",
-  "releasedAt": "2026-09-28",
-  "headline": "Source stems are tagged again, and every launch starts clean",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.23/EARTH.Merge.Stems.Toolkit.1.23.dmg",
+  "sha256": "699052ddc07d025ab9dd164d391994ac798dcd99c61ca4b56ef3fd4bb7a38cff",
+  "releasedAt": "2026-10-28",
+  "headline": "Gendered lines follow the Hunter — no more _M and _F folders",
   "highlights": [
-    "Artist metadata on source stems is ON by default — 1.21 shipped it off and quietly stopped tagging",
-    "The app opens on a reset window instead of the last session's settings"
+    "A female Hunter takes the _fe line, a male Hunter the _ma line — half the old merges paired them wrongly",
+    "No _M/_F folders: one flat set of 12 stem merges and 6 videos, each already naming its Hunter",
+    "_fe.C / _ma.L — a gender marker is now read through a 5.0 channel suffix"
   ]
 }
