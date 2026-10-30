@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.23",
+  "latestVersion": "1.24",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.23/EARTH.Merge.Stems.Toolkit.1.23.dmg",
-  "sha256": "699052ddc07d025ab9dd164d391994ac798dcd99c61ca4b56ef3fd4bb7a38cff",
-  "releasedAt": "2026-10-28",
-  "headline": "Gendered lines follow the Hunter — no more _M and _F folders",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.24/EARTH.Merge.Stems.Toolkit.1.24.dmg",
+  "sha256": "b14cefdb416221d160097b1103232c28aaca20afc898ffc0fcfc0dc2984e18df",
+  "releasedAt": "2026-10-30",
+  "headline": "A final check that re-reads the delivery, and a light you can trust",
   "highlights": [
-    "A female Hunter takes the _fe line, a male Hunter the _ma line — half the old merges paired them wrongly",
-    "No _M/_F folders: one flat set of 12 stem merges and 6 videos, each already naming its Hunter",
-    "_fe.C / _ma.L — a gender marker is now read through a 5.0 channel suffix"
+    "Final check: every merged file re-opened after the run — name, ARTIST and level proved against what was asked for",
+    "Set all: one answer to the Alma/Erik question for the whole pack, instead of a menu per cutscene",
+    "A stage can say it ships no BGM+SFX bed, and the summary groups by finding — “all 48 no bed”, not 48 lines"
   ]
 }
