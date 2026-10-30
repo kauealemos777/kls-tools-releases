@@ -1,14 +1,14 @@
 {
   "displayName": "Folder Structure Toolkit",
-  "latestVersion": "1.7",
+  "latestVersion": "1.8",
   "installedAppName": "Folder Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.7/Folder.Structure.Toolkit.1.7.dmg",
-  "sha256": "5baa028c3120ca90e3e64b04f8211e8ae5ec7caeacd9aea4841f6c4d291f551f",
-  "releasedAt": "2026-10-26",
-  "headline": "Structures from a table, ALT takes, and a readable plan",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.8/Folder.Structure.Toolkit.1.8.dmg",
+  "sha256": "77e1d2ca8f06a01e37f24a5e63abca4c524ecdcf40b37f38ef784dfa24b22568",
+  "releasedAt": "2026-10-30",
+  "headline": "Folder trees you can edit, variations, tabs, and a rebuilt import window",
   "highlights": [
-    "A structure can be imported from a table — file names plus folder layers, as deep as you need — and reopened to review or edit its rows",
-    "ALT takes recognized by your own suffixes and filed into an _ALT subfolder or beside their main take",
-    "Both Organise sheets open on a labeled tally of what the run will do, and the app opens on a proper mode menu"
+    "See a structure's whole folder tree; rename, find & replace, or remove folders — files follow",
+    "Variations: the same structure under different folder names, with a default always selected",
+    "Tabs instead of extra app copies, drag-and-drop library filing, and a quick action to clean empty folders"
   ]
 }
