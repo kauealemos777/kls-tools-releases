@@ -740,6 +740,21 @@
       "revoked" : false,
       "tokenID" : "tok_DA38FCE1-C39A-4673-8A7C-54CE64A73698",
       "username" : "Rafael Miranda"
+    },
+    {
+      "allowedProducts" : [
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "distribution-toolkit",
+        "mastering-toolkit",
+        "files-structure-toolkit",
+        "qa-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_A333C150-53A8-44CA-8304-A635AD5CD9C3",
+      "updatedAt" : "2026-10-30T08:19:42Z",
+      "username" : "Pedro Sangali"
     }
   ]
 }
