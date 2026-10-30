@@ -1,14 +1,14 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.85",
+  "latestVersion": "1.86",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.85/KL.s.Audio.Localization.Toolbox.1.85.dmg",
-  "sha256": "a5f71e30e956b5c5745d76fc87e95e3a5a1af5c7bd2a7d131ab8736b5703d282",
-  "releasedAt": "2026-10-29",
-  "headline": "Fix All Licenses — every grant baked into the signed files in one press",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.86/KL.s.Audio.Localization.Toolbox.1.86.dmg",
+  "sha256": "4c8b5237b4256a409df751ca0e8a37fd332d7e80740c576b3b1957af74bccc37",
+  "releasedAt": "2026-10-30",
+  "headline": "Favorites is a tab now — and a revocation always sticks",
   "highlights": [
-    "Manage Users counts the licenses whose grants live only online and re-signs them all with one press — today's allowed set, nobody's expiry shortened",
-    "Revoked and expired licenses are never touched, and the published directory is re-checked at press time, so a revocation made from the web always wins",
-    "The whole batch rides a single directory publish, and every fresh file is delivered online right away"
+    "The shelf bar is one centered set of tabs with bigger targets, and the Favorites tab shows your starred tools alone — every other tab brings the whole wall back",
+    "Your favorites live only behind their tab, so the wall stops listing the same tools twice",
+    "A revocation made from the web console can no longer be silently undone by the Mac's next save — the merge folds it in and says so"
   ]
 }
