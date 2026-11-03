@@ -774,6 +774,236 @@
       "tokenID" : "tok_29DCADF9-F7FB-4221-BA5F-C0432CC148E9",
       "updatedAt" : "2026-11-03T18:25:24Z",
       "username" : "Murilo Franceis — v-murilo.franceis@lionbridge.com"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "merge-stems-tool",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "document-builder-toolkit",
+        "voice-fx-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_210B2CC9-D6E4-4F50-A282-CFE0666EBE89",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Gustavo Bandeira"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
+      ],
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_5E1AAC7C-1517-4ACC-A3A7-42B8FB999C96",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
+      ],
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_AC84C163-3965-4107-B117-68B2253B9120",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit"
+      ],
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_1A66C4D6-2689-4486-9127-15EAB03B361D",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit",
+        "mastering-toolkit"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_B59FC61F-5623-4193-AB17-BAD27944EA04",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Matthew Montanez"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "mastering-toolkit"
+      ],
+      "hiddenProducts" : [
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "files-structure-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_A3C6AD51-B664-48D9-A9A8-766404EA2924",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Mauricio Lopez"
+    },
+    {
+      "allowedProducts" : [
+        "qa-toolkit",
+        "script-toolkit",
+        "document-builder-toolkit",
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit",
+        "mastering-toolkit"
+      ],
+      "hiddenProducts" : [
+        "merge-stems-tool",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_78732C0E-E175-4FC0-9140-2E498A41AB87",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Pedro Nunes"
+    },
+    {
+      "allowedProducts" : [
+        "qa-toolkit",
+        "script-toolkit",
+        "document-builder-toolkit",
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "files-structure-toolkit",
+        "mastering-toolkit"
+      ],
+      "hiddenProducts" : [
+        "merge-stems-tool",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-files-match-toolkit",
+        "nlt1-merge-stems-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_4B8160DD-6541-4F09-A6F2-E7B2558109FE",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Pedro Nunes"
+    },
+    {
+      "allowedProducts" : [
+        "distribution-toolkit",
+        "file-renamer-toolkit",
+        "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "mastering-toolkit"
+      ],
+      "hiddenProducts" : [
+        "preproduction-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_C245D84E-1E4D-46CC-948A-E39C2CB39098",
+      "updatedAt" : "2026-11-03T18:27:26Z",
+      "username" : "Rafael Miranda"
     }
   ]
 }
