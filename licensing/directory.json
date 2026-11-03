@@ -755,6 +755,25 @@
       "tokenID" : "tok_A333C150-53A8-44CA-8304-A635AD5CD9C3",
       "updatedAt" : "2026-10-30T08:19:42Z",
       "username" : "Pedro Sangali"
+    },
+    {
+      "allowedProducts" : [
+        "video-converter-toolkit",
+        "script-toolkit",
+        "mastering-toolkit",
+        "qa-toolkit",
+        "distribution-toolkit",
+        "audio-file-manager-toolkit",
+        "document-builder-toolkit",
+        "file-renamer-toolkit",
+        "files-structure-toolkit",
+        "preproduction-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_29DCADF9-F7FB-4221-BA5F-C0432CC148E9",
+      "updatedAt" : "2026-11-03T18:25:24Z",
+      "username" : "Murilo Franceis — v-murilo.franceis@lionbridge.com"
     }
   ]
 }
