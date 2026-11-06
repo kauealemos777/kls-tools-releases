@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.24",
+  "latestVersion": "1.25",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.24/EARTH.Merge.Stems.Toolkit.1.24.dmg",
-  "sha256": "b14cefdb416221d160097b1103232c28aaca20afc898ffc0fcfc0dc2984e18df",
-  "releasedAt": "2026-10-30",
-  "headline": "A final check that re-reads the delivery, and a light you can trust",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.25/EARTH.Merge.Stems.Toolkit.1.25.dmg",
+  "sha256": "aed170705842f82a474d96cb9ccbd6586bb8f35032c31a0f24b6bf3be942aa83",
+  "releasedAt": "2026-11-06",
+  "headline": "Merge delivery reports with a preview, and share templates",
   "highlights": [
-    "Final check: every merged file re-opened after the run — name, ARTIST and level proved against what was asked for",
-    "Set all: one answer to the Alma/Erik question for the whole pack, instead of a menu per cutscene",
-    "A stage can say it ships no BGM+SFX bed, and the summary groups by finding — “all 48 no bed”, not 48 lines"
+    "Merge Delivery Reports: several reports into one sheet, checked and edited in a preview before export",
+    "Delivery reports now match the delivery sheet, with Alma and Erik on their own rows and no BGM or SFX tracks",
+    "Templates can be exported, imported and reverted, and a gendered Palico line is no longer dropped from merges"
   ]
 }
