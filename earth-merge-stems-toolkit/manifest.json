@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.28",
+  "latestVersion": "1.29",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.28/EARTH.Merge.Stems.Toolkit.1.28.dmg",
-  "sha256": "3e6c0ef04195f04ad63ed66f582be982b80a3a390f41dc6ede2b5e52f362f862",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.29/EARTH.Merge.Stems.Toolkit.1.29.dmg",
+  "sha256": "c8839f02984aa66ffa1fdcad69d59ccb7df62761085c574e3e47bf5acabd09a6",
   "releasedAt": "2026-11-06",
-  "headline": "Merge Reports: a cleaner window, per-column Set, and drops that keep working",
+  "headline": "Merge whole folders of reports, and keep only the final file",
   "highlights": [
-    "Merge Delivery Reports accepts drops after the first merge, not only on the empty window",
-    "Set Column: Fill Blanks or Overwrite All for Delivery Folder and Delivery Date, by language or for all",
-    "A cleaner Merge Delivery Reports window"
+    "Drop a folder on Merge Delivery Reports: every .xlsx inside is found and set up to merge",
+    "After merging, the original reports go to the Trash, keeping only the final file (optional)",
+    "One locked notes area in Templates, No language for templates, and LQA delivery removed"
   ]
 }
