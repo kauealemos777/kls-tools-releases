@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.27",
+  "latestVersion": "1.28",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.27/EARTH.Merge.Stems.Toolkit.1.27.dmg",
-  "sha256": "b3f27418de44224fb1b1ca3aebff9dc02eed37ec7f0cd699c96a434939fb702b",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.28/EARTH.Merge.Stems.Toolkit.1.28.dmg",
+  "sha256": "3e6c0ef04195f04ad63ed66f582be982b80a3a390f41dc6ede2b5e52f362f862",
   "releasedAt": "2026-11-06",
-  "headline": "CAPCOM - MIX DELIVERY folders, and one report tab per language",
+  "headline": "Merge Reports: a cleaner window, per-column Set, and drops that keep working",
   "highlights": [
-    "New folder hierarchy: CAPCOM - MIX DELIVERY, by language and cutscene with _Audio, _PT Session and _Video",
-    "Merged reports now have one tab per language, in the file and in the preview",
-    "Delivery reports dropped the NOTES and PT SESSION columns and versioning"
+    "Merge Delivery Reports accepts drops after the first merge, not only on the empty window",
+    "Set Column: Fill Blanks or Overwrite All for Delivery Folder and Delivery Date, by language or for all",
+    "A cleaner Merge Delivery Reports window"
   ]
 }
