@@ -1,14 +1,14 @@
 {
   "displayName": "EARTH - Merge Stems Toolkit",
-  "latestVersion": "1.26",
+  "latestVersion": "1.27",
   "installedAppName": "EARTH Merge Stems Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.26/EARTH.Merge.Stems.Toolkit.1.26.dmg",
-  "sha256": "df06a0a1b48f9dd1d711fef35551f4c8299f9d106f1dc4e396878294cd782076",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-merge-stems-toolkit-v1.27/EARTH.Merge.Stems.Toolkit.1.27.dmg",
+  "sha256": "b3f27418de44224fb1b1ca3aebff9dc02eed37ec7f0cd699c96a434939fb702b",
   "releasedAt": "2026-11-06",
-  "headline": "A language is now required, and Merge Reports takes drag and drop",
+  "headline": "CAPCOM - MIX DELIVERY folders, and one report tab per language",
   "highlights": [
-    "A language must be selected before generating: the button stays off until one is",
-    "The language box moved to the top of the panel and is much larger",
-    "Merge Delivery Reports accepts dropped reports and folders"
+    "New folder hierarchy: CAPCOM - MIX DELIVERY, by language and cutscene with _Audio, _PT Session and _Video",
+    "Merged reports now have one tab per language, in the file and in the preview",
+    "Delivery reports dropped the NOTES and PT SESSION columns and versioning"
   ]
 }
