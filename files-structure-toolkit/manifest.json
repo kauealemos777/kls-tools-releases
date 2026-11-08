@@ -1,14 +1,14 @@
 {
   "displayName": "Folder Structure Toolkit",
-  "latestVersion": "1.8",
+  "latestVersion": "1.9",
   "installedAppName": "Folder Structure Toolkit.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.8/Folder.Structure.Toolkit.1.8.dmg",
-  "sha256": "77e1d2ca8f06a01e37f24a5e63abca4c524ecdcf40b37f38ef784dfa24b22568",
-  "releasedAt": "2026-10-30",
-  "headline": "Folder trees you can edit, variations, tabs, and a rebuilt import window",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/files-structure-toolkit-v1.9/Folder.Structure.Toolkit.1.9.dmg",
+  "sha256": "5b0dc5505ac01f0de9986ef42455e4527c28386d0b95b79705397ee5f4165a7c",
+  "releasedAt": "2026-11-08",
+  "headline": "Edit folder trees on disk, folders-only structures, and copy/paste hierarchies",
   "highlights": [
-    "See a structure's whole folder tree; rename, find & replace, or remove folders — files follow",
-    "Variations: the same structure under different folder names, with a default always selected",
-    "Tabs instead of extra app copies, drag-and-drop library filing, and a quick action to clean empty folders"
+    "New Folders tool: rename, move, create and remove folders on disk — files travel with them",
+    "Folders-only structures check and build folder shapes, wherever the files are",
+    "Copy and paste folder hierarchies as paths, outlines or columns"
   ]
 }
