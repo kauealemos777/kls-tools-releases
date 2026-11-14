@@ -1,14 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.86",
+  "latestVersion": "1.87",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.86/KL.s.Audio.Localization.Toolbox.1.86.dmg",
-  "sha256": "4c8b5237b4256a409df751ca0e8a37fd332d7e80740c576b3b1957af74bccc37",
-  "releasedAt": "2026-10-30",
-  "headline": "Favorites is a tab now — and a revocation always sticks",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.87/KL.s.Audio.Localization.Toolbox.1.87.dmg",
+  "sha256": "c332860fac69b30489da95f50db62dea6eebf1b6457546f2f724e29cd1d4612a",
+  "releasedAt": "2026-11-13",
+  "headline": "EARTH - Mix PTSession Toolkit joins the Custom Tools shelf",
   "highlights": [
-    "The shelf bar is one centered set of tabs with bigger targets, and the Favorites tab shows your starred tools alone — every other tab brings the whole wall back",
-    "Your favorites live only behind their tab, so the wall stops listing the same tools twice",
-    "A revocation made from the web console can no longer be silently undone by the Mac's next save — the merge folds it in and says so"
+    "EARTH - Mix PTSession Toolkit builds the FINAL mix session from the ENG and ML RAW sessions, previewed before anything runs"
   ]
 }
