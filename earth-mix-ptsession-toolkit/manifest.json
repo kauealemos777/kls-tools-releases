@@ -1,0 +1,14 @@
+{
+  "displayName": "EARTH - Mix PTSession Toolkit",
+  "installedAppName": "EARTH - Mix PTSession Toolkit.app",
+  "latestVersion": "0.1",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/earth-mix-ptsession-toolkit-v0.1/EARTH.Mix.PTSession.Toolkit.0.1.dmg",
+  "sha256": "e3eb1c9bd9fc068e51dc0d5d2ba8cb04a7b79ed41d395b734018894779d7c437",
+  "releasedAt": "2026-11-13",
+  "headline": "First test build: ENG + ML RAW into the FINAL mix session",
+  "highlights": [
+    "Drop the ENG and ML RAW sessions and review every track, clip, fix and flag before anything runs",
+    "Each language is built from ENG (CHN from JPN) with plug-ins, sends and automation carried across",
+    "Language codes, track names and stems are fixed to the EARTH standard and listed before the build"
+  ]
+}
