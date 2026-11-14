@@ -1,12 +1,12 @@
 {
   "displayName": "KL's Audio Localization Toolbox",
-  "latestVersion": "1.87",
+  "latestVersion": "1.88",
   "installedAppName": "KL's Audio Localization Toolbox.app",
-  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.87/KL.s.Audio.Localization.Toolbox.1.87.dmg",
-  "sha256": "c332860fac69b30489da95f50db62dea6eebf1b6457546f2f724e29cd1d4612a",
+  "downloadURL": "https://github.com/kauealemos777/kls-tools-releases/releases/download/toolbox-v1.88/KL.s.Audio.Localization.Toolbox.1.88.dmg",
+  "sha256": "ade3619db203a6cdd116fc0dfb48d79684871bff4154e332ea6bf7ec2fae4e44",
   "releasedAt": "2026-11-13",
-  "headline": "EARTH - Mix PTSession Toolkit joins the Custom Tools shelf",
+  "headline": "EARTH - Mix PTSession Toolkit gets its own tile",
   "highlights": [
-    "EARTH - Mix PTSession Toolkit builds the FINAL mix session from the ENG and ML RAW sessions, previewed before anything runs"
+    "The EARTH - Mix PTSession Toolkit tile shows the app's new artwork"
   ]
 }
