@@ -1036,6 +1036,34 @@
       "tokenID" : "tok_C245D84E-1E4D-46CC-948A-E39C2CB39098",
       "updatedAt" : "2026-11-03T18:27:26Z",
       "username" : "Rafael Miranda"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "merge-stems-tool",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit",
+        "earth-mix-ptsession-toolkit"
+      ],
+      "hiddenProducts" : [
+        "script-toolkit",
+        "document-builder-toolkit",
+        "voice-fx-toolkit"
+      ],
+      "isAdmin" : false,
+      "revoked" : false,
+      "tokenID" : "tok_31194DAA-C722-4545-A83A-61C98AE09CC4",
+      "updatedAt" : "2026-11-14T01:05:02Z",
+      "username" : "Gustavo Bandeira"
     }
   ]
 }
