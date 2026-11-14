@@ -1116,6 +1116,32 @@
       "tokenID" : "tok_4D9A8832-C931-438F-8554-0AEF7AAFECBE",
       "updatedAt" : "2026-11-14T01:05:15Z",
       "username" : "Kaue Lemos"
+    },
+    {
+      "allowedProducts" : [
+        "preproduction-toolkit",
+        "distribution-toolkit",
+        "qa-toolkit",
+        "script-toolkit",
+        "merge-stems-tool",
+        "document-builder-toolkit",
+        "voice-fx-toolkit",
+        "video-converter-toolkit",
+        "file-renamer-toolkit",
+        "earth-backup-builder",
+        "earth-delivery-check-toolkit",
+        "audio-file-manager-toolkit",
+        "audio-files-match-toolkit",
+        "files-structure-toolkit",
+        "nlt1-merge-stems-toolkit",
+        "mastering-toolkit",
+        "earth-mix-ptsession-toolkit"
+      ],
+      "isAdmin" : true,
+      "revoked" : false,
+      "tokenID" : "tok_F2A330C6-BB3A-4750-B72D-6DA2B3C4B5E9",
+      "updatedAt" : "2026-11-14T01:05:18Z",
+      "username" : "Kaue Lemos"
     }
   ]
 }
